@@ -51,7 +51,7 @@ def getSerDet(type):
   rJson = json.loads(str)
   for item in rJson:
     s = requests.session()
-    req = requests.get(item['url'], verify = False)
+    req = requests.get(item['url'])
     req.close()
     if req.status_code == 200:
       soup = BeautifulSoup(req.text, 'html.parser')
@@ -84,6 +84,9 @@ def getSerDet(type):
           '' if einfoDom[2] == None else einfoDom[2].get_text().replace('\n','').replace(' ','')
         ]
         item['extraInformation'] = extraInformation
+        typeDomArr = soup.find('p', class_='mainInfomation').find('img')['src'].split('/')
+        typeName = typeDomArr[len(typeDomArr) - 1].split('.')[0]
+        item['typeEnergy'] = typeName
       if itemType == '招式':
         item['type'] = 'Pokemon'
       elif (itemType == '特殊能量卡' or itemType == '基本能量卡'):
