@@ -1,0 +1,17 @@
+{
+  "id": "8012",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8012/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008012.png",
+  "cardName": "毽子草",
+  "skillList": [
+    {
+      "name": "躍起閃避",
+      "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+    }
+  ],
+  "extraInformation": [
+    "No.187棉草寶可夢",
+    "身高0.4/體重0.5",
+    "會隨著風移動到很遠的地方。沒有人能具體指出帕底亞的毽子草是從哪裡來的。"
+  ]
+}
