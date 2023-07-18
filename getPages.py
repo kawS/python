@@ -84,6 +84,12 @@ def getSerDet(type):
           '' if einfoDom[2] == None else einfoDom[2].get_text().replace('\n','').replace(' ','')
         ]
         item['extraInformation'] = extraInformation
+      if itemType == '招式':
+        item['type'] = 'Pokemon'
+      elif (itemType == '特殊能量卡' or itemType == '基本能量卡'):
+        item['type'] = 'Energy'
+      else:
+        item['type'] = 'Trainers'
       item['cardName'] = cardName
       item['skillList'] = skillList
       toJsonFile(item, type + '-' + item['id'], type + '/')
@@ -94,7 +100,7 @@ def getSerDet(type):
   #   f.write(s)
 
 # getSerData()
-# getSerDet('SVC')
+getSerDet('SVC')
 
 
 def mixJson():
