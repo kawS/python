@@ -1,0 +1,25 @@
+{
+  "id": "8060",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8060/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008060.png",
+  "cardName": "古鼎鹿ex",
+  "skillList": [
+    {
+      "name": "[特性]咒縛大地",
+      "effect": "只要這隻寶可夢在戰鬥場上，對手場上的身上放置有傷害指示物的寶可夢（寶可夢【ex】除外）的特性全部消除。"
+    },
+    {
+      "name": "大地掬弄",
+      "effect": "在對手的1隻備戰寶可夢身上放置2個傷害指示物。"
+    },
+    {
+      "name": "[ex規則]",
+      "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+    }
+  ],
+  "extraInformation": [
+    "No.1003",
+    "",
+    ""
+  ]
+}

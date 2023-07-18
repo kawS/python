@@ -1,0 +1,25 @@
+{
+  "id": "8046",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8046/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008046.png",
+  "cardName": "巨鍛匠ex",
+  "skillList": [
+    {
+      "name": "大錘",
+      "effect": "造成自己的手牌的張數×30點傷害。"
+    },
+    {
+      "name": "粉碎壓制",
+      "effect": "這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。"
+    },
+    {
+      "name": "[ex規則]",
+      "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+    }
+  ],
+  "extraInformation": [
+    "No.959",
+    "",
+    ""
+  ]
+}

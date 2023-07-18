@@ -1,0 +1,21 @@
+{
+  "id": "8049",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8049/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008049.png",
+  "cardName": "泥泥鰍",
+  "skillList": [
+    {
+      "name": "躲藏",
+      "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+    },
+    {
+      "name": "擲泥",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.339鬚魚寶可夢",
+    "身高0.4/體重1.9",
+    "２根鬍子是靈敏的雷達。即使在因為泥濘而渾濁的水中，也能偵查到獵物的位置。"
+  ]
+}

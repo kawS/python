@@ -1,0 +1,21 @@
+{
+  "id": "8033",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8033/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008033.png",
+  "cardName": "啪嚓海膽",
+  "skillList": [
+    {
+      "name": "麻痺針",
+      "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+    },
+    {
+      "name": "啪啪追擊",
+      "effect": "這個招式必須在上個自己的回合這隻寶可夢使用了「麻痺針」才可使用。"
+    }
+  ],
+  "extraInformation": [
+    "No.871海膽寶可夢",
+    "身高0.3/體重1.0",
+    "消化食物時會製造出電力。５顆堅硬的牙齒能用來把海藻連根拔起來吃。"
+  ]
+}

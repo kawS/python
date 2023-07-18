@@ -1,0 +1,21 @@
+{
+  "id": "8066",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8066/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008066.png",
+  "cardName": "塗標客",
+  "skillList": [
+    {
+      "name": "毒液",
+      "effect": "將對手的戰鬥寶可夢【中毒】。"
+    },
+    {
+      "name": "鮮豔塗鴉",
+      "effect": "從自己的手牌將任意數量的基本能量卡丟棄，造成丟棄的基本能量卡的屬性種類的數量×40點傷害。"
+    }
+  ],
+  "extraInformation": [
+    "No.945毒猴寶可夢",
+    "身高0.7/體重27.2",
+    "會將能隨著吃下的食物而變色的毒唾液塗在指頭上，在森林的樹木描繪上圖案。"
+  ]
+}

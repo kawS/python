@@ -1,0 +1,21 @@
+{
+  "id": "8038",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8038/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008038.png",
+  "cardName": "胖可丁",
+  "skillList": [
+    {
+      "name": "[特性] 氣球治療",
+      "effect": "在自己的回合時可使用1次。從自己的手牌選擇1張「治療能量」卡，附於自己的寶可夢身上。"
+    },
+    {
+      "name": "魔法射擊",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.40氣球寶可夢",
+    "身高1.0/體重12.0",
+    "擁有細緻的毛皮。小心別惹牠生氣，否則牠會不斷膨脹並朝著你壓過來。"
+  ]
+}

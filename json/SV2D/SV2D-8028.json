@@ -1,0 +1,21 @@
+{
+  "id": "8028",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8028/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008028.png",
+  "cardName": "皮卡丘",
+  "skillList": [
+    {
+      "name": "叫聲",
+      "effect": "在下個對手的回合，受到這個招式的寶可夢使用招式的傷害「-20」點。"
+    },
+    {
+      "name": "皮卡伏特",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.25鼠寶可夢",
+    "身高0.4/體重6.0",
+    "雙頰上有儲存電力的囊袋。一旦生氣就會把儲存的電力一口氣釋放出來。"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "8043",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8043/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008043.png",
+  "cardName": "小鍛匠",
+  "skillList": [
+    {
+      "name": "撿鐵屑",
+      "effect": "從自己的棄牌區選擇1張物品卡，在給對手看過後加入手牌。"
+    },
+    {
+      "name": "妖精之風",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.957錘鍊寶可夢",
+    "身高0.4/體重8.9",
+    "雖然會揮舞著手工打造的錘子來保護自己，但卻常被以金屬為食的寶可夢搶走。"
+  ]
+}

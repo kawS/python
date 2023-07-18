@@ -1,0 +1,21 @@
+{
+  "id": "8073",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8073/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008073.png",
+  "cardName": "一對鼠",
+  "skillList": [
+    {
+      "name": "呼喚",
+      "effect": "從自己的牌庫抽出2張卡。"
+    },
+    {
+      "name": "重摑",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.924成對寶可夢",
+    "身高0.3/體重1.8",
+    "會以絕佳的團隊合作，把能當成巢穴建材的東西用門牙切斷後搬走。"
+  ]
+}

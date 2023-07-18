@@ -1,0 +1,17 @@
+{
+  "id": "8051",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8051/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008051.png",
+  "cardName": "不良蛙",
+  "skillList": [
+    {
+      "name": "毒針",
+      "effect": "將對手的戰鬥寶可夢【中毒】。"
+    }
+  ],
+  "extraInformation": [
+    "No.453毒擊寶可夢",
+    "身高0.7/體重23.0",
+    "會鼓起毒囊鳴叫。讓四周響起詭異的聲音，等對手畏縮，便施以毒擊。"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "8016",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8016/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008016.png",
+  "cardName": "佛烈托斯ex",
+  "skillList": [
+    {
+      "name": "[太晶]",
+      "effect": "只要這隻寶可夢在備戰區，不會受到招式的傷害。"
+    },
+    {
+      "name": "[特性]爆裂能量",
+      "effect": "在自己的回合時可使用1次，若使用，則將這隻寶可夢【昏厥】。從自己的牌庫選擇最多5張「基本【草】能量」卡，以任意方式附於自己的寶可夢身上。並且重洗牌庫。"
+    },
+    {
+      "name": "防守壓制",
+      "effect": "在下個對手的回合，這隻寶可夢受到招式的傷害「-30」點。"
+    },
+    {
+      "name": "[ex規則]",
+      "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+    }
+  ],
+  "extraInformation": [
+    "No.205",
+    "",
+    ""
+  ]
+}

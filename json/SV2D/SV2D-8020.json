@@ -1,0 +1,21 @@
+{
+  "id": "8020",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8020/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008020.png",
+  "cardName": "操陷蛛",
+  "skillList": [
+    {
+      "name": "捲入陷阱",
+      "effect": "將雙方的戰鬥寶可夢與附加的卡，全部放回各自的牌庫並重洗。[自己先將下一隻寶可夢放置於戰鬥場。]"
+    },
+    {
+      "name": "頭突",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.918陷阱寶可夢",
+    "身高1.0/體重16.5",
+    "用絲線吸附在樹枝或天花板上無聲無息地移動。會在自己被察覺到之前將獵物打倒。"
+  ]
+}

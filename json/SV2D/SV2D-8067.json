@@ -1,0 +1,21 @@
+{
+  "id": "8067",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8067/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008067.png",
+  "cardName": "下石鳥",
+  "skillList": [
+    {
+      "name": "親送口袋",
+      "effect": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
+    },
+    {
+      "name": "暗黑刀鋒",
+      "effect": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+    }
+  ],
+  "extraInformation": [
+    "No.962掉東西寶可夢",
+    "身高1.5/體重42.9",
+    "會把東西裝在用胸部的絨羽和脫落的羽毛做成的袋子裡，然後從高處往下丟來玩耍。"
+  ]
+}

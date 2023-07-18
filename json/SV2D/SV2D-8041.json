@@ -1,0 +1,21 @@
+{
+  "id": "8041",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8041/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008041.png",
+  "cardName": "噬沙堡爺",
+  "skillList": [
+    {
+      "name": "陰森射擊",
+      "effect": ""
+    },
+    {
+      "name": "大地能量",
+      "effect": "若場上有自己的競技場卡，則增加80點傷害。"
+    }
+  ],
+  "extraInformation": [
+    "No.770沙堡寶可夢",
+    "身高1.3/體重250.0",
+    "會把小型寶可夢吸進沙子構成的身體裡，任憑自己吸取精氣的恐怖寶可夢。"
+  ]
+}

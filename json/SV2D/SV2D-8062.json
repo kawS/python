@@ -1,0 +1,21 @@
+{
+  "id": "8062",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8062/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008062.png",
+  "cardName": "瑪狃拉",
+  "skillList": [
+    {
+      "name": "[特性]進擊狩獵",
+      "effect": "在自己的回合，從備戰區將這隻寶可夢放置於戰鬥場時，可使用1次。選擇1隻對手的備戰區的【基礎】寶可夢，與戰鬥寶可夢互換。"
+    },
+    {
+      "name": "利爪揮砍",
+      "effect": ""
+    }
+  ],
+  "extraInformation": [
+    "No.461鉤爪寶可夢",
+    "身高1.1/體重34.0",
+    "進化後變得更加狡詐，會用爪子在石頭上留下記號和夥伴交流。"
+  ]
+}

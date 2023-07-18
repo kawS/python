@@ -1,0 +1,25 @@
+{
+  "id": "8069",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8069/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008069.png",
+  "cardName": "音波龍ex",
+  "skillList": [
+    {
+      "name": "隱密飛行",
+      "effect": "在下個對手的回合，這隻寶可夢不會受到【基礎】寶可夢招式的傷害。"
+    },
+    {
+      "name": "制控迴響",
+      "effect": "在下個對手的回合，對手無法從手牌附上特殊能量卡，也無法使出競技場卡。"
+    },
+    {
+      "name": "[ex規則]",
+      "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+    }
+  ],
+  "extraInformation": [
+    "No.715",
+    "",
+    ""
+  ]
+}

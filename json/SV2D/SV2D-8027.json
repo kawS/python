@@ -1,0 +1,25 @@
+{
+  "id": "8027",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/8027/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008027.png",
+  "cardName": "古玉魚ex",
+  "skillList": [
+    {
+      "name": "嫉妒灼燒",
+      "effect": "將對手的牌庫上方2張卡丟棄。"
+    },
+    {
+      "name": "火焰巨浪",
+      "effect": "選擇最多3隻自己的備戰寶可夢，從牌庫附給那些寶可夢各1張「基本【火】能量」卡。並且重洗牌庫。"
+    },
+    {
+      "name": "[ex規則]",
+      "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+    }
+  ],
+  "extraInformation": [
+    "No.1004",
+    "",
+    ""
+  ]
+}
