@@ -6,8 +6,8 @@ import time
 import os
 
 exReg = re.compile(r'\d+')
-# typeList = ['SV2D', 'SV2P']
-typeList = ['SV2P']
+# typeList = ['SV2D', 'SV2P', 'SV1a', 'SVC]
+typeList = ['SVC']
 resultList = []
 
 def parse(items):
@@ -51,7 +51,6 @@ def getSerDet(type):
   rJson = json.loads(str)
   for item in rJson:
     s = requests.session()
-    s.keep_alive = False
     req = requests.get(item['url'], verify = False)
     req.close()
     if req.status_code == 200:
@@ -89,16 +88,27 @@ def getSerDet(type):
       item['skillList'] = skillList
       toJsonFile(item, type + '-' + item['id'], type + '/')
       print(item['id'])
-      time.sleep(15)
+    time.sleep(20)
   # s = json.dumps(rJson, indent = 2, ensure_ascii = False)
   # with open('./json/' + type + '.json', 'w', encoding = 'utf-8') as f:
   #   f.write(s)
 
 # getSerData()
-getSerDet('SV2P')
+# getSerDet('SVC')
 
 
 def mixJson():
-  with open('./json/SV2D.json', 'w', encoding = 'utf-8') as f:
-    for fileJson in os.listdir('./json/SV2D'):
-      print('./json/SV2D', fileJson)
+  list = []
+  path = './json/SVC'
+  for file in os.listdir(path):
+    if file == '.DS_Store':
+      continue
+    with open(path + '/' + file, 'r', encoding = 'utf-8') as fs:
+      fileCons = fs.read()
+    cons = json.loads(fileCons)
+    list.append(cons)
+  jsonTxt = json.dumps(list, indent = 2, ensure_ascii = False)
+  with open('./json/SVC.json', 'w', encoding = 'utf-8') as f:
+    f.write(jsonTxt)
+
+# mixJson()
