@@ -51,7 +51,8 @@ def getSerDet(type):
   rJson = json.loads(str)
   for item in rJson:
     s = requests.session()
-    req = requests.get(item['url'])
+    s.keep_alive = False
+    req = requests.get(item['url'], verify = False)
     req.close()
     if req.status_code == 200:
       soup = BeautifulSoup(req.text, 'html.parser')
@@ -103,21 +104,4 @@ def getSerDet(type):
   #   f.write(s)
 
 # getSerData()
-getSerDet('SVC')
-
-
-def mixJson():
-  list = []
-  path = './json/SVC'
-  for file in os.listdir(path):
-    if file == '.DS_Store':
-      continue
-    with open(path + '/' + file, 'r', encoding = 'utf-8') as fs:
-      fileCons = fs.read()
-    cons = json.loads(fileCons)
-    list.append(cons)
-  jsonTxt = json.dumps(list, indent = 2, ensure_ascii = False)
-  with open('./json/SVC.json', 'w', encoding = 'utf-8') as f:
-    f.write(jsonTxt)
-
-# mixJson()
+# getSerDet('SVC')
