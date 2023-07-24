@@ -1,22 +1,24 @@
 import os
 import json
 import re
-import opencc
+from opencc import OpenCC
 
-def mixJson():
-  list = []
-  path = './json/type'
+def mixJson(typename):
+  lists = []
+  path = './json/' + typename
   for file in os.listdir(path):
+    if file == '.DS_Store':
+      continue
     with open(path + '/' + file, 'r', encoding = 'utf-8') as f:
       fileCons = f.read()
     cons = json.loads(fileCons)
-    # list.append(cons)
-    list = list + cons
-  jsonTxt = json.dumps(list, indent = 2, ensure_ascii = False)
-  with open('./json/type/tar.json', 'w', encoding = 'utf-8') as f:
+    lists.append(cons)
+    # lists = lists + cons
+  jsonTxt = json.dumps(lists, indent = 2, ensure_ascii = False)
+  with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as f:
     f.write(jsonTxt)
 
-# mixJson()
+# mixJson('S10b')
 
 def setAttr():
   with open('./json/demo.json', 'r', encoding = 'utf-8') as f:
@@ -37,8 +39,8 @@ def setAttr():
 # setAttr()
 
 def toZhCn():
-  converter = opencc.OpenCC('t2s.json')
-  with open('./json/demo.json', 'r', encoding = 'utf-8') as f:
+  converter = OpenCC('t2s')
+  with open('./json/temp.json', 'r', encoding = 'utf-8') as f:
     file = f.read()
   cons = json.loads(file)
   for item in cons:
@@ -52,7 +54,7 @@ def toZhCn():
         # print(s)
   # print(cons[0])
   jsonTxt = json.dumps(cons, indent = 2, ensure_ascii = False)
-  with open('./json/demo.json', 'w', encoding = 'utf-8') as f:
+  with open('./json/temp.json', 'w', encoding = 'utf-8') as f:
     f.write(jsonTxt)
 
 # toZhCn()
@@ -129,3 +131,24 @@ def setAttrType():
         f.write(jsonTxt)
 
 # setAttrType()
+
+
+def setDet(typename):
+  listNew = []
+  with open('./json/' + typename + '.json', 'r', encoding = 'utf-8') as f:
+    list = f.read()
+  jObj = json.loads(list)
+  for jtxt in jObj:
+    id = jtxt['id']
+    for file in os.listdir('./json/' + typename):
+      with open('./json/' + typename + '/' + file, 'r', encoding = 'utf-8') as ff:
+        if file == '.DS_Store':
+          continue
+        v = json.loads(ff.read())
+        if v['id'] == id:
+          listNew.append(v)
+  jsonTar = json.dumps(listNew, indent = 2, ensure_ascii = False)
+  with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as t:
+    t.write(jsonTar)
+
+setDet('S11')
