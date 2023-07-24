@@ -1,13 +1,15 @@
 from bs4 import BeautifulSoup
 import requests
+import urllib3
 import json
 import re
 import time
 import os
+from opencc import OpenCC
 
 exReg = re.compile(r'\d+')
-# typeList = ['SV2D', 'SV2P', 'SV1a', 'SVC]
-typeList = ['SVC']
+# typeList = ['SV2D', 'SV2P', 'SV1a', 'SVC', 'SV1S', 'SV1V', 'SO', 'S12a']
+typeList = ['S10D']
 resultList = []
 
 def parse(items):
@@ -46,14 +48,21 @@ def getSerData():
     startGet(typeList[index], 1)
 
 def getSerDet(type):
+  index = 0
+  converter = OpenCC('t2s')
   with open('./json/' + type + '.json', 'r', encoding = 'utf-8') as f:
-    str = f.read()
-  rJson = json.loads(str)
+    jStr = f.read()
+  rJson = json.loads(jStr)
+  itemCount = len(rJson)
   for item in rJson:
+    requests.DEFAULT_RETRIES = 10
     s = requests.session()
     s.keep_alive = False
-    req = requests.get(item['url'], verify = False)
+    urllib3.disable_warnings()
+    print(item['id'] + ' - start')
+    req = requests.get(item['url'])
     req.close()
+    time.sleep(20)
     if req.status_code == 200:
       soup = BeautifulSoup(req.text, 'html.parser')
       cardNameDom = soup.find('li', class_='step active')
@@ -69,8 +78,8 @@ def getSerDet(type):
         effect = dom.find('p', class_='skillEffect').get_text()
         if name != '' or (name == '' and (itemType == '物品卡' or itemType == '支援者卡' or itemType == '寶可夢道具' or itemType == '競技場卡' or itemType == '特殊能量卡' or itemType == '基本能量卡')):
           skillList.append({
-            'name': name,
-            'effect': effect.strip().replace('\n','')
+            'name': converter.convert(name),
+            'effect': converter.convert(effect.strip().replace('\n',''))
           })
       # if itemType != '物品卡' and itemType != '支援者卡' and itemType != '寶可夢道具' and itemType != '競技場卡' and itemType != '特殊能量卡' and itemType != '基本能量卡':
       if itemType == '招式':
@@ -80,9 +89,9 @@ def getSerDet(type):
           soup.find('p', class_='discription')
         ]
         extraInformation = [
-          '' if einfoDom[0] == None else einfoDom[0].get_text().replace('\n','').replace(' ',''),
-          '' if einfoDom[1] == None else einfoDom[1].get_text().replace('\n','').replace(' ',''),
-          '' if einfoDom[2] == None else einfoDom[2].get_text().replace('\n','').replace(' ','')
+          '' if einfoDom[0] == None else converter.convert(einfoDom[0].get_text().replace('\n','').replace(' ','')),
+          '' if einfoDom[1] == None else converter.convert(einfoDom[1].get_text().replace('\n','').replace(' ','')),
+          '' if einfoDom[2] == None else converter.convert(einfoDom[2].get_text().replace('\n','').replace(' ',''))
         ]
         item['extraInformation'] = extraInformation
         typeDomArr = soup.find('p', class_='mainInfomation').find('img')['src'].split('/')
@@ -94,14 +103,15 @@ def getSerDet(type):
         item['type'] = 'Energy'
       else:
         item['type'] = 'Trainers'
-      item['cardName'] = cardName
+      item['cardName'] = converter.convert(cardName)
       item['skillList'] = skillList
       toJsonFile(item, type + '-' + item['id'], type + '/')
-      print(item['id'])
-    time.sleep(20)
+      # toJsonFile(item, type + '-' + item['id'], '')
+      index += 1
+      print('(' + str(index) + ' / ' + str(itemCount) + ')' + ' end')
   # s = json.dumps(rJson, indent = 2, ensure_ascii = False)
   # with open('./json/' + type + '.json', 'w', encoding = 'utf-8') as f:
   #   f.write(s)
 
 # getSerData()
-# getSerDet('SVC')
+# getSerDet('S11')
