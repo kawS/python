@@ -8,8 +8,7 @@ import os
 from opencc import OpenCC
 
 exReg = re.compile(r'\d+')
-# typeList = ['SV2D', 'SV2P', 'SV1a', 'SVC', 'SV1S', 'SV1V', 'SO', 'S12a']
-typeList = ['S10D']
+typeList = ['SV6']
 resultList = []
 
 def parse(items):
@@ -55,7 +54,7 @@ def getSerDet(type):
   rJson = json.loads(jStr)
   itemCount = len(rJson)
   for item in rJson:
-    requests.DEFAULT_RETRIES = 10
+    requests.DEFAULT_RETRIES = 5
     s = requests.session()
     s.keep_alive = False
     urllib3.disable_warnings()
@@ -109,9 +108,33 @@ def getSerDet(type):
       # toJsonFile(item, type + '-' + item['id'], '')
       index += 1
       print('(' + str(index) + ' / ' + str(itemCount) + ')' + ' end')
+      if index == itemCount:
+        print('all over')
   # s = json.dumps(rJson, indent = 2, ensure_ascii = False)
   # with open('./json/' + type + '.json', 'w', encoding = 'utf-8') as f:
   #   f.write(s)
 
 # getSerData()
-# getSerDet('S11')
+getSerDet('SV6')
+
+
+# _list = ['CRZ', 'SIT', 'LOR', 'PGO', 'ASR', 'BRS', 'FST', 'CEL', 'BST']
+# _url = 'https://limitlesstcg.com/cards/'
+# result = {}
+# for type in _list:
+#   time.sleep(2)
+#   result[type] = []
+#   tcgurl = _url + type
+#   req = requests.get(tcgurl)
+#   if req.status_code == 200:
+#     soup = BeautifulSoup(req.text, 'html.parser')
+#     imgs = soup.find_all('img', class_='card')
+#     for img in imgs:
+#       result[type].append(img['src'])
+#   req.close()
+#   s = json.dumps(result[type], indent = 2, ensure_ascii = False)
+#   with open(type + '.json', 'w', encoding = 'utf-8') as f:
+#     f.write(s)
+
+
+
