@@ -8,7 +8,6 @@ import os
 from opencc import OpenCC
 
 exReg = re.compile(r'\d+')
-typeList = ['SV6']
 resultList = []
 
 def parse(items):
@@ -38,6 +37,7 @@ def startGet(type, pi):
 def toJsonFile(data, type, filepath = ''):
   s = json.dumps(data, indent = 2, ensure_ascii = False)
   fname = './json/' + filepath + type + '.json'
+  print(fname)
   with open(fname, 'w', encoding = 'utf-8') as f:
     f.write(s)
 
@@ -104,8 +104,8 @@ def getSerDet(type):
         item['type'] = 'Trainers'
       item['cardName'] = converter.convert(cardName)
       item['skillList'] = skillList
-      toJsonFile(item, type + '-' + item['id'], type + '/')
-      # toJsonFile(item, type + '-' + item['id'], '')
+      # toJsonFile(item, type + '-' + item['id'], type + '/')
+      toJsonFile(item, type + '-' + item['id'], '')
       index += 1
       print('(' + str(index) + ' / ' + str(itemCount) + ')' + ' end')
       if index == itemCount:
@@ -114,27 +114,8 @@ def getSerDet(type):
   # with open('./json/' + type + '.json', 'w', encoding = 'utf-8') as f:
   #   f.write(s)
 
+# set 1:
+typeList = ['SV7']
 # getSerData()
-getSerDet('SV6')
-
-
-# _list = ['CRZ', 'SIT', 'LOR', 'PGO', 'ASR', 'BRS', 'FST', 'CEL', 'BST']
-# _url = 'https://limitlesstcg.com/cards/'
-# result = {}
-# for type in _list:
-#   time.sleep(2)
-#   result[type] = []
-#   tcgurl = _url + type
-#   req = requests.get(tcgurl)
-#   if req.status_code == 200:
-#     soup = BeautifulSoup(req.text, 'html.parser')
-#     imgs = soup.find_all('img', class_='card')
-#     for img in imgs:
-#       result[type].append(img['src'])
-#   req.close()
-#   s = json.dumps(result[type], indent = 2, ensure_ascii = False)
-#   with open(type + '.json', 'w', encoding = 'utf-8') as f:
-#     f.write(s)
-
-
-
+# set 2:
+# getSerDet('SV7')

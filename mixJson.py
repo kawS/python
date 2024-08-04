@@ -138,6 +138,7 @@ def setDetList(typename, stype):
   with open('./json/' + typename + '.json', 'r', encoding = 'utf-8') as f:
     list = f.read()
   jObj = json.loads(list)
+  # print(jObj)
   for jtxt in jObj:
     id = jtxt['id']
     for file in os.listdir('./json/' + typename):
@@ -156,32 +157,12 @@ def setDetList(typename, stype):
   with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as t:
     t.write(jsonTar)
 
-# setDetList('SV4a', 'SV4.5')
-
-# set 3:
-def setEnImg(typename, sname):
-  index = 1
-  listNew = []
-  with open('./lastJson/' + typename + '.json', 'r', encoding = 'utf-8') as f:
-    list = f.read()
-  jObj = json.loads(list)
-  for jtxt in jObj:
-    pindex = str(index).zfill(3)
-    jtxt['enImgUrl'] = 'https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/' + sname + '/' + sname + '_' + pindex + '_R_EN.png'
-    # jtxt['enImgUrl'] = 'https://tcg.pokemon.com/assets/img/sv-expansions/' + sname + '/cards/en-us/' + sfile + '_' + str(index) + '-2x.jpg'
-    # jtxt['enImgUrl'] = 'https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_' + str(index) + '.png'
-    jtxt['cardNo'] = str(index)
-    if index > 91:
-      jtxt['isHide'] = 'true'
-    listNew.append(jtxt)
-    index += 1
-  jsonTar = json.dumps(listNew, indent = 2, ensure_ascii = False)
-  with open('./lastJson/' + typename + '.json', 'w', encoding = 'utf-8') as t:
-    t.write(jsonTar)
-
-# setEnImg('SV4_5', 'PAF')
+# setDetList('SV7', 'SV7')
 
 # set 2:
+# let items = document.querySelectorAll('.card-page-main');
+# let arr = [], index = 0;
+# for(let i=0;i<items.length;i++){let item = items[i];arr.push({ename: item.querySelector('.card-text-name a').innerHTML, enImgUrl: item.querySelector('.card').getAttribute('data-src'), cardNo: `${index + 1}`});index++}
 def wrIdNameAIMG(fname, elist, picindex):
   with open('./lastJson/' + fname + '.json', 'r', encoding = 'utf-8') as f:
     _list = f.read()
@@ -191,27 +172,28 @@ def wrIdNameAIMG(fname, elist, picindex):
   with open('./enInfo/' + elist, 'r', encoding = 'utf-8') as fs:
     _l = fs.read()
     item = json.loads(_l)
-  for jtxt in jObj:
-    jtxt['ename'] = item[index]['ename']
-    jtxt['enImgUrl'] = item[index]['enImgUrl']
-    jtxt['cardNo'] = item[index]['cardNo']
+  for jtxt in jObj['result']:
+    jtxt['ename'] = item['result'][index]['ename']
+    jtxt['enImgUrl'] = item['result'][index]['enImgUrl']
+    jtxt['cardNo'] = item['result'][index]['cardNo']
     if index > picindex:
-      jtxt['imgUrl'] = item[index]['enImgUrl']
+      jtxt['imgUrl'] = item['result'][index]['enImgUrl']
       jtxt['isHide'] = 'true'
     index += 1
   jsonTar = json.dumps(jObj, indent = 2, ensure_ascii = False)
   with open('./lastJson/' + fname + '.json', 'w', encoding = 'utf-8') as w:
     w.write(jsonTar)
       
-# wrIdNameAIMG('SV6', 'sv6.json', 166)
+wrIdNameAIMG('SV7', 'SV7.json', 102)
 
 # 索引
-# set 4:
+# set 3:
 def setSeries(pfile):
   file = './lastJson/' + pfile + '.json'
   with open(file, 'r', encoding = 'utf-8') as f:
     tempData = f.read()
   list = json.loads(tempData)
+  list = list['result']
   arr = []
   for item in list:
     # print(item)
@@ -226,19 +208,19 @@ def setSeries(pfile):
     w.write(json.dumps(arr, separators = (',', ':'), ensure_ascii = False))
     # w.write(json.dumps(arr, indent = 2, ensure_ascii = False))
 
-# setSeries('SV6')
+# setSeries('SV1')
 
 # 合并索引
-flist = ['SV6', 'SV5', 'SV4_5', 'SV4', 'SV3_5', 'SV3', 'SV2', 'SV1']
+flist = ['SV6_5', 'SV6', 'SV5', 'SV4_5', 'SV4', 'SV3_5', 'SV3', 'SV2', 'SV1']
 # flist = ['SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9']
-arr = []
-for item in flist:
-  with open('./lastJson/' + item + '-series.json', 'r', encoding = 'utf-8') as f:
-    temp = f.read()
-  j = json.loads(temp)
-  arr = arr + j
-with open('./lastJson/SV-series.json', 'w', encoding = 'utf-8') as w:
-  w.write(json.dumps(arr, separators = (',', ':'), ensure_ascii = False))
+# arr = []
+# for item in flist:
+#   with open('./lastJson/' + item + '-series.json', 'r', encoding = 'utf-8') as f:
+#     temp = f.read()
+#   j = json.loads(temp)
+#   arr = arr + j
+# with open('./lastJson/SV-series.json', 'w', encoding = 'utf-8') as w:
+#   w.write(json.dumps(arr, separators = (',', ':'), ensure_ascii = False))
 
 
 

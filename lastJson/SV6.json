@@ -1,0 +1,4602 @@
+{
+	"result": [{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010248.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "蔓藤怪",
+			"skillList": [{
+					"name": "重掴",
+					"effect": ""
+				},
+				{
+					"name": "藤蔓攻击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Tangela",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_001_R_EN.png",
+			"cardNo": "1"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010249.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "巨蔓藤",
+			"skillList": [{
+					"name": "[特性]密林之躯",
+					"effect": "这只宝可梦受到招式的伤害「-30」点。"
+				},
+				{
+					"name": "覆盖",
+					"effect": "减少这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Tangrowth",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_002_R_EN.png",
+			"cardNo": "2"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010250.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "凯罗斯",
+			"skillList": [{
+					"name": "慢嚼碎",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃。在下个对手的回合结束时，受到这个招式的宝可梦会【昏厥】。"
+				},
+				{
+					"name": "怪力角击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Pinsir",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_003_R_EN.png",
+			"cardNo": "3",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_168_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010251.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "圆丝蛛",
+			"skillList": [{
+				"name": "虫咬",
+				"effect": ""
+			}],
+			"series": "SV6",
+			"ename": "Spinarak",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_004_R_EN.png",
+			"cardNo": "4"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010252.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "阿利多斯",
+			"skillList": [{
+					"name": "[特性]大网",
+					"effect": "只要这只宝可梦在场上，对手的战斗场的进化宝可梦【撤退】所需的能量增加1个。"
+				},
+				{
+					"name": "线带缠绕",
+					"effect": "增加对手的战斗宝可梦【撤退】所需的能量的数量×30点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Ariados",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_005_R_EN.png",
+			"cardNo": "5"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010415.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "向日种子",
+			"skillList": [{
+				"name": "种子机关枪",
+				"effect": "掷4次硬币，造成正面出现的次数×10点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Sunkern",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_006_R_EN.png",
+			"cardNo": "6"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010416.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "向日花怪",
+			"skillList": [{
+					"name": "光返",
+					"effect": "造成对手的所有宝可梦身上附加的【火】能量的数量×60点伤害。"
+				},
+				{
+					"name": "超级吸取",
+					"effect": "将这只宝可梦恢复「30」HP。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sunflora",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_007_R_EN.png",
+			"cardNo": "7",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_169_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010417.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "赫拉克罗斯",
+			"skillList": [{
+					"name": "泰山压顶",
+					"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+				},
+				{
+					"name": "地球上投",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Heracross",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_008_R_EN.png",
+			"cardNo": "8"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010418.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "电萤虫",
+			"skillList": [{
+					"name": "急速信号",
+					"effect": "这个招式可在先攻玩家的最初回合使用。从自己的牌库选择最多2张【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
+				},
+				{
+					"name": "联合攻击",
+					"effect": "若自己的备战区有「甜甜萤」，则增加60点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Volbeat",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_009_R_EN.png",
+			"cardNo": "9"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010419.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "甜甜萤",
+			"skillList": [{
+					"name": "慢芬香",
+					"effect": "这个招式只可在后攻玩家的最初回合使用。选择1只对手的备战宝可梦，将那只宝可梦与附加的卡全部放回对手的牌库并重洗。"
+				},
+				{
+					"name": "滑翔",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Illumise",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_010_R_EN.png",
+			"cardNo": "10"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010253.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "叶伊布",
+			"skillList": [{
+					"name": "嫩叶之恩",
+					"effect": "从自己的手牌选择1张「基本【草】能量」卡，附于备战宝可梦身上。然后，将附上那张卡的宝可梦的HP全部恢复。"
+				},
+				{
+					"name": "日光束",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Leafeon",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_011_R_EN.png",
+			"cardNo": "11"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010420.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "小木灵",
+			"skillList": [{
+				"name": "寄生种子",
+				"effect": "将这只宝可梦恢复「20」HP。"
+			}],
+			"series": "SV6",
+			"ename": "Phantump",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_012_R_EN.png",
+			"cardNo": "12"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010421.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "朽木妖",
+			"skillList": [{
+					"name": "终极吸取",
+					"effect": "将这只宝可梦恢复对对手的战斗宝可梦造成的伤害相同数值的HP。"
+				},
+				{
+					"name": "森林抛掷",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Trevenant",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_013_R_EN.png",
+			"cardNo": "13"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010422.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "敲音猴",
+			"skillList": [{
+					"name": "踢飞",
+					"effect": ""
+				},
+				{
+					"name": "木枝突刺",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Grookey",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_014_R_EN.png",
+			"cardNo": "14"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010423.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "啪咚猴",
+			"skillList": [{
+					"name": "[特性]冲冲鼓",
+					"effect": "若自己的战斗宝可梦为拥有特性「祭典乐舞」的宝可梦，则在自己的回合时可使用1次。从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "敲击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Thwackey",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_015_R_EN.png",
+			"cardNo": "15"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010424.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "轰擂金刚猩",
+			"skillList": [{
+					"name": "鼓击",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦使用招式所需的能量与【撤退】所需的能量，各增加1个【无】能量。"
+				},
+				{
+					"name": "木槌",
+					"effect": "这只宝可梦也受到50点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Rillaboom",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_016_R_EN.png",
+			"cardNo": "16"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010425.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "啃果虫",
+			"skillList": [{
+				"name": "回转攻击",
+				"effect": "掷1次硬币若为正面，则增加20点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Applin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_017_R_EN.png",
+			"cardNo": "17"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010426.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "裹蜜虫",
+			"skillList": [{
+					"name": "[特性]祭典乐舞",
+					"effect": "若场上有「祭典会场」，则这只宝可梦可使用持有的招式2次。（若对手的战斗宝可梦因第1次的招式而【昏厥】了，则在下一只宝可梦放置后，使用第2次的招式。）"
+				},
+				{
+					"name": "朋友之环",
+					"effect": "造成自己的备战宝可梦的数量×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Dipplin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_018_R_EN.png",
+			"cardNo": "18",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_170_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010254.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "铁斑叶",
+			"skillList": [{
+					"name": "补全之网",
+					"effect": "从自己的弃牌区选择最多2张宝可梦卡，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "复仇刀锋",
+					"effect": "在上个对手的回合，若自己的宝可梦因招式的伤害而【昏厥】了，则增加60点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Iron Leaves",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_019_R_EN.png",
+			"cardNo": "19"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010255.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "斯魔茶",
+			"skillList": [{
+					"name": "[特性]藏隐",
+					"effect": "只要这只宝可梦在备战区，不会受到对手的宝可梦招式的伤害与效果的影响。"
+				},
+				{
+					"name": "钩住",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Poltchageist",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_020_R_EN.png",
+			"cardNo": "20",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_171_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010427.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "斯魔茶",
+			"skillList": [{
+					"name": "上茶",
+					"effect": "从自己的弃牌区选择1张「基本【草】能量」卡，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "偷袭",
+					"effect": "掷1次硬币若为反面，则这个招式失败。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Poltchageist",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_021_R_EN.png",
+			"cardNo": "21"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010428.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "来悲粗茶",
+			"skillList": [{
+					"name": "诅咒水滴",
+					"effect": "将4个伤害指示物以任意方式放置于对手的宝可梦身上。"
+				},
+				{
+					"name": "倾泻茶",
+					"effect": "将最多3张自己的场上宝可梦身上附加的【草】能量卡丢弃，造成其张数×70点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sinistcha",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_022_R_EN.png",
+			"cardNo": "22"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010256.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "来悲粗茶ex",
+			"skillList": [{
+					"name": "熬返",
+					"effect": "在给对手看过自己的弃牌区的所有「基本【草】能量」卡后，将与其张数×2个的相同数量的伤害指示物，放置于对手的1只宝可梦身上。然后，将给对手看过的能量卡放回牌库并重洗。"
+				},
+				{
+					"name": "抹茶飞溅",
+					"effect": "将自己的所有宝可梦各恢复「30」HP。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sinistcha ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_023_R_EN.png",
+			"cardNo": "23",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_189_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_210_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010429.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 碧草面具",
+			"skillList": [{
+					"name": "步山",
+					"effect": "从自己的牌库选择最多2张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "鬼返",
+					"effect": "增加对手的备战宝可梦的数量×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Teal Mask Ogerpon",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_024_R_EN.png",
+			"cardNo": "24"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010430.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 碧草面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "[特性]碧绿之舞",
+					"effect": "在自己的回合时可使用1次。从自己的手牌选择1张「基本【草】能量」卡，附于这只宝可梦身上。然后，从自己的牌库抽出1张卡。"
+				},
+				{
+					"name": "万叶阵雨",
+					"effect": "增加双方的战斗宝可梦身上附加的能量的数量×30点伤害。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Teal Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_025_R_EN.png",
+			"cardNo": "25",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_190_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_211_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_221_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010257.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "六尾",
+			"skillList": [{
+				"name": "火种",
+				"effect": ""
+			}],
+			"series": "SV6",
+			"ename": "Vulpix",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_026_R_EN.png",
+			"cardNo": "26"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010258.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "九尾",
+			"skillList": [{
+				"name": "奇异灯火",
+				"effect": "将对手的战斗宝可梦【灼伤】与【混乱】。"
+			}],
+			"series": "SV6",
+			"ename": "Ninetales",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_027_R_EN.png",
+			"cardNo": "27"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010259.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "熔岩虫",
+			"skillList": [{
+				"name": "炽热熔岩",
+				"effect": "将对手的战斗宝可梦【灼伤】。"
+			}],
+			"series": "SV6",
+			"ename": "Slugma",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_028_R_EN.png",
+			"cardNo": "28"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010260.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "熔岩蜗牛ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "炽热熔岩",
+					"effect": "将对手的战斗宝可梦【灼伤】。"
+				},
+				{
+					"name": "大地灼烧",
+					"effect": "将双方的牌库上方各1张卡丢弃，增加其中能量卡的张数×140点伤害。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Magcargo ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_029_R_EN.png",
+			"cardNo": "29",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_191_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010261.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "煤炭龟",
+			"skillList": [{
+					"name": "甲壳冲撞",
+					"effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
+				},
+				{
+					"name": "火焰旋涡",
+					"effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Torkoal",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_030_R_EN.png",
+			"cardNo": "30",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_172_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010262.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "小火焰猴",
+			"skillList": [{
+				"name": "吹火",
+				"effect": "掷1次硬币若为正面，则增加20点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Chimchar",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_031_R_EN.png",
+			"cardNo": "31"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010263.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "猛火猴",
+			"skillList": [{
+					"name": "劈打",
+					"effect": ""
+				},
+				{
+					"name": "高温打击",
+					"effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Monferno",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_032_R_EN.png",
+			"cardNo": "32"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010264.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "烈焰猴",
+			"skillList": [{
+					"name": "[特性]火焰蹈舞",
+					"effect": "在自己的回合时可使用1次。从自己的手牌选择「基本【火】能量」卡与「基本【斗】能量」卡最多各1张，以任意方式附于自己的宝可梦身上。"
+				},
+				{
+					"name": "燃烧殆尽",
+					"effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Infernape",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_033_R_EN.png",
+			"cardNo": "33",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_173_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010431.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "火红不倒翁",
+			"skillList": [{
+					"name": "怪力",
+					"effect": ""
+				},
+				{
+					"name": "火焰冲撞",
+					"effect": "这只宝可梦也受到20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Darumaka",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_034_R_EN.png",
+			"cardNo": "34"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010432.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "达摩狒狒",
+			"skillList": [{
+					"name": "滚动冲撞",
+					"effect": ""
+				},
+				{
+					"name": "猛火猛撞",
+					"effect": "这只宝可梦也受到70点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Darmanitan",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_035_R_EN.png",
+			"cardNo": "35"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010433.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "烛光灵",
+			"skillList": [{
+					"name": "呼朋引伴",
+					"effect": "从自己的牌库选择1张【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
+				},
+				{
+					"name": "火种",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Litwick",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_036_R_EN.png",
+			"cardNo": "36"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010434.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "灯火幽灵",
+			"skillList": [{
+					"name": "火种",
+					"effect": ""
+				},
+				{
+					"name": "燃烧尽",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lampent",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_037_R_EN.png",
+			"cardNo": "37"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010435.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "水晶灯火灵",
+			"skillList": [{
+					"name": "[特性]劝诱亮光",
+					"effect": "在自己的回合时可使用1次。双方玩家各从牌库抽出1张卡。"
+				},
+				{
+					"name": "意志统治者",
+					"effect": "造成对手的手牌的张数×30点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Chandelure",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_038_R_EN.png",
+			"cardNo": "38"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010265.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "古玉鱼",
+			"skillList": [{
+					"name": "吸引",
+					"effect": "从自己的牌库抽出2张卡。"
+				},
+				{
+					"name": "大地熔化",
+					"effect": "若场上有竞技场卡，则增加60点伤害。然后，将那张竞技场卡丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Chi-Yu",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_039_R_EN.png",
+			"cardNo": "39"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010436.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 火灶面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "愤怒之窑",
+					"effect": "造成这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
+				},
+				{
+					"name": "极限火焰",
+					"effect": "若对手的战斗宝可梦为进化宝可梦，则增加140点伤害。这个情况下，将这只宝可梦身上附加的能量卡全部丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hearthflame Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_040_R_EN.png",
+			"cardNo": "40",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_192_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_212_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010437.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "蚊香蝌蚪",
+			"skillList": [{
+					"name": "踩",
+					"effect": ""
+				},
+				{
+					"name": "摆尾拍打",
+					"effect": "掷2次硬币，造成正面出现的次数×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Poliwag",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_041_R_EN.png",
+			"cardNo": "41"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010438.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "蚊香君",
+			"skillList": [{
+					"name": "催眠术",
+					"effect": "将对手的战斗宝可梦【睡眠】。"
+				},
+				{
+					"name": "连环巴掌",
+					"effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Poliwhirl",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_042_R_EN.png",
+			"cardNo": "42"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010439.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "蚊香泳士",
+			"skillList": [{
+					"name": "催眠术",
+					"effect": "将对手的战斗宝可梦【睡眠】。"
+				},
+				{
+					"name": "跳跃冲天",
+					"effect": "若希望，增加120点伤害。这个情况下，将这只宝可梦与附加的卡，全部放回自己的牌库并重洗。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Poliwrath",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_043_R_EN.png",
+			"cardNo": "43"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010440.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "角金鱼",
+			"skillList": [{
+					"name": "[特性]祭典乐舞",
+					"effect": "若场上有「祭典会场」，则这只宝可梦可使用持有的招式2次。（若对手的战斗宝可梦因第1次的招式而【昏厥】了，则在下一只宝可梦放置后，使用第2次的招式。）"
+				},
+				{
+					"name": "潮旋",
+					"effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Goldeen",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_044_R_EN.png",
+			"cardNo": "44"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010441.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "金鱼王",
+			"skillList": [{
+					"name": "啄落",
+					"effect": "在造成伤害前，将对手的战斗宝可梦身上附加的「宝可梦道具」卡丢弃。"
+				},
+				{
+					"name": "角钻",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Seaking",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_045_R_EN.png",
+			"cardNo": "45"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010442.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "迷唇姐",
+			"skillList": [{
+					"name": "邀请之吻",
+					"effect": "从自己的牌库选择1张【基础】宝可梦卡，放置于备战区。并且重洗牌库。然后，选择1个这只宝可梦身上附加的能量，改附于新上场的宝可梦身上。"
+				},
+				{
+					"name": "雪花冰",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Jynx",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_046_R_EN.png",
+			"cardNo": "46"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010266.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "龙虾小兵",
+			"skillList": [{
+				"name": "夹住",
+				"effect": ""
+			}],
+			"series": "SV6",
+			"ename": "Corphish",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_047_R_EN.png",
+			"cardNo": "47"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010267.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "铁螯龙虾",
+			"skillList": [{
+					"name": "喀嚓喀嚓",
+					"effect": "掷2次硬币，将对手的牌库上方与正面出现的次数相同数量的卡丢弃。"
+				},
+				{
+					"name": "暴乱之锤",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Crawdaunt",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_048_R_EN.png",
+			"cardNo": "48"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010443.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "丑丑鱼",
+			"skillList": [{
+				"name": "抓狂",
+				"effect": "造成这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Feebas",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_049_R_EN.png",
+			"cardNo": "49"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010444.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "美纳斯",
+			"skillList": [{
+					"name": "[特性]平稳境地",
+					"effect": "只要这只宝可梦在场上，对手的场上宝可梦与那只宝可梦身上附加的卡，全部无法放回手牌。"
+				},
+				{
+					"name": "水炮溅射",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Milotic",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_050_R_EN.png",
+			"cardNo": "50"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010445.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "雪童子",
+			"skillList": [{
+				"name": "惊吓",
+				"effect": "在不看正面的情况下，从对手的手牌选择1张，查看那张卡的正面后放回对手的牌库并重洗。"
+			}],
+			"series": "SV6",
+			"ename": "Snorunt",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_051_R_EN.png",
+			"cardNo": "51"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010446.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "冰鬼护",
+			"skillList": [{
+					"name": "伤害律动",
+					"effect": "造成对手的战斗宝可梦身上放置的伤害指示物的数量×20点伤害。"
+				},
+				{
+					"name": "疯狂头",
+					"effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Glalie",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_052_R_EN.png",
+			"cardNo": "52"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010447.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "雪妖女",
+			"skillList": [{
+					"name": "[特性]冰冷之帐",
+					"effect": "只要这只宝可梦在场上，每次宝可梦检查时，在双方的拥有特性的所有宝可梦（「雪妖女」除外）身上各放置1个伤害指示物。"
+				},
+				{
+					"name": "冰霜粉碎",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Froslass",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_053_R_EN.png",
+			"cardNo": "53",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_174_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010268.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "冰伊布",
+			"skillList": [{
+					"name": "渗透寒气",
+					"effect": "在下个对手的回合结束时，在受到这个招式的宝可梦身上放置9个伤害指示物。"
+				},
+				{
+					"name": "冰柱飞弹",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Glaceon",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_054_R_EN.png",
+			"cardNo": "54"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010269.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "霏欧纳",
+			"skillList": [{
+					"name": "招唤",
+					"effect": "从自己的弃牌区选择1张支援者卡，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "能量压制",
+					"effect": "造成对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Phione",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_055_R_EN.png",
+			"cardNo": "55",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_175_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010270.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "呱呱泡蛙",
+			"skillList": [{
+					"name": "群聚",
+					"effect": "从自己的牌库选择最多2张「呱呱泡蛙」，放置于备战区。并且重洗牌库。"
+				},
+				{
+					"name": "活蹦乱跳",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Froakie",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_056_R_EN.png",
+			"cardNo": "56"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010271.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "呱头蛙",
+			"skillList": [{
+				"name": "麻麻水",
+				"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+			}],
+			"series": "SV6",
+			"ename": "Frogadier",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_057_R_EN.png",
+			"cardNo": "57"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010272.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "古月鸟",
+			"skillList": [{
+					"name": "水枪",
+					"effect": ""
+				},
+				{
+					"name": "喷吐射击",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃，对手的1只宝可梦受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				}
+			],
+			"series": "SV6",
+			"ename": "Cramorant",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_058_R_EN.png",
+			"cardNo": "58",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_176_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010448.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "波普海豚",
+			"skillList": [{
+				"name": "水流斩",
+				"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+			}],
+			"series": "SV6",
+			"ename": "Finizen",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_059_R_EN.png",
+			"cardNo": "59"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010449.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "海豚侠",
+			"skillList": [{
+					"name": "[特性]全能变身",
+					"effect": "在自己的回合，这只宝可梦从战斗场回到备战区时，可使用1次。从自己的牌库选择1张「海豚侠【ex】」，与这张卡互换（所附加的卡・伤害指示物・特殊状态・效果等全部保留）。若互换了，则这张卡放回牌库。并且重洗牌库。"
+				},
+				{
+					"name": "飞溅",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Palafin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_060_R_EN.png",
+			"cardNo": "60"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010450.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "海豚侠ex",
+			"skillList": [{
+					"name": "[特性]全能灵魂",
+					"effect": "这张卡只可依据「海豚侠」的特性「全能变身」的效果放置于场上。"
+				},
+				{
+					"name": "终极冲击",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Palafin ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_061_R_EN.png",
+			"cardNo": "61",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_193_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010451.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "铁包袱",
+			"skillList": [{
+				"name": "内部喷射",
+				"effect": "将这只宝可梦与备战宝可梦互换。然后，对手将对手自己的战斗宝可梦与备战宝可梦互换。"
+			}],
+			"series": "SV6",
+			"ename": "Iron Bundle",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_062_R_EN.png",
+			"cardNo": "62"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010273.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "波荡水",
+			"skillList": [{
+					"name": "极光增辉",
+					"effect": "将这只宝可梦恢复「20」HP。"
+				},
+				{
+					"name": "蜿蜒割裂",
+					"effect": "在这只宝可梦身上放置最多9个伤害指示物，造成放置的数量×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Walking Wake",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_063_R_EN.png",
+			"cardNo": "63"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010452.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 水井面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "啜泣",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+				},
+				{
+					"name": "激流水泵",
+					"effect": "若希望，选择3个这只宝可梦身上附加的能量，放回牌库并重洗。这个情况下，对手的1只备战宝可梦也受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Wellspring Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_064_R_EN.png",
+			"cardNo": "64",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_194_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_213_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010274.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "闪电鸟",
+			"skillList": [{
+					"name": "电磁波",
+					"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+				},
+				{
+					"name": "十万伏特",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Zapdos",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_065_R_EN.png",
+			"cardNo": "65"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010453.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "小猫怪",
+			"skillList": [{
+					"name": "好奇心",
+					"effect": "查看对手的手牌。"
+				},
+				{
+					"name": "劈哩啪啦",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Shinx",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_066_R_EN.png",
+			"cardNo": "66"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010454.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "勒克猫",
+			"skillList": [{
+				"name": "咬紧",
+				"effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+			}],
+			"series": "SV6",
+			"ename": "Luxio",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_067_R_EN.png",
+			"cardNo": "67"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010455.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "伦琴猫ex",
+			"skillList": [{
+					"name": "突刺目光",
+					"effect": "查看对手的手牌，从其中选择1张卡，将其丢弃。"
+				},
+				{
+					"name": "伏特强袭",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Luxray ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_068_R_EN.png",
+			"cardNo": "68",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_195_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010456.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "电飞鼠",
+			"skillList": [{
+				"name": "天空波",
+				"effect": "双方的所有备战宝可梦也各受到10点伤害。 [在备战区不计算弱点・抵抗力。]"
+			}],
+			"series": "SV6",
+			"ename": "Emolga",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_069_R_EN.png",
+			"cardNo": "69"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010275.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "伞电蜥",
+			"skillList": [{
+					"name": "呼唤",
+					"effect": "从自己的牌库抽出1张卡。"
+				},
+				{
+					"name": "劈哩啪啦",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Helioptile",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_070_R_EN.png",
+			"cardNo": "70"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010276.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "光电伞蜥",
+			"skillList": [{
+				"name": "疯狂伏特",
+				"effect": "这只宝可梦也受到20点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Heliolisk",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_071_R_EN.png",
+			"cardNo": "71",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_177_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010277.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "莫鲁贝可",
+			"skillList": [{
+					"name": "[特性]搜寻点心",
+					"effect": "在自己的回合时可使用1次。查看自己的牌库上方1张卡，回复原样。若希望，将那张卡丢弃。"
+				},
+				{
+					"name": "捡拾附上",
+					"effect": "从自己的弃牌区选择最多2张基本能量卡，以任意方式附于自己的宝可梦身上。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Morpeko",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_072_R_EN.png",
+			"cardNo": "72"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010278.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "光蚪仔",
+			"skillList": [{
+					"name": "撞击",
+					"effect": ""
+				},
+				{
+					"name": "电球",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Tadbulb",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_073_R_EN.png",
+			"cardNo": "73"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010279.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "电肚蛙",
+			"skillList": [{
+					"name": "电击",
+					"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+				},
+				{
+					"name": "雷电球",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Bellibolt",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_074_R_EN.png",
+			"cardNo": "74"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010457.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "电海燕",
+			"skillList": [{
+				"name": "电击",
+				"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+			}],
+			"series": "SV6",
+			"ename": "Wattrel",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_075_R_EN.png",
+			"cardNo": "75",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_178_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010458.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "大电海燕",
+			"skillList": [{
+					"name": "风力充能",
+					"effect": "在下个自己的回合，这只宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+120」点。"
+				},
+				{
+					"name": "强力伏特",
+					"effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Kilowattrel",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_076_R_EN.png",
+			"cardNo": "76"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010280.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "铁荆棘ex",
+			"skillList": [{
+					"name": "[特性]初始化",
+					"effect": "只要这只宝可梦在战斗场上，双方场上「拥有规则的宝可梦」（「未来」宝可梦除外）的特性全部消除。"
+				},
+				{
+					"name": "伏特旋风",
+					"effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Iron Thorns ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_077_R_EN.png",
+			"cardNo": "77",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_196_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010459.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "皮皮",
+			"skillList": [{
+				"name": "月亮踢",
+				"effect": ""
+			}],
+			"series": "SV6",
+			"ename": "Clefairy",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_078_R_EN.png",
+			"cardNo": "78"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010460.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "皮可西",
+			"skillList": [{
+					"name": "挥指",
+					"effect": "选择1个对手的战斗宝可梦持有的招式，作为这个招式使用。"
+				},
+				{
+					"name": "魔法射击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Clefable",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_079_R_EN.png",
+			"cardNo": "79"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010461.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "凯西",
+			"skillList": [{
+					"name": "[特性]瞬间移动者",
+					"effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。将这只宝可梦与附加的卡，全部放回自己的牌库并重洗。"
+				},
+				{
+					"name": "光束",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Abra",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_080_R_EN.png",
+			"cardNo": "80"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010462.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "勇基拉",
+			"skillList": [{
+				"name": "精神强念",
+				"effect": "增加对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Kadabra",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_081_R_EN.png",
+			"cardNo": "81"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010463.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "胡地",
+			"skillList": [{
+					"name": "奇异骇入",
+					"effect": "将对手的战斗宝可梦【混乱】。选择任意数量的对手的场上宝可梦身上放置的伤害指示物，以任意方式改放于对手的场上宝可梦身上。"
+				},
+				{
+					"name": "精神强念",
+					"effect": "增加对手的战斗宝可梦身上附加的能量的数量×50点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Alakazam",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_082_R_EN.png",
+			"cardNo": "82"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010281.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "麒麟奇",
+			"skillList": [{
+				"name": "双向头击",
+				"effect": "自己的1只备战宝可梦也受到10点伤害。[在备战区不计算弱点・抵抗力。]"
+			}],
+			"series": "SV6",
+			"ename": "Girafarig",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_083_R_EN.png",
+			"cardNo": "83"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010282.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "奇麒麟",
+			"skillList": [{
+					"name": "中级轰鸣",
+					"effect": "造成自己的场上【1阶进化】宝可梦的数量×40点伤害。"
+				},
+				{
+					"name": "不祥波动",
+					"effect": "将对手的战斗宝可梦【混乱】。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Farigiraf",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_084_R_EN.png",
+			"cardNo": "84"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010464.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "风铃铃",
+			"skillList": [{
+					"name": "巨声",
+					"effect": ""
+				},
+				{
+					"name": "回家钟声",
+					"effect": "选择1只自己的备战宝可梦，将那只宝可梦与附加的卡全部放回牌库并重洗。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Chimecho",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_085_R_EN.png",
+			"cardNo": "85",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_179_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010283.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "花蓓蓓",
+			"skillList": [{
+					"name": "疗伤",
+					"effect": "将自己的1只宝可梦恢复「30」HP。"
+				},
+				{
+					"name": "妖精之风",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Flabébé",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_086_R_EN.png",
+			"cardNo": "86"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010284.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "花叶蒂",
+			"skillList": [{
+					"name": "小使者",
+					"effect": "从自己的牌库选择最多3张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "回转攻击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Floette",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_087_R_EN.png",
+			"cardNo": "87"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010285.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "花洁夫人",
+			"skillList": [{
+					"name": "[特性]媚惑引诱",
+					"effect": "在自己的回合时可使用1次。掷1次硬币若为正面，则选择1只对手的备战宝可梦，与战斗宝可梦互换。然后，将新上场的宝可梦【混乱】。"
+				},
+				{
+					"name": "魔法射击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Florges",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_088_R_EN.png",
+			"cardNo": "88"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010465.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "绵绵泡芙",
+			"skillList": [{
+					"name": "[特性]祭典乐舞",
+					"effect": "若场上有「祭典会场」，则这只宝可梦可使用持有的招式2次。（若对手的战斗宝可梦因第1次的招式而【昏厥】了，则在下一只宝可梦放置后，使用第2次的招式。）"
+				},
+				{
+					"name": "悄声加害",
+					"effect": "在对手的1只宝可梦身上放置2个伤害指示物。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Swirlix",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_089_R_EN.png",
+			"cardNo": "89"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010466.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "胖甜妮",
+			"skillList": [{
+				"name": "甜甜你",
+				"effect": "掷2次硬币，造成正面出现的次数×90点伤害。若全部为反面，则将对手的战斗宝可梦【混乱】。"
+			}],
+			"series": "SV6",
+			"ename": "Slurpuff",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_090_R_EN.png",
+			"cardNo": "90"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010467.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "沙丘娃",
+			"skillList": [{
+					"name": "泼沙",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷1次硬币。若为反面，则那个招式失败。"
+				},
+				{
+					"name": "阴森射击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Sandygast",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_091_R_EN.png",
+			"cardNo": "91"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010468.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "噬沙堡爷",
+			"skillList": [{
+					"name": "泼沙",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷1次硬币。若为反面，则那个招式失败。"
+				},
+				{
+					"name": "沙之阴森",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Palossand",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_092_R_EN.png",
+			"cardNo": "92"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010286.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "眷恋云",
+			"skillList": [{
+					"name": "爱心标志",
+					"effect": ""
+				},
+				{
+					"name": "爱之同感",
+					"effect": "若自己的场上有与对手的场上宝可梦相同属性的宝可梦，则增加120点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Enamorus",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_093_R_EN.png",
+			"cardNo": "93",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_180_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010287.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "吼叫尾ex",
+			"skillList": [{
+					"name": "绝叫",
+					"effect": "这个招式只可在后攻玩家的最初回合使用。在下个对手的回合，对手无法从手牌使出支援者卡。"
+				},
+				{
+					"name": "咬碎",
+					"effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Scream Tail ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_094_R_EN.png",
+			"cardNo": "94",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_197_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010469.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "愿增猿",
+			"skillList": [{
+					"name": "[特性]肾上腺脑力",
+					"effect": "若这只宝可梦身上附有【恶】能量卡，则在自己的回合时可使用1次。选择最多3个自己的1只场上宝可梦身上放置的伤害指示物，改放于对手的1只场上宝可梦身上。"
+				},
+				{
+					"name": "精神歪曲",
+					"effect": "将对手的战斗宝可梦【混乱】。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Munkidori",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_095_R_EN.png",
+			"cardNo": "95"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010470.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "吉雉鸡",
+			"skillList": [{
+					"name": "[特性]肾上腺费洛蒙",
+					"effect": "若这只宝可梦身上附有【恶】能量卡，则这只宝可梦受到招式的伤害时，自己掷1次硬币。若为正面，则这只宝可梦不会受到那个伤害。"
+				},
+				{
+					"name": "能量羽毛",
+					"effect": "造成这只宝可梦身上附加的能量的数量×30点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Fezandipiti",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_096_R_EN.png",
+			"cardNo": "96"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010471.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "穿山鼠",
+			"skillList": [{
+					"name": "滚动",
+					"effect": ""
+				},
+				{
+					"name": "双重抓",
+					"effect": "掷2次硬币，造成正面出现的次数×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sandshrew",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_097_R_EN.png",
+			"cardNo": "97"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010472.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "穿山王",
+			"skillList": [{
+					"name": "竖爪",
+					"effect": ""
+				},
+				{
+					"name": "地震",
+					"effect": "自己的所有备战宝可梦也各受到10点伤害。 [在备战区不计算弱点・抵抗力。]"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sandslash",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_098_R_EN.png",
+			"cardNo": "98"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010288.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "洗翠 卡蒂狗",
+			"skillList": [{
+					"name": "全部烧光",
+					"effect": "将场上的竞技场卡丢弃。"
+				},
+				{
+					"name": "猛撞",
+					"effect": "这只宝可梦也受到10点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hisuian Growlithe",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_099_R_EN.png",
+			"cardNo": "99",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_181_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010289.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "洗翠 风速狗",
+			"skillList": [{
+					"name": "骄傲獠牙",
+					"effect": "若自己的备战宝可梦身上放置有伤害指示物，则增加90点伤害。"
+				},
+				{
+					"name": "灼烧",
+					"effect": "将对手的战斗宝可梦【灼伤】。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hisuian Arcanine",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_100_R_EN.png",
+			"cardNo": "100"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010290.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "朝北鼻",
+			"skillList": [{
+				"name": "力量猛攻",
+				"effect": "掷1次硬币若为反面，则在下个自己的回合，这只宝可梦无法使用招式。"
+			}],
+			"series": "SV6",
+			"ename": "Nosepass",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_101_R_EN.png",
+			"cardNo": "101"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010291.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "大朝北鼻",
+			"skillList": [{
+					"name": "进击镭射",
+					"effect": "若对手的战斗宝可梦身上附有「宝可梦道具」卡，则增加80点伤害。"
+				},
+				{
+					"name": "大地粉碎",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Probopass",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_102_R_EN.png",
+			"cardNo": "102",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_182_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010473.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "搬运小匠",
+			"skillList": [{
+				"name": "全力拳",
+				"effect": "掷1次硬币若为反面，则这个招式失败。"
+			}],
+			"series": "SV6",
+			"ename": "Timburr",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_103_R_EN.png",
+			"cardNo": "103",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_183_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010474.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "铁骨土人",
+			"skillList": [{
+					"name": "拳骨",
+					"effect": ""
+				},
+				{
+					"name": "蛮力",
+					"effect": "若希望，增加30点伤害。这个情况下，这只宝可梦也受到30点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Gurdurr",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_104_R_EN.png",
+			"cardNo": "104"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010475.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "修建老匠",
+			"skillList": [{
+					"name": "暴走",
+					"effect": "将这只宝可梦【混乱】。"
+				},
+				{
+					"name": "坚毅横扫",
+					"effect": "若这只宝可梦处于特殊状态，则使用这个招式所需的能量就算没有附于这只宝可梦身上，这个招式也可使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Conkeldurr",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_105_R_EN.png",
+			"cardNo": "105"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010292.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "甲贺忍蛙ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "忍之利刃",
+					"effect": "若希望，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "分身连打",
+					"effect": "将2个这只宝可梦身上附加的能量丢弃，对手的2只宝可梦各受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Greninja ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_106_R_EN.png",
+			"cardNo": "106",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_198_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_214_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010293.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "摔角鹰人",
+			"skillList": [{
+				"name": "奖赏反击",
+				"effect": "若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则增加90点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Hawlucha",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_107_R_EN.png",
+			"cardNo": "107"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010476.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "晶光芽",
+			"skillList": [{
+				"name": "岩石射击",
+				"effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+			}],
+			"series": "SV6",
+			"ename": "Glimmet",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_108_R_EN.png",
+			"cardNo": "108"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010477.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "晶光花",
+			"skillList": [{
+					"name": "神经毒",
+					"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【中毒】与【麻痺】。"
+				},
+				{
+					"name": "毒液冲击",
+					"effect": "若对手的战斗宝可梦【中毒】，则增加100点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Glimmora",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_109_R_EN.png",
+			"cardNo": "109"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010294.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "古鼎鹿",
+			"skillList": [{
+					"name": "大地断裂",
+					"effect": "若场上有竞技场卡，则对手的所有备战宝可梦也各受到30点伤害，并将那张竞技场卡丢弃。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "头突",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Ting-Lu",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_110_R_EN.png",
+			"cardNo": "110"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010478.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "够赞狗",
+			"skillList": [{
+					"name": "[特性]肾上腺力量",
+					"effect": "若这只宝可梦身上附有【恶】能量卡，则这只宝可梦的最大HP「+100」，这只宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+100」点。"
+				},
+				{
+					"name": "好拳",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Okidogi",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_111_R_EN.png",
+			"cardNo": "111"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010479.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 础石面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "[特性]础石之势",
+					"effect": "这只宝可梦不会受到对手的拥有特性的宝可梦招式的伤害。"
+				},
+				{
+					"name": "打爆",
+					"effect": "这个招式的伤害不计算弱点・抵抗力与对手的战斗宝可梦身上的附加效果。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Cornerstone Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_112_R_EN.png",
+			"cardNo": "112",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_199_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_215_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010480.png",
+			"typeEnergy": "Darkness",
+			"type": "Pokemon",
+			"cardName": "土狼犬",
+			"skillList": [{
+					"name": "连续舞步",
+					"effect": "掷硬币直到出现反面，造成正面出现的次数×10点伤害。"
+				},
+				{
+					"name": "暗之牙",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Poochyena",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_113_R_EN.png",
+			"cardNo": "113"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010481.png",
+			"typeEnergy": "Darkness",
+			"type": "Pokemon",
+			"cardName": "大狼犬",
+			"skillList": [{
+					"name": "群起打猎",
+					"effect": "若自己的备战区有「大狼犬」，则增加90点伤害。"
+				},
+				{
+					"name": "穷追不舍",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Mightyena",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_114_R_EN.png",
+			"cardNo": "114"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010482.png",
+			"typeEnergy": "Darkness",
+			"type": "Pokemon",
+			"cardName": "百足蜈蚣",
+			"skillList": [{
+					"name": "毒液",
+					"effect": "将对手的战斗宝可梦【中毒】。"
+				},
+				{
+					"name": "回转攻击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Venipede",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_115_R_EN.png",
+			"cardNo": "115"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010483.png",
+			"typeEnergy": "Darkness",
+			"type": "Pokemon",
+			"cardName": "车轮毬",
+			"skillList": [{
+					"name": "毒阵",
+					"effect": "将对手的战斗宝可梦【中毒】。在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+				},
+				{
+					"name": "回转攻击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Whirlipede",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_116_R_EN.png",
+			"cardNo": "116"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010484.png",
+			"typeEnergy": "Darkness",
+			"type": "Pokemon",
+			"cardName": "蜈蚣王",
+			"skillList": [{
+					"name": "偏道一回",
+					"effect": "在对手的战斗宝可梦身上放置伤害指示物直到剩余HP变为「10」为止。"
+				},
+				{
+					"name": "污泥炸弹",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Scolipede",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_117_R_EN.png",
+			"cardNo": "117"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010485.png",
+			"typeEnergy": "Darkness",
+			"type": "Pokemon",
+			"cardName": "猛恶菇",
+			"skillList": [{
+					"name": "喷毒",
+					"effect": "将对手的战斗宝可梦【中毒】。"
+				},
+				{
+					"name": "爆殴",
+					"effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×50点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Brute Bonnet",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_118_R_EN.png",
+			"cardNo": "118"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010486.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "盔甲鸟",
+			"skillList": [{
+					"name": "利刃之风",
+					"effect": ""
+				},
+				{
+					"name": "大风暴",
+					"effect": "将场上的竞技场卡丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Skarmory",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_119_R_EN.png",
+			"cardNo": "119"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010487.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "可可多拉",
+			"skillList": [{
+				"name": "舍身冲撞",
+				"effect": "这只宝可梦也受到10点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Aron",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_120_R_EN.png",
+			"cardNo": "120"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010488.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "可多拉",
+			"skillList": [{
+					"name": "钢铁冲撞",
+					"effect": "这只宝可梦也受到20点伤害。"
+				},
+				{
+					"name": "金属爪",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Lairon",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_121_R_EN.png",
+			"cardNo": "121",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_184_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010489.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "波士可多拉",
+			"skillList": [{
+					"name": "发怒猛进",
+					"effect": "造成自己场上的身上放置有伤害指示物的宝可梦的数量×50点伤害。"
+				},
+				{
+					"name": "防守利爪",
+					"effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-50」点。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Aggron",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_122_R_EN.png",
+			"cardNo": "122"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010490.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "席多蓝恩",
+			"skillList": [{
+					"name": "[特性]灼热之躯",
+					"effect": "这只宝可梦在战斗场上受到对手的宝可梦招式的伤害时，将使用招式的宝可梦【灼伤】。"
+				},
+				{
+					"name": "钢铁爆炸",
+					"effect": "将这只宝可梦身上附加的【钢】能量卡全部丢弃，造成其张数×50点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Heatran",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_123_R_EN.png",
+			"cardNo": "123"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010491.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "噗隆隆",
+			"skillList": [{
+					"name": "金属涂层",
+					"effect": "从自己的弃牌区选择1张「基本【钢】能量」卡，附于这只宝可梦身上。"
+				},
+				{
+					"name": "冲撞",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Varoom",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_124_R_EN.png",
+			"cardNo": "124"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010492.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "普隆隆姆",
+			"skillList": [{
+					"name": "卷土重来",
+					"effect": "在上个对手的回合，若自己的宝可梦因招式的伤害而【昏厥】了，则增加90点伤害。"
+				},
+				{
+					"name": "奔进",
+					"effect": "掷硬币直到出现反面，造成正面出现的次数×100点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Revavroom",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_125_R_EN.png",
+			"cardNo": "125"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010295.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "啃果虫",
+			"skillList": [{
+					"name": "寻找朋友",
+					"effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "滚动冲撞",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Applin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_126_R_EN.png",
+			"cardNo": "126",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_185_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010296.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "裹蜜虫",
+			"skillList": [{
+				"name": "蜜糖捕捉器",
+				"effect": "选择1只对手的备战宝可梦，与战斗宝可梦互换。然后，新上场的宝可梦受到70点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Dipplin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_127_R_EN.png",
+			"cardNo": "127"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010493.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "多龙梅西亚",
+			"skillList": [{
+					"name": "咒怨一下",
+					"effect": ""
+				},
+				{
+					"name": "咬住",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Dreepy",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_128_R_EN.png",
+			"cardNo": "128"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010494.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "多龙奇",
+			"skillList": [{
+					"name": "[特性]侦查指令",
+					"effect": "在自己的回合时可使用1次。查看自己的牌库上方2张卡，选择其中1张，加入手牌。将剩余卡放回牌库下方。"
+				},
+				{
+					"name": "龙之头击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Drakloak",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_129_R_EN.png",
+			"cardNo": "129"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010495.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "多龙巴鲁托ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "喷射头击",
+					"effect": ""
+				},
+				{
+					"name": "幻影奇袭",
+					"effect": "将6个伤害指示物以任意方式放置于对手的备战宝可梦身上。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Dragapult ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_130_R_EN.png",
+			"cardNo": "130",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_200_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010496.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "米立龙",
+			"skillList": [{
+					"name": "[特性]集客",
+					"effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。查看自己的牌库上方6张卡，从其中选择1张支援者卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+				},
+				{
+					"name": "冲浪",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Tatsugiri",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_131_R_EN.png",
+			"cardNo": "131",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_186_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010497.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "大葱鸭",
+			"skillList": [{
+					"name": "[特性]临场背负",
+					"effect": "在自己的回合，从手牌将这张卡放置于备战区时，可使用1次。从自己的牌库选择1张「宝可梦道具」卡，附于这只宝可梦身上。并且重洗牌库。"
+				},
+				{
+					"name": "音速斩",
+					"effect": "选择1个对手的战斗宝可梦身上附加的特殊能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Farfetch'd",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_132_R_EN.png",
+			"cardNo": "132"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010498.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "吉利蛋",
+			"skillList": [{
+					"name": "幸运贴附",
+					"effect": "从自己的手牌选择1张基本能量卡，附于自己的宝可梦身上。"
+				},
+				{
+					"name": "潜力",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Chansey",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_133_R_EN.png",
+			"cardNo": "133",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_187_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010499.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "幸福蛋ex",
+			"skillList": [{
+					"name": "[特性]幸福切换",
+					"effect": "在自己的回合时可使用1次。选择1个自己的场上宝可梦身上附加的基本能量，改附于自己的其他宝可梦身上。"
+				},
+				{
+					"name": "报恩",
+					"effect": "若希望，从牌库抽卡直到自己的手牌满6张为止。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Blissey ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_134_R_EN.png",
+			"cardNo": "134",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_201_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010297.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "伊布",
+			"skillList": [{
+					"name": "觉醒",
+					"effect": "从自己的牌库选择1张从这只宝可梦进化而来的卡，放置于这只宝可梦身上完成进化。并且重洗牌库。"
+				},
+				{
+					"name": "电光一闪",
+					"effect": "掷1次硬币若为正面，则增加20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Eevee",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_135_R_EN.png",
+			"cardNo": "135",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_188_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010298.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "卡比兽",
+			"skillList": [{
+					"name": "吃饱先",
+					"effect": "从自己的手牌选择1张能量卡，附于这只宝可梦身上。然后，将这只宝可梦恢复「60」HP。"
+				},
+				{
+					"name": "重磅冲击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Snorlax",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_136_R_EN.png",
+			"cardNo": "136"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010500.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "长尾怪手",
+			"skillList": [{
+					"name": "垂吊",
+					"effect": ""
+				},
+				{
+					"name": "调皮踢",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Aipom",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_137_R_EN.png",
+			"cardNo": "137"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010501.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "双尾怪手",
+			"skillList": [{
+					"name": "[特性]使坏之尾",
+					"effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。掷2次硬币，在不看手牌正面的情况下，从对手的手牌选择与正面出现的次数相同数量的卡，查看那些卡的正面后放回对手的牌库并重洗。"
+				},
+				{
+					"name": "重掴",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Ambipom",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_138_R_EN.png",
+			"cardNo": "138"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010502.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "鸭宝宝",
+			"skillList": [{
+					"name": "双重抽出",
+					"effect": "从自己的牌库抽出2张卡。"
+				},
+				{
+					"name": "锐利羽",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Ducklett",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_139_R_EN.png",
+			"cardNo": "139"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010503.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "舞天鹅",
+			"skillList": [{
+					"name": "斗志之翼",
+					"effect": "若对手的战斗宝可梦为「宝可梦【ex】・【V】」，则增加90点伤害。"
+				},
+				{
+					"name": "起风",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Swanna",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_140_R_EN.png",
+			"cardNo": "140"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010299.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "月月熊 赫月ex",
+			"skillList": [{
+					"name": "[特性]老练招式",
+					"effect": "这只宝可梦使用「血月」所需的【无】能量，减少对手已经获得的奖赏卡的张数数量。"
+				},
+				{
+					"name": "血月",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Bloodmoon Ursaluna ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_141_R_EN.png",
+			"cardNo": "141",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_202_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_216_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_222_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010505.png",
+			"type": "Trainers",
+			"cardName": "配乐之笛",
+			"skillList": [{
+					"name": "",
+					"effect": "将对手的牌库上方5张卡翻到正面，从其中选择任意数量的【基础】宝可梦卡，放置于对手的备战区。将剩余卡放回牌库并重洗。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Accompanying Flute",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_142_R_EN.png",
+			"cardNo": "142"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010508.png",
+			"type": "Trainers",
+			"cardName": "捕虫组合",
+			"skillList": [{
+					"name": "",
+					"effect": "查看自己的牌库上方7张卡，从其中选择【草】宝可梦卡与「基本【草】能量」卡合计最多2张，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Bug Catching Set",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_143_R_EN.png",
+			"cardNo": "143"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010308.png",
+			"type": "Trainers",
+			"cardName": "管理员",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的牌库抽出2张卡。然后，若场上有「居民会馆」，则不丢弃这张「管理员」，而是放回牌库并重洗。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Caretaker",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_144_R_EN.png",
+			"cardNo": "144",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_203_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010511.png",
+			"type": "Trainers",
+			"cardName": "丹瑜",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡可在先攻玩家的最初回合使用。"
+				},
+				{
+					"name": "",
+					"effect": "将自己的手牌全部丢弃，从牌库抽出5张卡。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Carmine",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_145_R_EN.png",
+			"cardNo": "145",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_204_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_217_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010312.png",
+			"type": "Trainers",
+			"cardName": "居民会馆",
+			"skillList": [{
+					"name": "",
+					"effect": "在每个自己的回合时，可使用1次。在这个回合从手牌使出了支援者卡的玩家，可将自己的所有宝可梦各恢复「10」HP。"
+				},
+				{
+					"name": "[竞技场规则]",
+					"effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Community Center",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_146_R_EN.png",
+			"cardNo": "146"
+		},
+		{
+			"imgUrl": "",
+			"type": "Trainers",
+			"cardName": "西餐厨师",
+			"skillList": [{
+					"name": "",
+					"effect": "将自己的战斗宝可梦恢复「70」HP。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Cook",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_147_R_EN.png",
+			"cardNo": "147"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010301.png",
+			"type": "Trainers",
+			"cardName": "改造之锤",
+			"skillList": [{
+					"name": "",
+					"effect": "选择1个对手的场上宝可梦身上附加的特殊能量，将其丢弃。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Enhanced Hammer",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_148_R_EN.png",
+			"cardNo": "148",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_224_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010513.png",
+			"type": "Trainers",
+			"cardName": "祭典会场",
+			"skillList": [{
+					"name": "",
+					"effect": "双方的所有身上附有能量卡的宝可梦不会陷入特殊状态，并将受到的特殊状态全部恢复。"
+				},
+				{
+					"name": "[竞技场规则]",
+					"effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Festival Grounds",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_149_R_EN.png",
+			"cardNo": "149"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010509.png",
+			"type": "Trainers",
+			"cardName": "手持循环扇",
+			"skillList": [{
+					"name": "",
+					"effect": "附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，选择1个使用招式的宝可梦身上附加的能量，改附于对手的备战宝可梦身上。"
+				},
+				{
+					"name": "[宝可梦道具规则]",
+					"effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Handheld Fan",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_150_R_EN.png",
+			"cardNo": "150"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010512.png",
+			"type": "Trainers",
+			"cardName": "八朔",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡必须在上个对手的回合自己的宝可梦【昏厥】了才可使用。"
+				},
+				{
+					"name": "",
+					"effect": "查看自己的牌库上方8张卡，从其中选择最多3张卡加入手牌。将剩余卡放回牌库并重洗。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hassel",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_151_R_EN.png",
+			"cardNo": "151",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_205_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010302.png",
+			"type": "Trainers",
+			"cardName": "高级香氛",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的牌库选择最多3张【1阶进化】宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				},
+				{
+					"name": "[ACE SPEC]",
+					"effect": "1副牌组只可放1张ACE SPEC的卡"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hyper Aroma",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_152_R_EN.png",
+			"cardNo": "152"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010514.png",
+			"type": "Trainers",
+			"cardName": "阻碍之塔",
+			"skillList": [{
+					"name": "",
+					"effect": "双方的所有宝可梦身上附加的「宝可梦道具」卡的效果全部消除。"
+				},
+				{
+					"name": "[竞技场规则]",
+					"effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Jamming Tower",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_153_R_EN.png",
+			"cardNo": "153"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010510.png",
+			"type": "Trainers",
+			"cardName": "乌栗",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡从2种效果中选择1种使用。"
+				},
+				{
+					"name": "",
+					"effect": " ◆将自己的战斗宝可梦与备战宝可梦互换。"
+				},
+				{
+					"name": "",
+					"effect": "◆在这个回合，自己的宝可梦使用的招式，对对手的战斗场的「宝可梦【ex】・【V】」造成的伤害「+30」点。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Kieran",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_154_R_EN.png",
+			"cardNo": "154",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_206_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_218_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010311.png",
+			"type": "Trainers",
+			"cardName": "水莲的照顾",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的弃牌区选择宝可梦卡（「拥有规则的宝可梦」除外）与基本能量卡合计最多3张，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lana's Aid",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_155_R_EN.png",
+			"cardNo": "155",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_207_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_219_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010305.png",
+			"type": "Trainers",
+			"cardName": "甜蜜球",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的牌库选择1张与对手的场上宝可梦名称相同的宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Love Ball",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_156_R_EN.png",
+			"cardNo": "156"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010309.png",
+			"type": "Trainers",
+			"cardName": "悟松",
+			"skillList": [{
+					"name": "",
+					"effect": "双方玩家各将自己的手牌全部翻回反面并重洗，放回牌库下方。然后，双方玩家各掷1次硬币，若为正面，则从牌库抽出6张卡，若为反面，则从牌库抽出3张卡。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lucian",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_157_R_EN.png",
+			"cardNo": "157",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_208_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010307.png",
+			"type": "Trainers",
+			"cardName": "幸运头盔",
+			"skillList": [{
+					"name": "",
+					"effect": "附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，从自己的牌库抽出2张卡。"
+				},
+				{
+					"name": "[宝可梦道具规则]",
+					"effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lucky Helmet",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_158_R_EN.png",
+			"cardNo": "158"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010504.png",
+			"type": "Trainers",
+			"cardName": "鬼之假面",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的弃牌区选择1张名称中有「厄鬼椪」的「宝可梦【ex】」卡，与自己的场上的1只名称中有「厄鬼椪」的「宝可梦【ex】」互换（所附加的卡・伤害指示物・特殊状态・效果等全部保留）。将换下的宝可梦丢弃。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Ogre's Mask",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_159_R_EN.png",
+			"cardNo": "159"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010310.png",
+			"type": "Trainers",
+			"cardName": "沙俪",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的手牌选择最多2张宝可梦卡，在给对手看过后放回牌库。然后，从自己的牌库选择最多与放回的张数相同数量的宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Perrin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_160_R_EN.png",
+			"cardNo": "160",
+			"artList": [
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_209_R_EN.png",
+				"https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_220_R_EN.png"
+			]
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009023.png",
+			"type": "Trainers",
+			"cardName": "蕾荷",
+			"skillList": [{
+					"name": "",
+					"effect": "查看自己的牌库上方5张卡，从其中选择任意数量的卡，将其丢弃。将剩余卡以任意顺序排列，放回牌库上方。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Raifort",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_161_R_EN.png",
+			"cardNo": "161"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010507.png",
+			"type": "Trainers",
+			"cardName": "宝可梦旋风回收机",
+			"skillList": [{
+					"name": "",
+					"effect": "选择1只自己的场上宝可梦，将那只宝可梦与附加的卡，全部放回手牌。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				},
+				{
+					"name": "[ACE SPEC]",
+					"effect": "1副牌组只可放1张ACE SPEC的卡"
+				}
+			],
+			"series": "SV6",
+			"ename": "Scoop Up Cyclone",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_162_R_EN.png",
+			"cardNo": "162"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010506.png",
+			"type": "Trainers",
+			"cardName": "秘密箱",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡必须将自己的3张手牌丢弃才可使用。"
+				},
+				{
+					"name": "",
+					"effect": "从自己的牌库选择「物品」「宝可梦道具」「支援者」「竞技场」卡各1张，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				},
+				{
+					"name": "[ACE SPEC]",
+					"effect": "1副牌组只可放1张ACE SPEC的卡"
+				}
+			],
+			"series": "SV6",
+			"ename": "Secret Box",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_163_R_EN.png",
+			"cardNo": "163"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010306.png",
+			"type": "Trainers",
+			"cardName": "幸存锻炼器",
+			"skillList": [{
+					"name": "",
+					"effect": "附有这张卡的宝可梦的HP是全满的状态下，受到对手的宝可梦招式的伤害而【昏厥】时，那只宝可梦不会【昏厥】，而是以剩余HP为「10」的状态留在场上。然后，将这张卡丢弃。"
+				},
+				{
+					"name": "[宝可梦道具规则]",
+					"effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+				},
+				{
+					"name": "[ACE SPEC]",
+					"effect": "1副牌组只可放1张ACE SPEC的卡"
+				}
+			],
+			"series": "SV6",
+			"ename": "Survival Brace",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_164_R_EN.png",
+			"cardNo": "164"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010300.png",
+			"type": "Trainers",
+			"cardName": "不公印章",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡必须在上个对手的回合自己的宝可梦【昏厥】了才可使用。"
+				},
+				{
+					"name": "",
+					"effect": "双方玩家各自将手牌全部放回牌库并重洗。然后，从牌库抽卡，自己抽出5张，对手抽出2张。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				},
+				{
+					"name": "[ACE SPEC]",
+					"effect": "1副牌组只可放1张ACE SPEC的卡"
+				}
+			],
+			"series": "SV6",
+			"ename": "Unfair Stamp",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_165_R_EN.png",
+			"cardNo": "165"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010313.png",
+			"type": "Energy",
+			"cardName": "回力镖能量",
+			"skillList": [{
+					"name": "",
+					"effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。"
+				},
+				{
+					"name": "",
+					"effect": "若因附有这张卡的宝可梦使用的招式的效果使这张卡被丢弃，则在招式的伤害与效果的影响之后，重新附于原本的宝可梦身上。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Boomerang Energy",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_166_R_EN.png",
+			"cardNo": "166"
+		},
+		{
+			"imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010515.png",
+			"type": "Energy",
+			"cardName": "古旧能量",
+			"skillList": [{
+					"name": "",
+					"effect": "只要这张卡附于宝可梦身上，视为提供1个所有属性的能量。"
+				},
+				{
+					"name": "",
+					"effect": "附有这张卡的宝可梦受到对手的宝可梦招式的伤害而【昏厥】时，被获得的奖赏卡减少1张。对战中，自己的「古旧能量」的这个效果只生效1次。"
+				},
+				{
+					"name": "[ACE SPEC]",
+					"effect": "1副牌组只可放1张ACE SPEC的卡"
+				}
+			],
+			"series": "SV6",
+			"ename": "Legacy Energy",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_167_R_EN.png",
+			"cardNo": "167"
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_168_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "凯罗斯",
+			"skillList": [{
+					"name": "慢嚼碎",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃。在下个对手的回合结束时，受到这个招式的宝可梦会【昏厥】。"
+				},
+				{
+					"name": "怪力角击",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Pinsir",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_168_R_EN.png",
+			"cardNo": "168",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_169_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "向日花怪",
+			"skillList": [{
+					"name": "光返",
+					"effect": "造成对手的所有宝可梦身上附加的【火】能量的数量×60点伤害。"
+				},
+				{
+					"name": "超级吸取",
+					"effect": "将这只宝可梦恢复「30」HP。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sunflora",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_169_R_EN.png",
+			"cardNo": "169",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_170_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "裹蜜虫",
+			"skillList": [{
+					"name": "[特性]祭典乐舞",
+					"effect": "若场上有「祭典会场」，则这只宝可梦可使用持有的招式2次。（若对手的战斗宝可梦因第1次的招式而【昏厥】了，则在下一只宝可梦放置后，使用第2次的招式。）"
+				},
+				{
+					"name": "朋友之环",
+					"effect": "造成自己的备战宝可梦的数量×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Dipplin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_170_R_EN.png",
+			"cardNo": "170",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_171_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "斯魔茶",
+			"skillList": [{
+					"name": "[特性]藏隐",
+					"effect": "只要这只宝可梦在备战区，不会受到对手的宝可梦招式的伤害与效果的影响。"
+				},
+				{
+					"name": "钩住",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Poltchageist",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_171_R_EN.png",
+			"cardNo": "171",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_172_R_EN.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "煤炭龟",
+			"skillList": [{
+					"name": "甲壳冲撞",
+					"effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
+				},
+				{
+					"name": "火焰旋涡",
+					"effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Torkoal",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_172_R_EN.png",
+			"cardNo": "172",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_173_R_EN.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "烈焰猴",
+			"skillList": [{
+					"name": "[特性]火焰蹈舞",
+					"effect": "在自己的回合时可使用1次。从自己的手牌选择「基本【火】能量」卡与「基本【斗】能量」卡最多各1张，以任意方式附于自己的宝可梦身上。"
+				},
+				{
+					"name": "燃烧殆尽",
+					"effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Infernape",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_173_R_EN.png",
+			"cardNo": "173",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_174_R_EN.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "雪妖女",
+			"skillList": [{
+					"name": "[特性]冰冷之帐",
+					"effect": "只要这只宝可梦在场上，每次宝可梦检查时，在双方的拥有特性的所有宝可梦（「雪妖女」除外）身上各放置1个伤害指示物。"
+				},
+				{
+					"name": "冰霜粉碎",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Froslass",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_174_R_EN.png",
+			"cardNo": "174",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_175_R_EN.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "霏欧纳",
+			"skillList": [{
+					"name": "招唤",
+					"effect": "从自己的弃牌区选择1张支援者卡，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "能量压制",
+					"effect": "造成对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Phione",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_175_R_EN.png",
+			"cardNo": "175",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_176_R_EN.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "古月鸟",
+			"skillList": [{
+					"name": "水枪",
+					"effect": ""
+				},
+				{
+					"name": "喷吐射击",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃，对手的1只宝可梦受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				}
+			],
+			"series": "SV6",
+			"ename": "Cramorant",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_176_R_EN.png",
+			"cardNo": "176",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_177_R_EN.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "光电伞蜥",
+			"skillList": [{
+				"name": "疯狂伏特",
+				"effect": "这只宝可梦也受到20点伤害。"
+			}],
+			"series": "SV6",
+			"ename": "Heliolisk",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_177_R_EN.png",
+			"cardNo": "177",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_178_R_EN.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "电海燕",
+			"skillList": [{
+				"name": "电击",
+				"effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+			}],
+			"series": "SV6",
+			"ename": "Wattrel",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_178_R_EN.png",
+			"cardNo": "178",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_179_R_EN.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "风铃铃",
+			"skillList": [{
+					"name": "巨声",
+					"effect": ""
+				},
+				{
+					"name": "回家钟声",
+					"effect": "选择1只自己的备战宝可梦，将那只宝可梦与附加的卡全部放回牌库并重洗。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Chimecho",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_179_R_EN.png",
+			"cardNo": "179",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_180_R_EN.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "眷恋云",
+			"skillList": [{
+					"name": "爱心标志",
+					"effect": ""
+				},
+				{
+					"name": "爱之同感",
+					"effect": "若自己的场上有与对手的场上宝可梦相同属性的宝可梦，则增加120点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Enamorus",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_180_R_EN.png",
+			"cardNo": "180",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_181_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "洗翠 卡蒂狗",
+			"skillList": [{
+					"name": "全部烧光",
+					"effect": "将场上的竞技场卡丢弃。"
+				},
+				{
+					"name": "猛撞",
+					"effect": "这只宝可梦也受到10点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hisuian Growlithe",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_181_R_EN.png",
+			"cardNo": "181",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_182_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "大朝北鼻",
+			"skillList": [{
+					"name": "进击镭射",
+					"effect": "若对手的战斗宝可梦身上附有「宝可梦道具」卡，则增加80点伤害。"
+				},
+				{
+					"name": "大地粉碎",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Probopass",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_182_R_EN.png",
+			"cardNo": "182",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_183_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "搬运小匠",
+			"skillList": [{
+				"name": "全力拳",
+				"effect": "掷1次硬币若为反面，则这个招式失败。"
+			}],
+			"series": "SV6",
+			"ename": "Timburr",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_183_R_EN.png",
+			"cardNo": "183",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_184_R_EN.png",
+			"typeEnergy": "Metal",
+			"type": "Pokemon",
+			"cardName": "可多拉",
+			"skillList": [{
+					"name": "钢铁冲撞",
+					"effect": "这只宝可梦也受到20点伤害。"
+				},
+				{
+					"name": "金属爪",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Lairon",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_184_R_EN.png",
+			"cardNo": "184",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_185_R_EN.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "啃果虫",
+			"skillList": [{
+					"name": "寻找朋友",
+					"effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "滚动冲撞",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Applin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_185_R_EN.png",
+			"cardNo": "185",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_186_R_EN.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "米立龙",
+			"skillList": [{
+					"name": "[特性]集客",
+					"effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。查看自己的牌库上方6张卡，从其中选择1张支援者卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+				},
+				{
+					"name": "冲浪",
+					"effect": ""
+				}
+			],
+			"series": "SV6",
+			"ename": "Tatsugiri",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_186_R_EN.png",
+			"cardNo": "186",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_187_R_EN.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "吉利蛋",
+			"skillList": [{
+					"name": "幸运贴附",
+					"effect": "从自己的手牌选择1张基本能量卡，附于自己的宝可梦身上。"
+				},
+				{
+					"name": "潜力",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Chansey",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_187_R_EN.png",
+			"cardNo": "187",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_188_R_EN.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "伊布",
+			"skillList": [{
+					"name": "觉醒",
+					"effect": "从自己的牌库选择1张从这只宝可梦进化而来的卡，放置于这只宝可梦身上完成进化。并且重洗牌库。"
+				},
+				{
+					"name": "电光一闪",
+					"effect": "掷1次硬币若为正面，则增加20点伤害。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Eevee",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_188_R_EN.png",
+			"cardNo": "188",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_189_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "来悲粗茶ex",
+			"skillList": [{
+					"name": "熬返",
+					"effect": "在给对手看过自己的弃牌区的所有「基本【草】能量」卡后，将与其张数×2个的相同数量的伤害指示物，放置于对手的1只宝可梦身上。然后，将给对手看过的能量卡放回牌库并重洗。"
+				},
+				{
+					"name": "抹茶飞溅",
+					"effect": "将自己的所有宝可梦各恢复「30」HP。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sinistcha ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_189_R_EN.png",
+			"cardNo": "189",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_190_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 碧草面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "[特性]碧绿之舞",
+					"effect": "在自己的回合时可使用1次。从自己的手牌选择1张「基本【草】能量」卡，附于这只宝可梦身上。然后，从自己的牌库抽出1张卡。"
+				},
+				{
+					"name": "万叶阵雨",
+					"effect": "增加双方的战斗宝可梦身上附加的能量的数量×30点伤害。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Teal Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_190_R_EN.png",
+			"cardNo": "190",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_191_R_EN.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "熔岩蜗牛ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "炽热熔岩",
+					"effect": "将对手的战斗宝可梦【灼伤】。"
+				},
+				{
+					"name": "大地灼烧",
+					"effect": "将双方的牌库上方各1张卡丢弃，增加其中能量卡的张数×140点伤害。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Magcargo ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_191_R_EN.png",
+			"cardNo": "191",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_192_R_EN.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 火灶面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "愤怒之窑",
+					"effect": "造成这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
+				},
+				{
+					"name": "极限火焰",
+					"effect": "若对手的战斗宝可梦为进化宝可梦，则增加140点伤害。这个情况下，将这只宝可梦身上附加的能量卡全部丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hearthflame Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_192_R_EN.png",
+			"cardNo": "192",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_193_R_EN.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "海豚侠ex",
+			"skillList": [{
+					"name": "[特性]全能灵魂",
+					"effect": "这张卡只可依据「海豚侠」的特性「全能变身」的效果放置于场上。"
+				},
+				{
+					"name": "终极冲击",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Palafin ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_193_R_EN.png",
+			"cardNo": "193",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_194_R_EN.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 水井面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "啜泣",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+				},
+				{
+					"name": "激流水泵",
+					"effect": "若希望，选择3个这只宝可梦身上附加的能量，放回牌库并重洗。这个情况下，对手的1只备战宝可梦也受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Wellspring Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_194_R_EN.png",
+			"cardNo": "194",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_195_R_EN.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "伦琴猫ex",
+			"skillList": [{
+					"name": "突刺目光",
+					"effect": "查看对手的手牌，从其中选择1张卡，将其丢弃。"
+				},
+				{
+					"name": "伏特强袭",
+					"effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Luxray ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_195_R_EN.png",
+			"cardNo": "195",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_196_R_EN.png",
+			"typeEnergy": "Lightning",
+			"type": "Pokemon",
+			"cardName": "铁荆棘ex",
+			"skillList": [{
+					"name": "[特性]初始化",
+					"effect": "只要这只宝可梦在战斗场上，双方场上「拥有规则的宝可梦」（「未来」宝可梦除外）的特性全部消除。"
+				},
+				{
+					"name": "伏特旋风",
+					"effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Iron Thorns ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_196_R_EN.png",
+			"cardNo": "196",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_197_R_EN.png",
+			"typeEnergy": "Psychic",
+			"type": "Pokemon",
+			"cardName": "吼叫尾ex",
+			"skillList": [{
+					"name": "绝叫",
+					"effect": "这个招式只可在后攻玩家的最初回合使用。在下个对手的回合，对手无法从手牌使出支援者卡。"
+				},
+				{
+					"name": "咬碎",
+					"effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Scream Tail ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_197_R_EN.png",
+			"cardNo": "197",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_198_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "甲贺忍蛙ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "忍之利刃",
+					"effect": "若希望，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "分身连打",
+					"effect": "将2个这只宝可梦身上附加的能量丢弃，对手的2只宝可梦各受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Greninja ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_198_R_EN.png",
+			"cardNo": "198",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_199_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 础石面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "[特性]础石之势",
+					"effect": "这只宝可梦不会受到对手的拥有特性的宝可梦招式的伤害。"
+				},
+				{
+					"name": "打爆",
+					"effect": "这个招式的伤害不计算弱点・抵抗力与对手的战斗宝可梦身上的附加效果。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Cornerstone Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_199_R_EN.png",
+			"cardNo": "199",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_200_R_EN.png",
+			"typeEnergy": "Dragon",
+			"type": "Pokemon",
+			"cardName": "多龙巴鲁托ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "喷射头击",
+					"effect": ""
+				},
+				{
+					"name": "幻影奇袭",
+					"effect": "将6个伤害指示物以任意方式放置于对手的备战宝可梦身上。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Dragapult ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_200_R_EN.png",
+			"cardNo": "200",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_201_R_EN.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "幸福蛋ex",
+			"skillList": [{
+					"name": "[特性]幸福切换",
+					"effect": "在自己的回合时可使用1次。选择1个自己的场上宝可梦身上附加的基本能量，改附于自己的其他宝可梦身上。"
+				},
+				{
+					"name": "报恩",
+					"effect": "若希望，从牌库抽卡直到自己的手牌满6张为止。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Blissey ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_201_R_EN.png",
+			"cardNo": "201",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_202_R_EN.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "月月熊 赫月ex",
+			"skillList": [{
+					"name": "[特性]老练招式",
+					"effect": "这只宝可梦使用「血月」所需的【无】能量，减少对手已经获得的奖赏卡的张数数量。"
+				},
+				{
+					"name": "血月",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Bloodmoon Ursaluna ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_202_R_EN.png",
+			"cardNo": "202",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_203_R_EN.png",
+			"type": "Trainers",
+			"cardName": "管理员",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的牌库抽出2张卡。然后，若场上有「居民会馆」，则不丢弃这张「管理员」，而是放回牌库并重洗。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Caretaker",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_203_R_EN.png",
+			"cardNo": "203",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_204_R_EN.png",
+			"type": "Trainers",
+			"cardName": "丹瑜",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡可在先攻玩家的最初回合使用。"
+				},
+				{
+					"name": "",
+					"effect": "将自己的手牌全部丢弃，从牌库抽出5张卡。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Carmine",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_204_R_EN.png",
+			"cardNo": "204",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_205_R_EN.png",
+			"type": "Trainers",
+			"cardName": "八朔",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡必须在上个对手的回合自己的宝可梦【昏厥】了才可使用。"
+				},
+				{
+					"name": "",
+					"effect": "查看自己的牌库上方8张卡，从其中选择最多3张卡加入手牌。将剩余卡放回牌库并重洗。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hassel",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_205_R_EN.png",
+			"cardNo": "205",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_206_R_EN.png",
+			"type": "Trainers",
+			"cardName": "乌栗",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡从2种效果中选择1种使用。"
+				},
+				{
+					"name": "",
+					"effect": " ◆将自己的战斗宝可梦与备战宝可梦互换。"
+				},
+				{
+					"name": "",
+					"effect": "◆在这个回合，自己的宝可梦使用的招式，对对手的战斗场的「宝可梦【ex】・【V】」造成的伤害「+30」点。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Kieran",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_206_R_EN.png",
+			"cardNo": "206",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_207_R_EN.png",
+			"type": "Trainers",
+			"cardName": "水莲的照顾",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的弃牌区选择宝可梦卡（「拥有规则的宝可梦」除外）与基本能量卡合计最多3张，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lana's Aid",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_207_R_EN.png",
+			"cardNo": "207",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_208_R_EN.png",
+			"type": "Trainers",
+			"cardName": "悟松",
+			"skillList": [{
+					"name": "",
+					"effect": "双方玩家各将自己的手牌全部翻回反面并重洗，放回牌库下方。然后，双方玩家各掷1次硬币，若为正面，则从牌库抽出6张卡，若为反面，则从牌库抽出3张卡。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lucian",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_208_R_EN.png",
+			"cardNo": "208",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_209_R_EN.png",
+			"type": "Trainers",
+			"cardName": "沙俪",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的手牌选择最多2张宝可梦卡，在给对手看过后放回牌库。然后，从自己的牌库选择最多与放回的张数相同数量的宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Perrin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_209_R_EN.png",
+			"cardNo": "209",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_210_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "来悲粗茶ex",
+			"skillList": [{
+					"name": "熬返",
+					"effect": "在给对手看过自己的弃牌区的所有「基本【草】能量」卡后，将与其张数×2个的相同数量的伤害指示物，放置于对手的1只宝可梦身上。然后，将给对手看过的能量卡放回牌库并重洗。"
+				},
+				{
+					"name": "抹茶飞溅",
+					"effect": "将自己的所有宝可梦各恢复「30」HP。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Sinistcha ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_210_R_EN.png",
+			"cardNo": "210",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_211_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 碧草面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "[特性]碧绿之舞",
+					"effect": "在自己的回合时可使用1次。从自己的手牌选择1张「基本【草】能量」卡，附于这只宝可梦身上。然后，从自己的牌库抽出1张卡。"
+				},
+				{
+					"name": "万叶阵雨",
+					"effect": "增加双方的战斗宝可梦身上附加的能量的数量×30点伤害。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Teal Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_211_R_EN.png",
+			"cardNo": "211",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_212_R_EN.png",
+			"typeEnergy": "Fire",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 火灶面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "愤怒之窑",
+					"effect": "造成这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
+				},
+				{
+					"name": "极限火焰",
+					"effect": "若对手的战斗宝可梦为进化宝可梦，则增加140点伤害。这个情况下，将这只宝可梦身上附加的能量卡全部丢弃。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Hearthflame Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_212_R_EN.png",
+			"cardNo": "212",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_213_R_EN.png",
+			"typeEnergy": "Water",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 水井面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "啜泣",
+					"effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+				},
+				{
+					"name": "激流水泵",
+					"effect": "若希望，选择3个这只宝可梦身上附加的能量，放回牌库并重洗。这个情况下，对手的1只备战宝可梦也受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Wellspring Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_213_R_EN.png",
+			"cardNo": "213",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_214_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "甲贺忍蛙ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "忍之利刃",
+					"effect": "若希望，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "分身连打",
+					"effect": "将2个这只宝可梦身上附加的能量丢弃，对手的2只宝可梦各受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Greninja ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_214_R_EN.png",
+			"cardNo": "214",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_215_R_EN.png",
+			"typeEnergy": "Fighting",
+			"type": "Pokemon",
+			"cardName": "厄鬼椪 础石面具ex",
+			"skillList": [{
+					"name": "[太晶]",
+					"effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+				},
+				{
+					"name": "[特性]础石之势",
+					"effect": "这只宝可梦不会受到对手的拥有特性的宝可梦招式的伤害。"
+				},
+				{
+					"name": "打爆",
+					"effect": "这个招式的伤害不计算弱点・抵抗力与对手的战斗宝可梦身上的附加效果。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Cornerstone Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_215_R_EN.png",
+			"cardNo": "215",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_216_R_EN.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "月月熊 赫月ex",
+			"skillList": [{
+					"name": "[特性]老练招式",
+					"effect": "这只宝可梦使用「血月」所需的【无】能量，减少对手已经获得的奖赏卡的张数数量。"
+				},
+				{
+					"name": "血月",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Bloodmoon Ursaluna ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_216_R_EN.png",
+			"cardNo": "216",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_217_R_EN.png",
+			"type": "Trainers",
+			"cardName": "丹瑜",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡可在先攻玩家的最初回合使用。"
+				},
+				{
+					"name": "",
+					"effect": "将自己的手牌全部丢弃，从牌库抽出5张卡。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Carmine",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_217_R_EN.png",
+			"cardNo": "217",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_218_R_EN.png",
+			"type": "Trainers",
+			"cardName": "乌栗",
+			"skillList": [{
+					"name": "",
+					"effect": "这张卡从2种效果中选择1种使用。"
+				},
+				{
+					"name": "",
+					"effect": " ◆将自己的战斗宝可梦与备战宝可梦互换。"
+				},
+				{
+					"name": "",
+					"effect": "◆在这个回合，自己的宝可梦使用的招式，对对手的战斗场的「宝可梦【ex】・【V】」造成的伤害「+30」点。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Kieran",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_218_R_EN.png",
+			"cardNo": "218",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_219_R_EN.png",
+			"type": "Trainers",
+			"cardName": "水莲的照顾",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的弃牌区选择宝可梦卡（「拥有规则的宝可梦」除外）与基本能量卡合计最多3张，在给对手看过后加入手牌。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Lana's Aid",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_219_R_EN.png",
+			"cardNo": "219",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_220_R_EN.png",
+			"type": "Trainers",
+			"cardName": "沙俪",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的手牌选择最多2张宝可梦卡，在给对手看过后放回牌库。然后，从自己的牌库选择最多与放回的张数相同数量的宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+				},
+				{
+					"name": "[支援者规则]",
+					"effect": "在自己的回合时，支援者卡只可使用1张。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Perrin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_220_R_EN.png",
+			"cardNo": "220",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_221_R_EN.png",
+			"typeEnergy": "Grass",
+			"type": "Pokemon",
+			"cardName": "来悲粗茶ex",
+			"skillList": [{
+					"name": "熬返",
+					"effect": "在给对手看过自己的弃牌区的所有「基本【草】能量」卡后，将与其张数×2个的相同数量的伤害指示物，放置于对手的1只宝可梦身上。然后，将给对手看过的能量卡放回牌库并重洗。"
+				},
+				{
+					"name": "抹茶飞溅",
+					"effect": "将自己的所有宝可梦各恢复「30」HP。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Teal Mask Ogerpon ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_221_R_EN.png",
+			"cardNo": "221",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_222_R_EN.png",
+			"typeEnergy": "Colorless",
+			"type": "Pokemon",
+			"cardName": "月月熊 赫月ex",
+			"skillList": [{
+					"name": "[特性]老练招式",
+					"effect": "这只宝可梦使用「血月」所需的【无】能量，减少对手已经获得的奖赏卡的张数数量。"
+				},
+				{
+					"name": "血月",
+					"effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+				},
+				{
+					"name": "[ex规则]",
+					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Bloodmoon Ursaluna ex",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_222_R_EN.png",
+			"cardNo": "222",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_223_R_EN.png",
+			"type": "Trainers",
+			"cardName": "好友宝芬",
+			"skillList": [{
+					"name": "",
+					"effect": "从自己的牌库选择最多2张HP为「70」以下的【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Buddy-Buddy Poffin",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_223_R_EN.png",
+			"cardNo": "223",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_224_R_EN.png",
+			"type": "Trainers",
+			"cardName": "改造之锤",
+			"skillList": [{
+					"name": "",
+					"effect": "选择1个对手的场上宝可梦身上附加的特殊能量，将其丢弃。"
+				},
+				{
+					"name": "[物品规则]",
+					"effect": "在自己的回合时，物品卡可不限张数使用。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Enhanced Hammer",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_224_R_EN.png",
+			"cardNo": "224",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_225_R_EN.png",
+			"type": "Trainers",
+			"cardName": "紧急滑板",
+			"skillList": [{
+					"name": "",
+					"effect": "附有这张卡的宝可梦，【撤退】所需的能量减少1个。若那只宝可梦的剩余HP为「30」以下，则【撤退】所需的能量全部消除。"
+				},
+				{
+					"name": "[宝可梦道具规则]",
+					"effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Rescue Board",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_225_R_EN.png",
+			"cardNo": "225",
+			"isHide": true
+		},
+		{
+			"imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_226_R_EN.png",
+			"type": "Energy",
+			"cardName": "夜光能量",
+			"skillList": [{
+					"name": "",
+					"effect": "只要这张卡附于宝可梦身上，视为提供1个所有属性的能量。"
+				},
+				{
+					"name": "",
+					"effect": "若附有这张卡的宝可梦身上附有这张卡以外的特殊能量卡，则视为提供1个【无】能量。"
+				}
+			],
+			"series": "SV6",
+			"ename": "Luminous Energy",
+			"enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TWM/TWM_226_R_EN.png",
+			"cardNo": "226",
+			"isHide": true
+		}
+	]
+}
