@@ -1,6 +1,30 @@
 {
   "result": [
     {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_001_R_EN.png",
+      "typeEnergy": "Grass",
+      "type": "Pokemon",
+      "cardName": "妙蛙花ex",
+      "skillList": [
+        {
+          "name": "[特性]平和之花",
+          "effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。将自己的1只宝可梦恢复「60」HP。"
+        },
+        {
+          "name": "剧毒鞭打",
+          "effect": "将对手的战斗宝可梦【中毒】与【混乱】。"
+        },
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Venusaur ex",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_001_R_EN_LG.png",
+      "cardNo": "1"
+    },
+    {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010896.png",
       "typeEnergy": "Grass",
       "type": "Pokemon",
@@ -13,8 +37,8 @@
       ],
       "series": "SV7",
       "ename": "Ledyba",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_1_R_JP.png",
-      "cardNo": "1"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_002_R_EN_LG.png",
+      "cardNo": "2"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010897.png",
@@ -33,8 +57,28 @@
       ],
       "series": "SV7",
       "ename": "Ledian",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_2_R_JP.png",
-      "cardNo": "2"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_003_R_EN_LG.png",
+      "cardNo": "3"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_004_R_EN_LG.png",
+      "typeEnergy": "Grass",
+      "type": "Pokemon",
+      "cardName": "時拉比",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Celebi",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_004_R_EN_LG.png",
+      "cardNo": "4"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010898.png",
@@ -49,8 +93,8 @@
       ],
       "series": "SV7",
       "ename": "Lileep",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_3_R_JP.png",
-      "cardNo": "3"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_005_R_EN_LG.png",
+      "cardNo": "5"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010899.png",
@@ -69,8 +113,8 @@
       ],
       "series": "SV7",
       "ename": "Cradily",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_4_R_JP.png",
-      "cardNo": "4"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_006_R_EN_LG.png",
+      "cardNo": "6"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010900.png",
@@ -89,8 +133,8 @@
       ],
       "series": "SV7",
       "ename": "Carnivine",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_5_R_JP.png",
-      "cardNo": "5"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_007_R_EN_LG.png",
+      "cardNo": "7"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010901.png",
@@ -105,8 +149,8 @@
       ],
       "series": "SV7",
       "ename": "Mow Rotom",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_6_R_JP.png",
-      "cardNo": "6"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_008_R_EN_LG.png",
+      "cardNo": "8"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010902.png",
@@ -121,8 +165,8 @@
       ],
       "series": "SV7",
       "ename": "Grubbin",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_7_R_JP.png",
-      "cardNo": "7"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_009_R_EN_LG.png",
+      "cardNo": "9"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010903.png",
@@ -137,8 +181,8 @@
       ],
       "series": "SV7",
       "ename": "Gossifleur",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_8_R_JP.png",
-      "cardNo": "8"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_010_R_EN_LG.png",
+      "cardNo": "10"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010904.png",
@@ -157,8 +201,8 @@
       ],
       "series": "SV7",
       "ename": "Eldegoss",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_9_R_JP.png",
-      "cardNo": "9"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_011_R_EN_LG.png",
+      "cardNo": "11"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010905.png",
@@ -173,8 +217,8 @@
       ],
       "series": "SV7",
       "ename": "Applin",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_10_R_JP.png",
-      "cardNo": "10"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_012_R_EN_LG.png",
+      "cardNo": "12"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010906.png",
@@ -189,8 +233,8 @@
       ],
       "series": "SV7",
       "ename": "Dipplin",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_11_R_JP.png",
-      "cardNo": "11"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_013_R_EN_LG.png",
+      "cardNo": "13"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010907.png",
@@ -206,15 +250,155 @@
           "name": "蜜糖风暴",
           "effect": "增加自己的所有宝可梦身上附加的【草】能量的数量×30点伤害。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Hydrapple ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_12_R_JP.png",
-      "cardNo": "12"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_014_R_EN_LG.png",
+      "cardNo": "14"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_015_R_EN_LG.png",
+      "typeEnergy": "Grass",
+      "type": "Pokemon",
+      "cardName": "豆蟋蟀",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Nymble",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_015_R_EN_LG.png",
+      "cardNo": "15"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_016_R_EN_LG.png",
+      "typeEnergy": "Grass",
+      "type": "Pokemon",
+      "cardName": "烈腿蝗",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Lokix",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_016_R_EN_LG.png",
+      "cardNo": "16"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_017_R_EN_LG.png",
+      "typeEnergy": "Grass",
+      "type": "Pokemon",
+      "cardName": "原野水母",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Toedscool",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_017_R_EN_LG.png",
+      "cardNo": "17"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_018_R_EN_LG.png",
+      "typeEnergy": "Grass",
+      "type": "Pokemon",
+      "cardName": "陆地水母",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Toedscruel",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_018_R_EN_LG.png",
+      "cardNo": "18"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_019_R_EN_LG.png",
+      "typeEnergy": "Fire",
+      "type": "Pokemon",
+      "cardName": "小火马",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Ponyta",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_019_R_EN_LG.png",
+      "cardNo": "19"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_020_R_EN_LG.png",
+      "typeEnergy": "Fire",
+      "type": "Pokemon",
+      "cardName": "烈焰马",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Rapidash",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_020_R_EN_LG.png",
+      "cardNo": "20"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_021_R_EN_LG.png",
+      "typeEnergy": "Fire",
+      "type": "Pokemon",
+      "cardName": "爆香猴",
+      "skillList": [
+        {
+          "name": "呼朋引伴",
+          "effect": "从自己的牌库选择1张【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
+        },
+        {
+          "name": "灼烧",
+          "effect": "将对手的战斗宝可梦【灼伤】。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Pansear",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_021_R_EN_LG.png",
+      "cardNo": "21"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_022_R_EN_LG.png",
+      "typeEnergy": "Fire",
+      "type": "Pokemon",
+      "cardName": "莱希拉姆",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Reshiram",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_022_R_EN_LG.png",
+      "cardNo": "22"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010908.png",
@@ -229,8 +413,8 @@
       ],
       "series": "SV7",
       "ename": "Salandit",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_13_R_JP.png",
-      "cardNo": "13"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_023_R_EN_LG.png",
+      "cardNo": "23"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010909.png",
@@ -249,8 +433,8 @@
       ],
       "series": "SV7",
       "ename": "Salazzle",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_14_R_JP.png",
-      "cardNo": "14"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_024_R_EN_LG.png",
+      "cardNo": "24"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010910.png",
@@ -269,8 +453,8 @@
       ],
       "series": "SV7",
       "ename": "Turtonator",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_15_R_JP.png",
-      "cardNo": "15"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_025_R_EN_LG.png",
+      "cardNo": "25"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010911.png",
@@ -285,8 +469,8 @@
       ],
       "series": "SV7",
       "ename": "Scorbunny",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_16_R_JP.png",
-      "cardNo": "16"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_026_R_EN_LG.png",
+      "cardNo": "26"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010912.png",
@@ -305,8 +489,8 @@
       ],
       "series": "SV7",
       "ename": "Raboot",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_17_R_JP.png",
-      "cardNo": "17"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_027_R_EN_LG.png",
+      "cardNo": "27"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010913.png",
@@ -326,15 +510,75 @@
           "name": "石榴石截击",
           "effect": "对手的1只宝可梦受到180点伤害。[在备战区不计算弱点・抵抗力。]"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Cinderace ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_18_R_JP.png",
-      "cardNo": "18"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_028_R_EN_LG.png",
+      "cardNo": "28"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_029_R_EN_LG.png",
+      "typeEnergy": "Fire",
+      "type": "Pokemon",
+      "cardName": "炭小侍",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Charcadet",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_029_R_EN_LG.png",
+      "cardNo": "29"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_030_R_EN_LG.png",
+      "typeEnergy": "Water",
+      "type": "Pokemon",
+      "cardName": "水箭龟ex",
+      "skillList": [
+        {
+          "name": "[特性]坚硬甲壳",
+          "effect": "这只宝可梦受到招式的伤害「-30」点。"
+        },
+        {
+          "name": "双加农炮",
+          "effect": "从自己的手牌将最多2张「基本【水】能量」卡丢弃，造成其张数×140点伤害。"
+        },
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Blastoise ex",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_030_R_EN_LG.png",
+      "cardNo": "30"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_031_R_EN_LG.png",
+      "typeEnergy": "Water",
+      "type": "Pokemon",
+      "cardName": "拉普拉斯",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Lapras",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_031_R_EN_LG.png",
+      "cardNo": "31"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010914.png",
@@ -354,15 +598,47 @@
           "name": "海纹石之雨",
           "effect": "查看自己的牌库上方20张卡，从其中选择任意数量的能量卡，以任意方式附于自己的宝可梦身上。将剩余卡放回牌库并重洗。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Lapras ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_19_R_JP.png",
-      "cardNo": "19"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_032_R_EN_LG.png",
+      "cardNo": "32"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_033_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "玛力露",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Marill",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_033_R_EN_LG.png",
+      "cardNo": "33"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_034_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "玛力露丽",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Azumarill",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_034_R_EN_LG.png",
+      "cardNo": "34"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010915.png",
@@ -377,8 +653,8 @@
       ],
       "series": "SV7",
       "ename": "Finneon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_20_R_JP.png",
-      "cardNo": "20"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_035_R_EN_LG.png",
+      "cardNo": "35"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010916.png",
@@ -397,8 +673,8 @@
       ],
       "series": "SV7",
       "ename": "Lumineon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_21_R_JP.png",
-      "cardNo": "21"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_036_R_EN_LG.png",
+      "cardNo": "36"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010917.png",
@@ -413,8 +689,8 @@
       ],
       "series": "SV7",
       "ename": "Tirtouga",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_22_R_JP.png",
-      "cardNo": "22"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_037_R_EN_LG.png",
+      "cardNo": "37"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010918.png",
@@ -433,8 +709,60 @@
       ],
       "series": "SV7",
       "ename": "Carracosta",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_23_R_JP.png",
-      "cardNo": "23"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_038_R_EN_LG.png",
+      "cardNo": "38"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_039_R_EN_LG.png",
+      "typeEnergy": "Water",
+      "type": "Pokemon",
+      "cardName": "呱呱泡蛙",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Froakie",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_039_R_EN_LG.png",
+      "cardNo": "39"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_040_R_EN_LG.png",
+      "typeEnergy": "Water",
+      "type": "Pokemon",
+      "cardName": "呱头蛙",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Frogadier",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_040_R_EN_LG.png",
+      "cardNo": "40"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_041_R_EN_LG.png",
+      "typeEnergy": "Fighting",
+      "type": "Pokemon",
+      "cardName": "甲贺忍蛙ex",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Greninja ex",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_041_R_EN_LG.png",
+      "cardNo": "41"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010919.png",
@@ -453,8 +781,8 @@
       ],
       "series": "SV7",
       "ename": "Crabominable",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_24_R_JP.png",
-      "cardNo": "24"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_042_R_EN_LG.png",
+      "cardNo": "42"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010920.png",
@@ -469,8 +797,8 @@
       ],
       "series": "SV7",
       "ename": "Chewtle",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_25_R_JP.png",
-      "cardNo": "25"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_043_R_EN_LG.png",
+      "cardNo": "43"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010921.png",
@@ -489,8 +817,8 @@
       ],
       "series": "SV7",
       "ename": "Drednaw",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_26_R_JP.png",
-      "cardNo": "26"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_044_R_EN_LG.png",
+      "cardNo": "44"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010922.png",
@@ -509,8 +837,8 @@
       ],
       "series": "SV7",
       "ename": "Veluza",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_27_R_JP.png",
-      "cardNo": "27"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_045_R_EN_LG.png",
+      "cardNo": "45"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010923.png",
@@ -529,8 +857,8 @@
       ],
       "series": "SV7",
       "ename": "Electabuzz",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_28_R_JP.png",
-      "cardNo": "28"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_046_R_EN_LG.png",
+      "cardNo": "46"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010924.png",
@@ -549,8 +877,8 @@
       ],
       "series": "SV7",
       "ename": "Electivire",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_29_R_JP.png",
-      "cardNo": "29"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_047_R_EN_LG.png",
+      "cardNo": "47"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010925.png",
@@ -565,8 +893,8 @@
       ],
       "series": "SV7",
       "ename": "Chinchou",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_30_R_JP.png",
-      "cardNo": "30"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_048_R_EN_LG.png",
+      "cardNo": "48"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010926.png",
@@ -585,8 +913,8 @@
       ],
       "series": "SV7",
       "ename": "Lanturn",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_31_R_JP.png",
-      "cardNo": "31"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_049_R_EN_LG.png",
+      "cardNo": "49"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010927.png",
@@ -601,8 +929,8 @@
       ],
       "series": "SV7",
       "ename": "Joltik",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_32_R_JP.png",
-      "cardNo": "32"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_050_R_EN_LG.png",
+      "cardNo": "50"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010928.png",
@@ -622,15 +950,15 @@
           "name": "雷击石",
           "effect": "将这只宝可梦身上附加的能量卡全部丢弃。在下个对手的回合，对手无法从手牌使出物品卡。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Galvantula ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_33_R_JP.png",
-      "cardNo": "33"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_051_R_EN_LG.png",
+      "cardNo": "51"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010929.png",
@@ -645,8 +973,8 @@
       ],
       "series": "SV7",
       "ename": "Charjabug",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_34_R_JP.png",
-      "cardNo": "34"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_052_R_EN_LG.png",
+      "cardNo": "52"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010930.png",
@@ -665,8 +993,8 @@
       ],
       "series": "SV7",
       "ename": "Vikavolt",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_35_R_JP.png",
-      "cardNo": "35"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_053_R_EN_LG.png",
+      "cardNo": "53"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010931.png",
@@ -681,8 +1009,8 @@
       ],
       "series": "SV7",
       "ename": "Togedemaru",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_36_R_JP.png",
-      "cardNo": "36"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_054_R_EN_LG.png",
+      "cardNo": "54"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010932.png",
@@ -697,8 +1025,24 @@
       ],
       "series": "SV7",
       "ename": "Zeraora",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_37_R_JP.png",
-      "cardNo": "37"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_055_R_EN_LG.png",
+      "cardNo": "55"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_056_R_EN_LG.png",
+      "typeEnergy": "Lightning",
+      "type": "Pokemon",
+      "cardName": "布拨",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Pawmi",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_056_R_EN_LG.png",
+      "cardNo": "56"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010933.png",
@@ -717,8 +1061,8 @@
       ],
       "series": "SV7",
       "ename": "Slowpoke",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_38_R_JP.png",
-      "cardNo": "38"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_057_R_EN_LG.png",
+      "cardNo": "57"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010934.png",
@@ -737,8 +1081,24 @@
       ],
       "series": "SV7",
       "ename": "Slowking",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_39_R_JP.png",
-      "cardNo": "39"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_058_R_EN_LG.png",
+      "cardNo": "58"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_059_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "超梦",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Mewtwo",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_059_R_EN_LG.png",
+      "cardNo": "59"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010935.png",
@@ -753,8 +1113,8 @@
       ],
       "series": "SV7",
       "ename": "Drifloon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_40_R_JP.png",
-      "cardNo": "40"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_060_R_EN_LG.png",
+      "cardNo": "60"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010936.png",
@@ -769,8 +1129,24 @@
       ],
       "series": "SV7",
       "ename": "Drifblim",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_41_R_JP.png",
-      "cardNo": "41"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_061_R_EN_LG.png",
+      "cardNo": "61"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_062_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "哭哭面具",
+      "skillList": [
+        {
+          "name": "不祥之眼",
+          "effect": "在对手的1只宝可梦身上放置3个伤害指示物。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Yamask",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_062_R_EN_LG.png",
+      "cardNo": "62"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010937.png",
@@ -789,8 +1165,8 @@
       ],
       "series": "SV7",
       "ename": "Comfey",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_42_R_JP.png",
-      "cardNo": "42"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_063_R_EN_LG.png",
+      "cardNo": "63"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010938.png",
@@ -805,8 +1181,8 @@
       ],
       "series": "SV7",
       "ename": "Milcery",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_43_R_JP.png",
-      "cardNo": "43"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_064_R_EN_LG.png",
+      "cardNo": "64"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010939.png",
@@ -825,8 +1201,8 @@
       ],
       "series": "SV7",
       "ename": "Alcremie",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_44_R_JP.png",
-      "cardNo": "44"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_065_R_EN_LG.png",
+      "cardNo": "65"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010940.png",
@@ -845,8 +1221,8 @@
       ],
       "series": "SV7",
       "ename": "Fidough",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_45_R_JP.png",
-      "cardNo": "45"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_066_R_EN_LG.png",
+      "cardNo": "66"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010941.png",
@@ -862,15 +1238,67 @@
           "name": "奇迹闪耀",
           "effect": "将对手的战斗宝可梦【混乱】。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Dachsbun ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_46_R_JP.png",
-      "cardNo": "46"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_067_R_EN_LG.png",
+      "cardNo": "67"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_068_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "飘飘雏",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Flittle",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_068_R_EN_LG.png",
+      "cardNo": "68"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_069_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "超能艳鸵",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Espathra",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_069_R_EN_LG.png",
+      "cardNo": "69"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_070_R_EN_LG.png",
+      "typeEnergy": "Psychic",
+      "type": "Pokemon",
+      "cardName": "墓仔狗",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Greavard",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_070_R_EN_LG.png",
+      "cardNo": "70"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010942.png",
@@ -885,8 +1313,8 @@
       ],
       "series": "SV7",
       "ename": "Iron Boulder",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_47_R_JP.png",
-      "cardNo": "47"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_071_R_EN_LG.png",
+      "cardNo": "71"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010943.png",
@@ -901,8 +1329,8 @@
       ],
       "series": "SV7",
       "ename": "Cubone",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_48_R_JP.png",
-      "cardNo": "48"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_072_R_EN_LG.png",
+      "cardNo": "72"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010944.png",
@@ -921,8 +1349,8 @@
       ],
       "series": "SV7",
       "ename": "Marowak",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_49_R_JP.png",
-      "cardNo": "49"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_073_R_EN_LG.png",
+      "cardNo": "73"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010945.png",
@@ -937,8 +1365,8 @@
       ],
       "series": "SV7",
       "ename": "Rhyhorn",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_50_R_JP.png",
-      "cardNo": "50"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_074_R_EN_LG.png",
+      "cardNo": "74"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010946.png",
@@ -953,8 +1381,8 @@
       ],
       "series": "SV7",
       "ename": "Rhydon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_51_R_JP.png",
-      "cardNo": "51"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_075_R_EN_LG.png",
+      "cardNo": "75"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010947.png",
@@ -973,8 +1401,24 @@
       ],
       "series": "SV7",
       "ename": "Rhyperior",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_52_R_JP.png",
-      "cardNo": "52"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_076_R_EN_LG.png",
+      "cardNo": "76"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_077_R_EN_LG.png",
+      "typeEnergy": "Fighting",
+      "type": "Pokemon",
+      "cardName": "玛沙那",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Meditite",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_077_R_EN_LG.png",
+      "cardNo": "77"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010948.png",
@@ -993,8 +1437,24 @@
       ],
       "series": "SV7",
       "ename": "Meditite",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_53_R_JP.png",
-      "cardNo": "53"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_078_R_EN_LG.png",
+      "cardNo": "78"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_079_R_EN_LG.png",
+      "typeEnergy": "Fighting",
+      "type": "Pokemon",
+      "cardName": "恰雷姆ex",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Medicham",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_079_R_EN_LG.png",
+      "cardNo": "79"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010949.png",
@@ -1010,15 +1470,55 @@
           "name": "瑜伽踢",
           "effect": "这个招式的伤害不计算弱点・抵抗力。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Medicham ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_54_R_JP.png",
-      "cardNo": "54"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_080_R_EN_LG.png",
+      "cardNo": "80"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_081_R_EN_LG.png",
+      "typeEnergy": "Fighting",
+      "type": "Pokemon",
+      "cardName": "利欧路",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Riolu",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_081_R_EN_LG.png",
+      "cardNo": "81"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_082_R_EN_LG.png",
+      "typeEnergy": "Fighting ex",
+      "type": "Pokemon",
+      "cardName": "路卡利欧",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Lucario ex",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_082_R_EN_LG.png",
+      "cardNo": "82"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010950.png",
@@ -1033,8 +1533,8 @@
       ],
       "series": "SV7",
       "ename": "Mienfoo",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_55_R_JP.png",
-      "cardNo": "55"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_083_R_EN_LG.png",
+      "cardNo": "83"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010951.png",
@@ -1049,8 +1549,8 @@
       ],
       "series": "SV7",
       "ename": "Mienshao",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_56_R_JP.png",
-      "cardNo": "56"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_084_R_EN_LG.png",
+      "cardNo": "84"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010952.png",
@@ -1069,8 +1569,8 @@
       ],
       "series": "SV7",
       "ename": "Pancham",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_57_R_JP.png",
-      "cardNo": "57"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_085_R_EN_LG.png",
+      "cardNo": "85"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010953.png",
@@ -1089,8 +1589,8 @@
       ],
       "series": "SV7",
       "ename": "Diancie",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_58_R_JP.png",
-      "cardNo": "58"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_086_R_EN_LG.png",
+      "cardNo": "86"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010954.png",
@@ -1109,8 +1609,8 @@
       ],
       "series": "SV7",
       "ename": "Crabrawler",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_59_R_JP.png",
-      "cardNo": "59"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_087_R_EN_LG.png",
+      "cardNo": "87"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010955.png",
@@ -1129,8 +1629,48 @@
       ],
       "series": "SV7",
       "ename": "Falinks",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_60_R_JP.png",
-      "cardNo": "60"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_088_R_EN_LG.png",
+      "cardNo": "88"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_089_R_EN_LG.png",
+      "typeEnergy": "Fighting",
+      "type": "Pokemon",
+      "cardName": "盐石巨灵",
+      "skillList": [
+        {
+          "name": "[特性]",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Garganacl ex",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_089_R_EN_LG.png",
+      "cardNo": "89"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_090_R_EN_LG.png",
+      "typeEnergy": "Dragon",
+      "type": "Pokemon",
+      "cardName": "故勒顿",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Koraidon",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_090_R_EN_LG.png",
+      "cardNo": "90"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010956.png",
@@ -1149,8 +1689,8 @@
       ],
       "series": "SV7",
       "ename": "Gulpin",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_61_R_JP.png",
-      "cardNo": "61"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_091_R_EN_LG.png",
+      "cardNo": "91"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010957.png",
@@ -1169,8 +1709,8 @@
       ],
       "series": "SV7",
       "ename": "Swalot",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_62_R_JP.png",
-      "cardNo": "62"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_092_R_EN_LG.png",
+      "cardNo": "92"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010958.png",
@@ -1189,8 +1729,8 @@
       ],
       "series": "SV7",
       "ename": "Pangoro",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_63_R_JP.png",
-      "cardNo": "63"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_093_R_EN_LG.png",
+      "cardNo": "93"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010959.png",
@@ -1209,8 +1749,8 @@
       ],
       "series": "SV7",
       "ename": "Impidimp",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_64_R_JP.png",
-      "cardNo": "64"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_094_R_EN_LG.png",
+      "cardNo": "94"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010960.png",
@@ -1229,8 +1769,8 @@
       ],
       "series": "SV7",
       "ename": "Morgrem",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_65_R_JP.png",
-      "cardNo": "65"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_095_R_EN_LG.png",
+      "cardNo": "95"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010961.png",
@@ -1249,8 +1789,44 @@
       ],
       "series": "SV7",
       "ename": "Grimmsnarl",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_66_R_JP.png",
-      "cardNo": "66"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_096_R_EN_LG.png",
+      "cardNo": "96"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_097_R_EN_LG.png",
+      "typeEnergy": "Colorless",
+      "type": "Pokemon",
+      "cardName": "下石鸟",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Bombirdier",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_097_R_EN_LG.png",
+      "cardNo": "97"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_098_R_EN_LG.png",
+      "typeEnergy": "Metal",
+      "type": "Pokemon",
+      "cardName": "基拉祈",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Jirachi",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_098_R_EN_LG.png",
+      "cardNo": "98"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010962.png",
@@ -1269,8 +1845,8 @@
       ],
       "series": "SV7",
       "ename": "Klink",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_67_R_JP.png",
-      "cardNo": "67"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_099_R_EN_LG.png",
+      "cardNo": "99"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010963.png",
@@ -1285,8 +1861,8 @@
       ],
       "series": "SV7",
       "ename": "Klang",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_68_R_JP.png",
-      "cardNo": "68"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_100_R_EN_LG.png",
+      "cardNo": "100"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010964.png",
@@ -1305,8 +1881,28 @@
       ],
       "series": "SV7",
       "ename": "Klinklang",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_69_R_JP.png",
-      "cardNo": "69"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_101_R_EN_LG.png",
+      "cardNo": "101"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_102_R_EN_LG.png",
+      "typeEnergy": "Metal",
+      "type": "Pokemon",
+      "cardName": "美录坦",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Meltan",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_102_R_EN_LG.png",
+      "cardNo": "102"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010965.png",
@@ -1325,8 +1921,8 @@
       ],
       "series": "SV7",
       "ename": "Meltan",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_70_R_JP.png",
-      "cardNo": "70"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_103_R_EN_LG.png",
+      "cardNo": "103"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010966.png",
@@ -1345,8 +1941,28 @@
       ],
       "series": "SV7",
       "ename": "Melmetal",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_71_R_JP.png",
-      "cardNo": "71"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_104_R_EN_LG.png",
+      "cardNo": "104"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_105_R_EN_LG.png",
+      "typeEnergy": "Metal",
+      "type": "Pokemon",
+      "cardName": "美录梅塔ex",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Melmetal ex",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_105_R_EN_LG.png",
+      "cardNo": "105"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010967.png",
@@ -1365,8 +1981,8 @@
       ],
       "series": "SV7",
       "ename": "Duraludon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_72_R_JP.png",
-      "cardNo": "72"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_106_R_EN_LG.png",
+      "cardNo": "106"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010968.png",
@@ -1385,8 +2001,40 @@
       ],
       "series": "SV7",
       "ename": "Archaludon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_73_R_JP.png",
-      "cardNo": "73"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_107_R_EN_LG.png",
+      "cardNo": "107"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_108_R_EN_LG.png",
+      "typeEnergy": "Metal",
+      "type": "Pokemon",
+      "cardName": "噗隆隆",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Varoom",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_108_R_EN_LG.png",
+      "cardNo": "108"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_109_R_EN_LG.png",
+      "typeEnergy": "Metal",
+      "type": "Pokemon",
+      "cardName": "普隆隆姆",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Revavroom",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_109_R_EN_LG.png",
+      "cardNo": "109"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010969.png",
@@ -1402,15 +2050,15 @@
           "name": "岩石封锁",
           "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Orthworm ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_74_R_JP.png",
-      "cardNo": "74"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_110_R_EN_LG.png",
+      "cardNo": "110"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010970.png",
@@ -1429,8 +2077,44 @@
       ],
       "series": "SV7",
       "ename": "Raging Bolt",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_75_R_JP.png",
-      "cardNo": "75"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_111_R_EN_LG.png",
+      "cardNo": "111"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SVI/SVI_44_R_JP_LG.png",
+      "typeEnergy": "Fighting",
+      "type": "Pokemon",
+      "cardName": "肯泰罗",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Tauros",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_112_R_EN_LG.png",
+      "cardNo": "112"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_113_R_EN_LG.png",
+      "typeEnergy": "Colorless",
+      "type": "Pokemon",
+      "cardName": "伊布",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        },
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Eevee",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_113_R_EN_LG.png",
+      "cardNo": "113"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010971.png",
@@ -1445,8 +2129,8 @@
       ],
       "series": "SV7",
       "ename": "Hoothoot",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_76_R_JP.png",
-      "cardNo": "76"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_114_R_EN_LG.png",
+      "cardNo": "114"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010972.png",
@@ -1465,8 +2149,8 @@
       ],
       "series": "SV7",
       "ename": "Noctowl",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_77_R_JP.png",
-      "cardNo": "77"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_115_R_EN_LG.png",
+      "cardNo": "115"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010973.png",
@@ -1481,8 +2165,8 @@
       ],
       "series": "SV7",
       "ename": "Glameow",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_78_R_JP.png",
-      "cardNo": "78"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_116_R_EN_LG.png",
+      "cardNo": "116"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010974.png",
@@ -1497,8 +2181,8 @@
       ],
       "series": "SV7",
       "ename": "Purugly",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_79_R_JP.png",
-      "cardNo": "79"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_117_R_EN_LG.png",
+      "cardNo": "117"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010975.png",
@@ -1517,8 +2201,8 @@
       ],
       "series": "SV7",
       "ename": "Fan Rotom",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_80_R_JP.png",
-      "cardNo": "80"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_118_R_EN_LG.png",
+      "cardNo": "118"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010976.png",
@@ -1537,8 +2221,8 @@
       ],
       "series": "SV7",
       "ename": "Bouffalant",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_81_R_JP.png",
-      "cardNo": "81"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_119_R_EN_LG.png",
+      "cardNo": "119"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010977.png",
@@ -1557,8 +2241,8 @@
       ],
       "series": "SV7",
       "ename": "Tornadus",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_82_R_JP.png",
-      "cardNo": "82"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_120_R_EN_LG.png",
+      "cardNo": "120"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010978.png",
@@ -1573,8 +2257,8 @@
       ],
       "series": "SV7",
       "ename": "Fletchling",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_83_R_JP.png",
-      "cardNo": "83"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_121_R_EN_LG.png",
+      "cardNo": "121"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010979.png",
@@ -1589,8 +2273,8 @@
       ],
       "series": "SV7",
       "ename": "Fletchinder",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_84_R_JP.png",
-      "cardNo": "84"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_122_R_EN_LG.png",
+      "cardNo": "122"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010980.png",
@@ -1605,8 +2289,8 @@
       ],
       "series": "SV7",
       "ename": "Talonflame",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_85_R_JP.png",
-      "cardNo": "85"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_123_R_EN_LG.png",
+      "cardNo": "123"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010981.png",
@@ -1621,8 +2305,8 @@
       ],
       "series": "SV7",
       "ename": "Wooloo",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_86_R_JP.png",
-      "cardNo": "86"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_124_R_EN_LG.png",
+      "cardNo": "124"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010982.png",
@@ -1641,8 +2325,44 @@
       ],
       "series": "SV7",
       "ename": "Dubwool",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_87_R_JP.png",
-      "cardNo": "87"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_125_R_EN_LG.png",
+      "cardNo": "125"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_126_R_EN_LG.png",
+      "typeEnergy": "Colorless",
+      "type": "Pokemon",
+      "cardName": "爱吃豚",
+      "skillList": [
+        {
+          "name": "",
+          "effect": ""
+        }
+      ],
+      "series": "SV7",
+      "ename": "Lechonk",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_126_R_EN_LG.png",
+      "cardNo": "126"
+    },
+    {
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_127_R_EN_LG.png",
+      "typeEnergy": "Colorless",
+      "type": "Pokemon",
+      "cardName": "摩托蜥",
+      "skillList": [
+        {
+          "name": "冲撞",
+          "effect": ""
+        },
+        {
+          "name": "拍档猛冲",
+          "effect": "在这个回合，若从手牌使出了支援者卡，则增加70点伤害。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Cyclizar",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_127_R_EN_LG.png",
+      "cardNo": "127"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010983.png",
@@ -1662,65 +2382,19 @@
           "name": "皇冠蛋白石",
           "effect": "在下个对手的回合，这只宝可梦不会受到【基础】宝可梦（【无】宝可梦除外）招式的伤害。"
         },
-				{
-					"name": "[ex规则]",
-					"effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-				}
+        {
+          "name": "[ex规则]",
+          "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+        }
       ],
       "series": "SV7",
       "ename": "Terapagos ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_88_R_JP.png",
-      "cardNo": "88"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010984.png",
-      "type": "Trainers",
-      "cardName": "玻璃喇叭",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "这张卡只有在自己的场上有「太晶」宝可梦时才可使用。"
-        },
-        {
-          "name": "",
-          "effect": "选择最多2只自己的备战区的【无】宝可梦，从弃牌区附给那些宝可梦各1张基本能量卡。"
-        },
-        {
-          "name": "[物品规则]",
-          "effect": "在自己的回合时，物品卡可不限张数使用。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Glass Trumpet",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_89_R_JP.png",
-      "cardNo": "89"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010985.png",
-      "type": "Trainers",
-      "cardName": "陈旧的根状化石",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "这张卡可作为HP60的【无】属性的【基础】宝可梦放置于场上。这张卡不会陷入特殊状态，无法撤退。若在自己的回合中，则可将场上的这张卡丢弃。"
-        },
-        {
-          "name": "[特性]原始根",
-          "effect": "只要这只宝可梦在战斗场上，对手的【基础】宝可梦使用招式所需的能量增加1个【无】能量。"
-        },
-        {
-          "name": "[物品规则]",
-          "effect": "在自己的回合时，物品卡可不限张数使用。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Antique Root Fossil",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_90_R_JP.png",
-      "cardNo": "90"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_128_R_EN_LG.png",
+      "cardNo": "128"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010986.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "陈旧的背盖化石",
       "skillList": [
         {
@@ -1738,218 +2412,35 @@
       ],
       "series": "SV7",
       "ename": "Antique Cover Fossil",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_91_R_JP.png",
-      "cardNo": "91"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_129_R_EN_LG.png",
+      "cardNo": "129"
     },
     {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010987.png",
-      "type": "Trainers",
-      "cardName": "福禄果",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010985.png",
+      "type": "Trainer",
+      "cardName": "陈旧的根状化石",
       "skillList": [
         {
           "name": "",
-          "effect": "附有这张卡的宝可梦受到对手的【超】宝可梦招式的伤害时，那个伤害「-60」点，将这张卡丢弃。"
+          "effect": "这张卡可作为HP60的【无】属性的【基础】宝可梦放置于场上。这张卡不会陷入特殊状态，无法撤退。若在自己的回合中，则可将场上的这张卡丢弃。"
         },
         {
-          "name": "[宝可梦道具规则]",
-          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+          "name": "[特性]原始根",
+          "effect": "只要这只宝可梦在战斗场上，对手的【基础】宝可梦使用招式所需的能量增加1个【无】能量。"
+        },
+        {
+          "name": "[物品规则]",
+          "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
       "series": "SV7",
-      "ename": "Payapa Berry",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_92_R_JP.png",
-      "cardNo": "92"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010988.png",
-      "type": "Trainers",
-      "cardName": "巧可果",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "‌附有这张卡的宝可梦受到对手的【火】宝可梦招式的伤害时，那个伤害「-60」点，将这张卡丢弃。"
-        },
-        {
-          "name": "[宝可梦道具规则]",
-          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Occa Berry",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_93_R_JP.png",
-      "cardNo": "93"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010989.png",
-      "type": "Trainers",
-      "cardName": "璀璨结晶",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "附有这张卡的「太晶」宝可梦使用招式时，使用那个招式所需的能量减少1个。（减少的能量任何属性皆可。）"
-        },
-        {
-          "name": "[宝可梦道具规则]",
-          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-        },
-        {
-          "name": "[ACE SPEC]",
-          "effect": "1副牌组只可放1张ACE SPEC的卡"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Sparkling Crystal",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_94_R_JP.png",
-      "cardNo": "94"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010990.png",
-      "type": "Trainers",
-      "cardName": "重力之玉",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "只要附有这张卡的宝可梦在战斗场上，双方的战斗宝可梦【撤退】所需的能量各增加1个。"
-        },
-        {
-          "name": "[宝可梦道具规则]",
-          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Gravity Orb",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_95_R_JP.png",
-      "cardNo": "95"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010991.png",
-      "type": "Trainers",
-      "cardName": "奢华炸弹",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，在使用招式的宝可梦身上放置12个伤害指示物。然后，将这张卡丢弃。"
-        },
-        {
-          "name": "[宝可梦道具规则]",
-          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-        },
-        {
-          "name": "[ACE SPEC]",
-          "effect": "1副牌组只可放1张ACE SPEC的卡"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Deluxe Bomb",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_96_R_JP.png",
-      "cardNo": "96"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010992.png",
-      "type": "Trainers",
-      "cardName": "赤松",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "从自己的牌库选择最多2张各不同属性的基本能量卡，在给对手看过后，其中1张加入手牌，剩余的能量卡附于自己的宝可梦身上。并且重洗牌库。"
-        },
-        {
-          "name": "[支援者规则]",
-          "effect": "在自己的回合时，支援者卡只可使用1张。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Crispin",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_97_R_JP.png",
-      "cardNo": "97"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010993.png",
-      "type": "Trainers",
-      "cardName": "紫竽",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "将自己的手牌全部放回牌库并重洗。然后，从牌库抽出4张卡。若对手剩余奖赏卡的张数为3张以下，则改为抽出8张卡。"
-        },
-        {
-          "name": "[支援者规则]",
-          "effect": "在自己的回合时，支援者卡只可使用1张。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Lacey",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_98_R_JP.png",
-      "cardNo": "98"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010994.png",
-      "type": "Trainers",
-      "cardName": "海岱",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "选择2张自己的手牌，以任意顺序排列，放回牌库下方。然后，从牌库抽出4张卡。（若无法放回2张自己的手牌，则无法使用这张卡。）"
-        },
-        {
-          "name": "[支援者规则]",
-          "effect": "在自己的回合时，支援者卡只可使用1张。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Kofu",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_99_R_JP.png",
-      "cardNo": "99"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010995.png",
-      "type": "Trainers",
-      "cardName": "白蕾雅",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "这张卡只有在对手剩余奖赏卡的张数为2张时才可使用。"
-        },
-        {
-          "name": "",
-          "effect": "在这个回合，若对手的战斗宝可梦因自己的「太晶」宝可梦使用的招式的伤害而【昏厥】了，则多获得1张奖赏卡。"
-        },
-        {
-          "name": "[支援者规则]",
-          "effect": "在自己的回合时，支援者卡只可使用1张。"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Briar",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_100_R_JP.png",
-      "cardNo": "100"
-    },
-    {
-      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010996.png",
-      "type": "Trainers",
-      "cardName": "壮伟硕木",
-      "skillList": [
-        {
-          "name": "",
-          "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的牌库选择1张从自己的场上的1只【基础】宝可梦进化而来的【1阶进化】宝可梦卡，放置于那只宝可梦身上完成进化。若进化了，则可继续选择1张【2阶进化】宝可梦卡，完成进化。并且重洗牌库。（自己的最初回合或刚使出的【基础】宝可梦无法完成进化。）"
-        },
-        {
-          "name": "[竞技场规则]",
-          "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
-        },
-        {
-          "name": "[ACE SPEC]",
-          "effect": "1副牌组只可放1张ACE SPEC的卡"
-        }
-      ],
-      "series": "SV7",
-      "ename": "Great Big Tree",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_101_R_JP.png",
-      "cardNo": "101"
+      "ename": "Antique Root Fossil",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_130_R_EN_LG.png",
+      "cardNo": "130"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010997.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "零之大空洞",
       "skillList": [
         {
@@ -1967,8 +2458,237 @@
       ],
       "series": "SV7",
       "ename": "Area Zero Underdepths",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV7/SV7_102_R_JP.png",
-      "cardNo": "102"
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_131_R_EN_LG.png",
+      "cardNo": "131"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010995.png",
+      "type": "Trainer",
+      "cardName": "白蕾雅",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "这张卡只有在对手剩余奖赏卡的张数为2张时才可使用。"
+        },
+        {
+          "name": "",
+          "effect": "在这个回合，若对手的战斗宝可梦因自己的「太晶」宝可梦使用的招式的伤害而【昏厥】了，则多获得1张奖赏卡。"
+        },
+        {
+          "name": "[支援者规则]",
+          "effect": "在自己的回合时，支援者卡只可使用1张。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Briar",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_132_R_EN_LG.png",
+      "cardNo": "132"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010992.png",
+      "type": "Trainer",
+      "cardName": "赤松",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "从自己的牌库选择最多2张各不同属性的基本能量卡，在给对手看过后，其中1张加入手牌，剩余的能量卡附于自己的宝可梦身上。并且重洗牌库。"
+        },
+        {
+          "name": "[支援者规则]",
+          "effect": "在自己的回合时，支援者卡只可使用1张。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Crispin",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_133_R_EN_LG.png",
+      "cardNo": "133"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010991.png",
+      "type": "Trainer",
+      "cardName": "奢华炸弹",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，在使用招式的宝可梦身上放置12个伤害指示物。然后，将这张卡丢弃。"
+        },
+        {
+          "name": "[宝可梦道具规则]",
+          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+        },
+        {
+          "name": "[ACE SPEC]",
+          "effect": "1副牌组只可放1张ACE SPEC的卡"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Deluxe Bomb",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_134_R_EN_LG.png",
+      "cardNo": "134"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010984.png",
+      "type": "Trainer",
+      "cardName": "玻璃喇叭",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "这张卡只有在自己的场上有「太晶」宝可梦时才可使用。"
+        },
+        {
+          "name": "",
+          "effect": "选择最多2只自己的备战区的【无】宝可梦，从弃牌区附给那些宝可梦各1张基本能量卡。"
+        },
+        {
+          "name": "[物品规则]",
+          "effect": "在自己的回合时，物品卡可不限张数使用。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Glass Trumpet",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_135_R_EN_LG.png",
+      "cardNo": "135"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010996.png",
+      "type": "Trainer",
+      "cardName": "壮伟硕木",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的牌库选择1张从自己的场上的1只【基础】宝可梦进化而来的【1阶进化】宝可梦卡，放置于那只宝可梦身上完成进化。若进化了，则可继续选择1张【2阶进化】宝可梦卡，完成进化。并且重洗牌库。（自己的最初回合或刚使出的【基础】宝可梦无法完成进化。）"
+        },
+        {
+          "name": "[竞技场规则]",
+          "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
+        },
+        {
+          "name": "[ACE SPEC]",
+          "effect": "1副牌组只可放1张ACE SPEC的卡"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Grand Tree",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_136_R_EN_LG.png",
+      "cardNo": "136"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010990.png",
+      "type": "Trainer",
+      "cardName": "重力之玉",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "只要附有这张卡的宝可梦在战斗场上，双方的战斗宝可梦【撤退】所需的能量各增加1个。"
+        },
+        {
+          "name": "[宝可梦道具规则]",
+          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Gravity Gemstone",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_137_R_EN_LG.png",
+      "cardNo": "137"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010994.png",
+      "type": "Trainer",
+      "cardName": "海岱",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "选择2张自己的手牌，以任意顺序排列，放回牌库下方。然后，从牌库抽出4张卡。（若无法放回2张自己的手牌，则无法使用这张卡。）"
+        },
+        {
+          "name": "[支援者规则]",
+          "effect": "在自己的回合时，支援者卡只可使用1张。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Kofu",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_138_R_EN_LG.png",
+      "cardNo": "138"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010993.png",
+      "type": "Trainer",
+      "cardName": "紫竽",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "将自己的手牌全部放回牌库并重洗。然后，从牌库抽出4张卡。若对手剩余奖赏卡的张数为3张以下，则改为抽出8张卡。"
+        },
+        {
+          "name": "[支援者规则]",
+          "effect": "在自己的回合时，支援者卡只可使用1张。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Lacey",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_139_R_EN_LG.png",
+      "cardNo": "139"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010988.png",
+      "type": "Trainer",
+      "cardName": "巧可果",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "‌附有这张卡的宝可梦受到对手的【火】宝可梦招式的伤害时，那个伤害「-60」点，将这张卡丢弃。"
+        },
+        {
+          "name": "[宝可梦道具规则]",
+          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Occa Berry",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_140_R_EN_LG.png",
+      "cardNo": "140"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010987.png",
+      "type": "Trainer",
+      "cardName": "福禄果",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "附有这张卡的宝可梦受到对手的【超】宝可梦招式的伤害时，那个伤害「-60」点，将这张卡丢弃。"
+        },
+        {
+          "name": "[宝可梦道具规则]",
+          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Payapa Berry",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_141_R_EN_LG.png",
+      "cardNo": "141"
+    },
+    {
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010989.png",
+      "type": "Trainer",
+      "cardName": "璀璨结晶",
+      "skillList": [
+        {
+          "name": "",
+          "effect": "附有这张卡的「太晶」宝可梦使用招式时，使用那个招式所需的能量减少1个。（减少的能量任何属性皆可。）"
+        },
+        {
+          "name": "[宝可梦道具规则]",
+          "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+        },
+        {
+          "name": "[ACE SPEC]",
+          "effect": "1副牌组只可放1张ACE SPEC的卡"
+        }
+      ],
+      "series": "SV7",
+      "ename": "Sparkling Crystal",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SCR/SCR_142_R_EN_LG.png",
+      "cardNo": "142"
     }
   ]
 }

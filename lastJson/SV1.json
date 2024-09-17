@@ -11,7 +11,7 @@
           "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_001_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_001_R_EN_LG.png",
       "ename": "Pineco",
       "series": "SV1",
       "cardNo": "1"
@@ -31,7 +31,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_002_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_002_R_EN_LG.png",
       "ename": "Heracross",
       "series": "SV1",
       "cardNo": "2"
@@ -47,7 +47,7 @@
           "effect": "将这只宝可梦恢复「10」HP。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_003_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_003_R_EN_LG.png",
       "ename": "Shroomish",
       "series": "SV1",
       "cardNo": "3"
@@ -63,7 +63,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_004_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_004_R_EN_LG.png",
       "ename": "Breloom",
       "series": "SV1",
       "cardNo": "4"
@@ -83,7 +83,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_005_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_005_R_EN_LG.png",
       "ename": "Cacnea",
       "series": "SV1",
       "cardNo": "5"
@@ -103,7 +103,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_006_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_006_R_EN_LG.png",
       "ename": "Cacturne",
       "series": "SV1",
       "cardNo": "6"
@@ -123,7 +123,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Grass",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_007_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_007_R_EN_LG.png",
       "ename": "Tropius",
       "series": "SV1",
       "cardNo": "7"
@@ -143,7 +143,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_008_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_008_R_EN_LG.png",
       "ename": "Scatterbug",
       "series": "SV1",
       "cardNo": "8"
@@ -163,7 +163,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_009_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_009_R_EN_LG.png",
       "ename": "Spewpa",
       "series": "SV1",
       "cardNo": "9"
@@ -183,7 +183,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_010_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_010_R_EN_LG.png",
       "ename": "Vivillon",
       "series": "SV1",
       "cardNo": "10"
@@ -203,7 +203,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_011_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_011_R_EN_LG.png",
       "ename": "Skiddo",
       "series": "SV1",
       "cardNo": "11"
@@ -223,7 +223,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_012_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_012_R_EN_LG.png",
       "ename": "Gogoat",
       "series": "SV1",
       "cardNo": "12"
@@ -243,7 +243,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Grass",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_013_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_013_R_EN_LG.png",
       "ename": "Sprigatito",
       "series": "SV1",
       "cardNo": "13"
@@ -263,7 +263,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Grass",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_014_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_014_R_EN_LG.png",
       "ename": "Floragato",
       "series": "SV1",
       "cardNo": "14"
@@ -283,7 +283,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Grass",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_015_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_015_R_EN_LG.png",
       "ename": "Meowscarada",
       "series": "SV1",
       "cardNo": "15"
@@ -303,7 +303,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_016_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_016_R_EN_LG.png",
       "ename": "Tarountula",
       "series": "SV1",
       "cardNo": "16"
@@ -319,7 +319,7 @@
           "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_017_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_017_R_EN_LG.png",
       "ename": "Tarountula",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_199_R_EN.png"
@@ -338,7 +338,7 @@
           "effect": "掷1次硬币若为反面，则这个招式失败。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_018_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_018_R_EN_LG.png",
       "ename": "Tarountula",
       "series": "SV1",
       "cardNo": "18"
@@ -362,7 +362,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_019_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_019_R_EN_LG.png",
       "ename": "Spidops ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_223_R_EN.png",
@@ -382,7 +382,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_020_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_020_R_EN_LG.png",
       "ename": "Smoliv",
       "series": "SV1",
       "cardNo": "20"
@@ -402,7 +402,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_021_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_021_R_EN_LG.png",
       "ename": "Smoliv",
       "series": "SV1",
       "cardNo": "21"
@@ -422,7 +422,7 @@
           "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷1次硬币。若为反面，则那个招式失败。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_022_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_022_R_EN_LG.png",
       "ename": "Dolliv",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_200_R_EN.png"
@@ -445,7 +445,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_023_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_023_R_EN_LG.png",
       "ename": "Arboliva",
       "series": "SV1",
       "cardNo": "23"
@@ -461,7 +461,7 @@
           "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_024_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_024_R_EN_LG.png",
       "ename": "Toedscool",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_201_R_EN.png"
@@ -484,7 +484,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_025_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_025_R_EN_LG.png",
       "ename": "Toedscool",
       "series": "SV1",
       "cardNo": "25"
@@ -504,7 +504,7 @@
           "effect": "掷3次硬币，造成正面出现的次数×80点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_026_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_026_R_EN_LG.png",
       "ename": "Toedscruel",
       "series": "SV1",
       "cardNo": "26"
@@ -520,7 +520,7 @@
           "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【灼伤】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_027_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_027_R_EN_LG.png",
       "ename": "Capsakid",
       "series": "SV1",
       "cardNo": "27"
@@ -540,7 +540,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_028_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_028_R_EN_LG.png",
       "ename": "Capsakid",
       "series": "SV1",
       "cardNo": "28"
@@ -560,7 +560,7 @@
           "effect": "若这只宝可梦身上附有【火】能量卡，则增加90点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_029_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_029_R_EN_LG.png",
       "ename": "Scovillain",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_202_R_EN.png"
@@ -579,7 +579,7 @@
           "effect": "掷硬币直到出现反面，造成正面出现的次数×30点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_030_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_030_R_EN_LG.png",
       "ename": "Growlithe",
       "series": "SV1",
       "cardNo": "30"
@@ -599,7 +599,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_031_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_031_R_EN_LG.png",
       "ename": "Growlithe",
       "series": "SV1",
       "cardNo": "31"
@@ -627,7 +627,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_032_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_032_R_EN_LG.png",
       "ename": "Arcanine ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_224_R_EN.png"
@@ -650,7 +650,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_033_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_033_R_EN_LG.png",
       "ename": "Houndour",
       "series": "SV1",
       "cardNo": "33"
@@ -670,7 +670,7 @@
           "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_034_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_034_R_EN_LG.png",
       "ename": "Houndoom",
       "series": "SV1",
       "cardNo": "34"
@@ -690,7 +690,7 @@
           "effect": "掷与这只宝可梦身上附加的【火】能量的数量相同次数的硬币，造成正面出现的次数×80点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_035_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_035_R_EN_LG.png",
       "ename": "Torkoal",
       "series": "SV1",
       "cardNo": "35"
@@ -710,7 +710,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Fire",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_036_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_036_R_EN_LG.png",
       "ename": "Fuecoco",
       "series": "SV1",
       "cardNo": "36"
@@ -730,7 +730,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Fire",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_037_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_037_R_EN_LG.png",
       "ename": "Crocalor",
       "series": "SV1",
       "cardNo": "37"
@@ -750,7 +750,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Fire",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_038_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_038_R_EN_LG.png",
       "ename": "Skeledirge",
       "series": "SV1",
       "cardNo": "38"
@@ -766,7 +766,7 @@
           "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_039_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_039_R_EN_LG.png",
       "ename": "Charcadet",
       "series": "SV1",
       "cardNo": "39"
@@ -782,7 +782,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_040_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_040_R_EN_LG.png",
       "ename": "Charcadet",
       "series": "SV1",
       "cardNo": "40"
@@ -802,7 +802,7 @@
           "effect": "将对手的战斗宝可梦【灼伤】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_041_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_041_R_EN_LG.png",
       "ename": "Armarouge",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_203_R_EN.png"
@@ -825,7 +825,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_042_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_042_R_EN_LG.png",
       "ename": "Slowpoke",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_204_R_EN.png"
@@ -848,7 +848,7 @@
           "effect": "将这只宝可梦恢复「30」HP。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_043_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_043_R_EN_LG.png",
       "ename": "Slowbro",
       "series": "SV1",
       "cardNo": "43"
@@ -864,7 +864,7 @@
           "effect": "掷1次硬币若为正面，则对手的1只宝可梦受到10点伤害。[在备战区不计算弱点・抵抗力。]"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_044_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_044_R_EN_LG.png",
       "ename": "Magikarp",
       "series": "SV1",
       "cardNo": "44"
@@ -892,7 +892,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_045_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_045_R_EN_LG.png",
       "ename": "Gyarados ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_225_R_EN.png"
@@ -915,7 +915,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_046_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_046_R_EN_LG.png",
       "ename": "Buizel",
       "series": "SV1",
       "cardNo": "46"
@@ -931,7 +931,7 @@
           "effect": "增加这只宝可梦身上附加的【水】能量的数量×20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_047_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_047_R_EN_LG.png",
       "ename": "Floatzel",
       "series": "SV1",
       "cardNo": "47"
@@ -951,7 +951,7 @@
           "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_048_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_048_R_EN_LG.png",
       "ename": "Alomomola",
       "series": "SV1",
       "cardNo": "48"
@@ -967,7 +967,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_049_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_049_R_EN_LG.png",
       "ename": "Clauncher",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_205_R_EN.png"
@@ -990,7 +990,7 @@
           "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_050_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_050_R_EN_LG.png",
       "ename": "Clawitzer",
       "series": "SV1",
       "cardNo": "50"
@@ -1010,7 +1010,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_051_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_051_R_EN_LG.png",
       "ename": "Bruxish",
       "series": "SV1",
       "cardNo": "51"
@@ -1030,7 +1030,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Water",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_052_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_052_R_EN_LG.png",
       "ename": "Quaxly",
       "series": "SV1",
       "cardNo": "52"
@@ -1050,7 +1050,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Water",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_053_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_053_R_EN_LG.png",
       "ename": "Quaxwell",
       "series": "SV1",
       "cardNo": "53"
@@ -1070,7 +1070,7 @@
       ],
       "type": "Pokemon",
       "typeEnergy": "Water",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_054_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_054_R_EN_LG.png",
       "ename": "Quaquaval",
       "series": "SV1",
       "cardNo": "54"
@@ -1086,7 +1086,7 @@
           "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_055_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_055_R_EN_LG.png",
       "ename": "Wiglett",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_206_R_EN.png"
@@ -1109,7 +1109,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_056_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_056_R_EN_LG.png",
       "ename": "Wiglett",
       "series": "SV1",
       "cardNo": "56"
@@ -1129,7 +1129,7 @@
           "effect": "掷3次硬币，将对手的牌库上方与正面出现的次数×3张相同数量的卡丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_057_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_057_R_EN_LG.png",
       "ename": "Wugtrio",
       "series": "SV1",
       "cardNo": "57"
@@ -1145,7 +1145,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_058_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_058_R_EN_LG.png",
       "ename": "Cetoddle",
       "series": "SV1",
       "cardNo": "58"
@@ -1165,7 +1165,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_059_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_059_R_EN_LG.png",
       "ename": "Cetoddle",
       "series": "SV1",
       "cardNo": "59"
@@ -1185,7 +1185,7 @@
           "effect": "减少这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_060_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_060_R_EN_LG.png",
       "ename": "Cetitan",
       "series": "SV1",
       "cardNo": "60"
@@ -1205,7 +1205,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_061_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_061_R_EN_LG.png",
       "ename": "Dondozo",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_207_R_EN.png"
@@ -1228,7 +1228,7 @@
           "effect": "将这只宝可梦与附加的卡，全部放回手牌。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_062_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_062_R_EN_LG.png",
       "ename": "Tatsugiri",
       "series": "SV1",
       "cardNo": "62"
@@ -1248,7 +1248,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_063_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_063_R_EN_LG.png",
       "ename": "Magnemite",
       "series": "SV1",
       "cardNo": "63"
@@ -1268,7 +1268,7 @@
           "effect": "这只宝可梦也受到90点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_064_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_064_R_EN_LG.png",
       "ename": "Magneton",
       "series": "SV1",
       "cardNo": "64"
@@ -1292,7 +1292,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_065_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_065_R_EN_LG.png",
       "ename": "Magnezone ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_226_R_EN.png"
@@ -1315,7 +1315,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_066_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_066_R_EN_LG.png",
       "ename": "Mareep",
       "series": "SV1",
       "cardNo": "66"
@@ -1335,7 +1335,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_067_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_067_R_EN_LG.png",
       "ename": "Flaaffy",
       "series": "SV1",
       "cardNo": "67"
@@ -1355,7 +1355,7 @@
           "effect": "增加自己的备战区的【雷】宝可梦的数量×20点伤害。这个招式的伤害不计算弱点。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_068_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_068_R_EN_LG.png",
       "ename": "Pachirisu",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_208_R_EN.png"
@@ -1374,7 +1374,7 @@
           "effect": "对手的1只宝可梦受到20点伤害。[在备战区不计算弱点・抵抗力。]"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_069_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_069_R_EN_LG.png",
       "ename": "Rotom",
       "series": "SV1",
       "cardNo": "69"
@@ -1394,7 +1394,7 @@
           "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_070_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_070_R_EN_LG.png",
       "ename": "Rotom",
       "series": "SV1",
       "cardNo": "70"
@@ -1410,7 +1410,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_071_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_071_R_EN_LG.png",
       "ename": "Toxel",
       "series": "SV1",
       "cardNo": "71"
@@ -1430,7 +1430,7 @@
           "effect": "这只宝可梦也受到20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_072_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_072_R_EN_LG.png",
       "ename": "Toxtricity",
       "series": "SV1",
       "cardNo": "72"
@@ -1446,7 +1446,7 @@
           "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_073_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_073_R_EN_LG.png",
       "ename": "Pawmi",
       "series": "SV1",
       "cardNo": "73"
@@ -1466,7 +1466,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_074_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_074_R_EN_LG.png",
       "ename": "Pawmi",
       "series": "SV1",
       "cardNo": "74"
@@ -1486,7 +1486,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_075_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_075_R_EN_LG.png",
       "ename": "Pawmo",
       "series": "SV1",
       "cardNo": "75"
@@ -1506,7 +1506,7 @@
           "effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_076_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_076_R_EN_LG.png",
       "ename": "Pawmot",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_209_R_EN.png"
@@ -1529,7 +1529,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_077_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_077_R_EN_LG.png",
       "ename": "Wattrel",
       "series": "SV1",
       "cardNo": "77"
@@ -1545,7 +1545,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_078_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_078_R_EN_LG.png",
       "ename": "Wattrel",
       "series": "SV1",
       "cardNo": "78"
@@ -1565,7 +1565,7 @@
           "effect": "选择1个这只宝可梦身上附加的【雷】能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_079_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_079_R_EN_LG.png",
       "ename": "Kilowattrel",
       "series": "SV1",
       "cardNo": "79"
@@ -1585,7 +1585,7 @@
           "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_080_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_080_R_EN_LG.png",
       "ename": "Miraidon",
       "series": "SV1",
       "cardNo": "80"
@@ -1609,7 +1609,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_081_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_081_R_EN_LG.png",
       "ename": "Miraidon ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_227_R_EN.png",
@@ -1634,7 +1634,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_082_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_082_R_EN_LG.png",
       "ename": "Drowzee",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_210_R_EN.png"
@@ -1657,7 +1657,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_083_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_083_R_EN_LG.png",
       "ename": "Hypno",
       "series": "SV1",
       "cardNo": "83"
@@ -1673,7 +1673,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_084_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_084_R_EN_LG.png",
       "ename": "Ralts",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_211_R_EN.png"
@@ -1696,7 +1696,7 @@
           "effect": "增加对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_085_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_085_R_EN_LG.png",
       "ename": "Kirlia",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_212_R_EN.png"
@@ -1723,7 +1723,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_086_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_086_R_EN_LG.png",
       "ename": "Gardevoir ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_228_R_EN.png",
@@ -1743,7 +1743,7 @@
           "effect": "掷1次硬币若为正面，则在下个对手的回合，对手无法从手牌使出物品卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_087_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_087_R_EN_LG.png",
       "ename": "Shuppet",
       "series": "SV1",
       "cardNo": "87"
@@ -1767,7 +1767,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_088_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_088_R_EN_LG.png",
       "ename": "Banette ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_229_R_EN.png"
@@ -1790,7 +1790,7 @@
           "effect": "造成这只宝可梦身上放置的伤害指示物的数量×30点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_089_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_089_R_EN_LG.png",
       "ename": "Drifloon",
       "series": "SV1",
       "cardNo": "89"
@@ -1810,7 +1810,7 @@
           "effect": "将8个伤害指示物以任意方式放置于对手的宝可梦身上。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_090_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_090_R_EN_LG.png",
       "ename": "Drifblim",
       "series": "SV1",
       "cardNo": "90"
@@ -1826,7 +1826,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_091_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_091_R_EN_LG.png",
       "ename": "Flabébé",
       "series": "SV1",
       "cardNo": "91"
@@ -1842,7 +1842,7 @@
           "effect": "掷1次硬币若为正面，则增加30点伤害，并将这只宝可梦恢复「30」HP。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_092_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_092_R_EN_LG.png",
       "ename": "Floette",
       "series": "SV1",
       "cardNo": "92"
@@ -1862,7 +1862,7 @@
           "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式的伤害「-30」点。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_093_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_093_R_EN_LG.png",
       "ename": "Florges",
       "series": "SV1",
       "cardNo": "93"
@@ -1878,7 +1878,7 @@
           "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_094_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_094_R_EN_LG.png",
       "ename": "Dedenne",
       "series": "SV1",
       "cardNo": "94"
@@ -1894,7 +1894,7 @@
           "effect": "增加對手的戰鬥寶可夢身上放置的傷害指示物的數量×10點傷害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_095_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_095_R_EN_LG.png",
       "ename": "Dedenne",
       "series": "SV1",
       "cardNo": "95"
@@ -1914,7 +1914,7 @@
           "effect": "在造成伤害前，将对手的战斗宝可梦身上附加的「宝可梦道具」卡丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_096_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_096_R_EN_LG.png",
       "ename": "Klefki",
       "series": "SV1",
       "cardNo": "96"
@@ -1930,7 +1930,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_097_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_097_R_EN_LG.png",
       "ename": "Fidough",
       "series": "SV1",
       "cardNo": "97"
@@ -1950,7 +1950,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_098_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_098_R_EN_LG.png",
       "ename": "Fidough",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_213_R_EN.png"
@@ -1973,7 +1973,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_099_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_099_R_EN_LG.png",
       "ename": "Dachsbun",
       "series": "SV1",
       "cardNo": "99"
@@ -1989,7 +1989,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_100_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_100_R_EN_LG.png",
       "ename": "Flittle",
       "series": "SV1",
       "cardNo": "100"
@@ -2005,7 +2005,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_101_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_101_R_EN_LG.png",
       "ename": "Flittle",
       "series": "SV1",
       "cardNo": "101"
@@ -2021,7 +2021,7 @@
           "effect": "将这只宝可梦与备战宝可梦互换。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_102_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_102_R_EN_LG.png",
       "ename": "Flittle",
       "series": "SV1",
       "cardNo": "102"
@@ -2041,7 +2041,7 @@
           "effect": "增加对手的战斗宝可梦身上附加的能量的数量×50点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_103_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_103_R_EN_LG.png",
       "ename": "Espathra",
       "series": "SV1",
       "cardNo": "103"
@@ -2057,7 +2057,7 @@
           "effect": "造成自己的弃牌区的【超】宝可梦的张数×10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_104_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_104_R_EN_LG.png",
       "ename": "Greavard",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_214_R_EN.png"
@@ -2080,7 +2080,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_105_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_105_R_EN_LG.png",
       "ename": "Greavard",
       "series": "SV1",
       "cardNo": "105"
@@ -2096,7 +2096,7 @@
           "effect": "增加自己的弃牌区的【超】宝可梦卡的张数×10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_106_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_106_R_EN_LG.png",
       "ename": "Houndstone",
       "series": "SV1",
       "cardNo": "106"
@@ -2112,7 +2112,7 @@
           "effect": "这只宝可梦也受到10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_107_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_107_R_EN_LG.png",
       "ename": "Mankey",
       "series": "SV1",
       "cardNo": "107"
@@ -2128,7 +2128,7 @@
           "effect": "这只宝可梦也受到20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_108_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_108_R_EN_LG.png",
       "ename": "Primeape",
       "series": "SV1",
       "cardNo": "108"
@@ -2148,7 +2148,7 @@
           "effect": "这只宝可梦也受到50点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_109_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_109_R_EN_LG.png",
       "ename": "Annihilape",
       "series": "SV1",
       "cardNo": "109"
@@ -2164,7 +2164,7 @@
           "effect": "这个招式的伤害不计算抵抗力。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_110_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_110_R_EN_LG.png",
       "ename": "Meditite",
       "series": "SV1",
       "cardNo": "110"
@@ -2184,7 +2184,7 @@
           "effect": "掷1次硬币若为反面，则这个招式失败。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_111_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_111_R_EN_LG.png",
       "ename": "Medicham",
       "series": "SV1",
       "cardNo": "111"
@@ -2204,7 +2204,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_112_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_112_R_EN_LG.png",
       "ename": "Riolu",
       "series": "SV1",
       "cardNo": "112"
@@ -2224,7 +2224,7 @@
           "effect": "这只宝可梦也受到20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_113_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_113_R_EN_LG.png",
       "ename": "Riolu",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_215_R_EN.png"
@@ -2247,7 +2247,7 @@
           "effect": "在下个自己的回合，这只宝可梦无法使用「加速突刺」。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_114_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_114_R_EN_LG.png",
       "ename": "Lucario",
       "series": "SV1",
       "cardNo": "114"
@@ -2267,7 +2267,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_115_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_115_R_EN_LG.png",
       "ename": "Sandile",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_216_R_EN.png"
@@ -2290,7 +2290,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_116_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_116_R_EN_LG.png",
       "ename": "Krokorok",
       "series": "SV1",
       "cardNo": "116"
@@ -2310,7 +2310,7 @@
           "effect": "自己的所有备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_117_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_117_R_EN_LG.png",
       "ename": "Krookodile",
       "series": "SV1",
       "cardNo": "117"
@@ -2330,7 +2330,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_118_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_118_R_EN_LG.png",
       "ename": "Hawlucha",
       "series": "SV1",
       "cardNo": "118"
@@ -2346,7 +2346,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_119_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_119_R_EN_LG.png",
       "ename": "Silicobra",
       "series": "SV1",
       "cardNo": "119"
@@ -2366,7 +2366,7 @@
           "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。然后，将对手的战斗宝可梦与附加的卡，全部放回对手的牌库并重洗。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_120_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_120_R_EN_LG.png",
       "ename": "Sandaconda",
       "series": "SV1",
       "cardNo": "120"
@@ -2386,7 +2386,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_121_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_121_R_EN_LG.png",
       "ename": "Stonjourner",
       "series": "SV1",
       "cardNo": "121"
@@ -2406,7 +2406,7 @@
           "effect": "将这只宝可梦【混乱】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_122_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_122_R_EN_LG.png",
       "ename": "Klawf",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_217_R_EN.png"
@@ -2433,7 +2433,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_123_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_123_R_EN_LG.png",
       "ename": "Great Tusk ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_230_R_EN.png",
@@ -2457,7 +2457,7 @@
           "effect": "选择3个这只宝可梦身上附加的能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_124_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_124_R_EN_LG.png",
       "ename": "Koraidon",
       "series": "SV1",
       "cardNo": "124"
@@ -2481,7 +2481,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_125_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_125_R_EN_LG.png",
       "ename": "Koraidon ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_231_R_EN.png",
@@ -2502,7 +2502,7 @@
           "effect": "将对手的战斗宝可梦【中毒】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_126_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_126_R_EN_LG.png",
       "ename": "Grimer",
       "series": "SV1",
       "cardNo": "126"
@@ -2522,7 +2522,7 @@
           "effect": "将对手的战斗宝可梦【中毒】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_127_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_127_R_EN_LG.png",
       "ename": "Muk",
       "series": "SV1",
       "cardNo": "127"
@@ -2542,7 +2542,7 @@
           "effect": "若对手的战斗宝可梦【中毒】，则增加120点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_128_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_128_R_EN_LG.png",
       "ename": "Seviper",
       "series": "SV1",
       "cardNo": "128"
@@ -2562,7 +2562,7 @@
           "effect": "掷2次硬币，若全部为正面，则将对手的战斗宝可梦【昏厥】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_129_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_129_R_EN_LG.png",
       "ename": "Spiritomb",
       "series": "SV1",
       "cardNo": "129"
@@ -2582,7 +2582,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_130_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_130_R_EN_LG.png",
       "ename": "Croagunk",
       "series": "SV1",
       "cardNo": "130"
@@ -2606,7 +2606,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_131_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_131_R_EN_LG.png",
       "ename": "Toxicroak ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_232_R_EN.png"
@@ -2629,7 +2629,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_132_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_132_R_EN_LG.png",
       "ename": "Pawniard",
       "series": "SV1",
       "cardNo": "132"
@@ -2649,7 +2649,7 @@
           "effect": "这只宝可梦也受到30点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_133_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_133_R_EN_LG.png",
       "ename": "Bisharp",
       "series": "SV1",
       "cardNo": "133"
@@ -2669,7 +2669,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_134_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_134_R_EN_LG.png",
       "ename": "Kingambit",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_220_R_EN.png"
@@ -2692,7 +2692,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_135_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_135_R_EN_LG.png",
       "ename": "Maschiff",
       "series": "SV1",
       "cardNo": "135"
@@ -2708,7 +2708,7 @@
           "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_136_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_136_R_EN_LG.png",
       "ename": "Maschiff",
       "series": "SV1",
       "cardNo": "136"
@@ -2728,7 +2728,7 @@
           "effect": "这只宝可梦也受到30点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_137_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_137_R_EN_LG.png",
       "ename": "Mabosstiff",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_218_R_EN.png"
@@ -2751,7 +2751,7 @@
           "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_138_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_138_R_EN_LG.png",
       "ename": "Bombirdier",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_219_R_EN.png"
@@ -2774,7 +2774,7 @@
           "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-50」点。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_139_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_139_R_EN_LG.png",
       "ename": "Forretress",
       "series": "SV1",
       "cardNo": "139"
@@ -2790,7 +2790,7 @@
           "effect": "将对手的战斗宝可梦【中毒】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_140_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_140_R_EN_LG.png",
       "ename": "Varoom",
       "series": "SV1",
       "cardNo": "140"
@@ -2806,7 +2806,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_141_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_141_R_EN_LG.png",
       "ename": "Varoom",
       "series": "SV1",
       "cardNo": "141"
@@ -2826,7 +2826,7 @@
           "effect": "掷1次硬币若为正面，则增加90点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_142_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_142_R_EN_LG.png",
       "ename": "Revavroom",
       "series": "SV1",
       "cardNo": "142"
@@ -2850,7 +2850,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_143_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_143_R_EN_LG.png",
       "ename": "Iron Treads ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_233_R_EN.png",
@@ -2874,7 +2874,7 @@
           "effect": "掷硬币直到出现反面，造成正面出现的次数×60点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_144_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_144_R_EN_LG.png",
       "ename": "Chansey",
       "series": "SV1",
       "cardNo": "144"
@@ -2894,7 +2894,7 @@
           "effect": "将这只宝可梦身上附加的能量卡，全部改附于1只备战宝可梦身上。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_145_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_145_R_EN_LG.png",
       "ename": "Blissey",
       "series": "SV1",
       "cardNo": "145"
@@ -2910,7 +2910,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_146_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_146_R_EN_LG.png",
       "ename": "Zangoose",
       "series": "SV1",
       "cardNo": "146"
@@ -2930,7 +2930,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_147_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_147_R_EN_LG.png",
       "ename": "Zangoose",
       "series": "SV1",
       "cardNo": "147"
@@ -2946,7 +2946,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_148_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_148_R_EN_LG.png",
       "ename": "Starly",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_221_R_EN.png"
@@ -2969,7 +2969,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_149_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_149_R_EN_LG.png",
       "ename": "Staravia",
       "series": "SV1",
       "cardNo": "149"
@@ -2989,7 +2989,7 @@
           "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_150_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_150_R_EN_LG.png",
       "ename": "Staraptor",
       "series": "SV1",
       "cardNo": "150"
@@ -3009,7 +3009,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_151_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_151_R_EN_LG.png",
       "ename": "Skwovet",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_222_R_EN.png"
@@ -3032,7 +3032,7 @@
           "effect": "若这只宝可梦附有「宝可梦道具」卡，则增加80点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_152_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_152_R_EN_LG.png",
       "ename": "Greedent",
       "series": "SV1",
       "cardNo": "152"
@@ -3052,7 +3052,7 @@
           "effect": "将对手的战斗宝可梦【睡眠】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_153_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_153_R_EN_LG.png",
       "ename": "Indeedee",
       "series": "SV1",
       "cardNo": "153"
@@ -3072,7 +3072,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_154_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_154_R_EN_LG.png",
       "ename": "Lechonk",
       "series": "SV1",
       "cardNo": "154"
@@ -3092,7 +3092,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_155_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_155_R_EN_LG.png",
       "ename": "Lechonk",
       "series": "SV1",
       "cardNo": "155"
@@ -3108,7 +3108,7 @@
           "effect": "掷1次硬币若为反面，则这个招式失败。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_156_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_156_R_EN_LG.png",
       "ename": "Lechonk",
       "series": "SV1",
       "cardNo": "156"
@@ -3128,7 +3128,7 @@
           "effect": "掷1次硬币若为反面，则在下个自己的回合，这只宝可梦无法使用招式。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_157_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_157_R_EN_LG.png",
       "ename": "Oinkologne",
       "series": "SV1",
       "cardNo": "157"
@@ -3152,7 +3152,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_158_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_158_R_EN_LG.png",
       "ename": "Oinkologne ex",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_234_R_EN.png"
@@ -3171,7 +3171,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_159_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_159_R_EN_LG.png",
       "ename": "Tandemaus",
       "series": "SV1",
       "cardNo": "159"
@@ -3187,7 +3187,7 @@
           "effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_160_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_160_R_EN_LG.png",
       "ename": "Tandemaus",
       "series": "SV1",
       "cardNo": "160"
@@ -3207,7 +3207,7 @@
           "effect": "造成自己的场上的「一家鼠」的数量×70点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_161_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_161_R_EN_LG.png",
       "ename": "Maushold",
       "series": "SV1",
       "cardNo": "161"
@@ -3227,7 +3227,7 @@
           "effect": "掷1次硬币若为反面，则这个招式失败。若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_162_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_162_R_EN_LG.png",
       "ename": "Squawkabilly",
       "series": "SV1",
       "cardNo": "162"
@@ -3243,7 +3243,7 @@
           "effect": "这只宝可梦也受到10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_163_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_163_R_EN_LG.png",
       "ename": "Cyclizar",
       "series": "SV1",
       "cardNo": "163"
@@ -3263,7 +3263,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_164_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_164_R_EN_LG.png",
       "ename": "Cyclizar",
       "series": "SV1",
       "cardNo": "164"
@@ -3283,14 +3283,14 @@
           "effect": "这只宝可梦也受到20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_165_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_165_R_EN_LG.png",
       "ename": "Flamigo",
       "series": "SV1",
       "cardNo": "165"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007724.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "派帕",
       "skillList": [
         {
@@ -3302,7 +3302,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_166_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_166_R_EN_LG.png",
       "ename": "Arven",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_235_R_EN.png",
@@ -3313,7 +3313,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007648.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "海滩场地",
       "skillList": [
         {
@@ -3325,14 +3325,14 @@
           "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_167_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_167_R_EN_LG.png",
       "ename": "Beach Court",
       "series": "SV1",
       "cardNo": "167"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008449.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "粉碎之锤",
       "skillList": [
         {
@@ -3344,14 +3344,14 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_168_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_168_R_EN_LG.png",
       "ename": "Crushing Hammer",
       "series": "SV1",
       "cardNo": "168"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007643.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "不服输头带",
       "skillList": [
         {
@@ -3363,14 +3363,14 @@
           "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_169_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_169_R_EN_LG.png",
       "ename": "Defiance Band",
       "series": "SV1",
       "cardNo": "169"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007717.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "电气发生器",
       "skillList": [
         {
@@ -3382,7 +3382,7 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_170_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_170_R_EN_LG.png",
       "ename": "Electric Generator",
       "series": "SV1",
       "cardNo": "170"
@@ -3400,8 +3400,8 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_171_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_171_R_EN_LG.png",
       "ename": "Energy Retrieval",
       "series": "SV1",
       "cardNo": "171"
@@ -3419,8 +3419,8 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_172_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_172_R_EN_LG.png",
       "ename": "Energy Search",
       "series": "SV1",
       "cardNo": "172"
@@ -3438,15 +3438,15 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_173_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_173_R_EN_LG.png",
       "ename": "Energy Switch",
       "series": "SV1",
       "cardNo": "173"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007642.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "学习装置",
       "skillList": [
         {
@@ -3458,14 +3458,14 @@
           "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_174_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_174_R_EN_LG.png",
       "ename": "Exp. Share",
       "series": "SV1",
       "cardNo": "174"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007644.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "吉尼亚",
       "skillList": [
         {
@@ -3477,7 +3477,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_175_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_175_R_EN_LG.png",
       "ename": "Jacq",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_236_R_EN.png",
@@ -3488,7 +3488,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008107.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "裁判",
       "skillList": [
         {
@@ -3500,14 +3500,14 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_176_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_176_R_EN_LG.png",
       "ename": "Judge",
       "series": "SV1",
       "cardNo": "176"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007722.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "阿枫",
       "skillList": [
         {
@@ -3519,7 +3519,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_177_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_177_R_EN_LG.png",
       "ename": "Katy",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_237_R_EN.png"
@@ -3529,7 +3529,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007726.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "桌台市",
       "skillList": [
         {
@@ -3541,14 +3541,14 @@
           "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_178_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_178_R_EN_LG.png",
       "ename": "Mesagoza",
       "series": "SV1",
       "cardNo": "178"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007725.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "米莫莎",
       "skillList": [
         {
@@ -3560,7 +3560,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_179_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_179_R_EN_LG.png",
       "ename": "Miriam",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_238_R_EN.png",
@@ -3571,7 +3571,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008466.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "妮莫",
       "skillList": [
         {
@@ -3583,14 +3583,14 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_180_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_180_R_EN_LG.png",
       "ename": "Nemona",
       "series": "SV1",
       "cardNo": "180"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007640.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "巢穴球",
       "skillList": [
         {
@@ -3602,7 +3602,7 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_181_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_181_R_EN_LG.png",
       "ename": "Nest Ball",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN.png"
@@ -3612,7 +3612,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007639.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "朋友手册",
       "skillList": [
         {
@@ -3624,14 +3624,14 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_182_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_182_R_EN_LG.png",
       "ename": "Pal Pad",
       "series": "SV1",
       "cardNo": "182"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007647.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "牡丹",
       "skillList": [
         {
@@ -3643,7 +3643,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_183_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_183_R_EN_LG.png",
       "ename": "Penny",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_239_R_EN.png",
@@ -3654,7 +3654,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007719.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "野餐篮",
       "skillList": [
         {
@@ -3666,14 +3666,14 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_184_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_184_R_EN_LG.png",
       "ename": "Picnic Basket",
       "series": "SV1",
       "cardNo": "184"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007812.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "精灵球",
       "skillList": [
         {
@@ -3685,7 +3685,7 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_185_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_185_R_EN_LG.png",
       "ename": "Poké Ball",
       "series": "SV1",
       "cardNo": "185"
@@ -3703,8 +3703,8 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_186_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_186_R_EN_LG.png",
       "ename": "Pokégear 3.0",
       "series": "SV1",
       "cardNo": "186"
@@ -3722,8 +3722,8 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_187_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_187_R_EN_LG.png",
       "ename": "Pokémon Catcher",
       "series": "SV1",
       "cardNo": "187"
@@ -3741,15 +3741,15 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_188_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_188_R_EN_LG.png",
       "ename": "Potion",
       "series": "SV1",
       "cardNo": "188"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007646.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "博士的研究（奥琳博士）",
       "skillList": [
         {
@@ -3761,7 +3761,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_189_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_189_R_EN_LG.png",
       "ename": "Professor's Research (Professor Sada)",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_240_R_EN.png"
@@ -3771,7 +3771,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008110.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "博士的研究（弗图博士）",
       "skillList": [
         {
@@ -3783,7 +3783,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_190_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_190_R_EN_LG.png",
       "ename": "Professor's Research (Professor Turo)",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_241_R_EN.png"
@@ -3793,7 +3793,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007720.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "神奇糖果",
       "skillList": [
         {
@@ -3805,7 +3805,7 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_191_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_191_R_EN_LG.png",
       "ename": "Rare Candy",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
@@ -3815,7 +3815,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007641.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "岩石胸甲",
       "skillList": [
         {
@@ -3827,14 +3827,14 @@
           "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_192_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_192_R_EN_LG.png",
       "ename": "Rock Chestplate",
       "series": "SV1",
       "cardNo": "192"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007721.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "凸凸头盔",
       "skillList": [
         {
@@ -3846,7 +3846,7 @@
           "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_193_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_193_R_EN_LG.png",
       "ename": "Rocky Helmet",
       "series": "SV1",
       "cardNo": "193"
@@ -3864,15 +3864,15 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "type": "Trainers",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_194_R_EN.png",
+      "type": "Trainer",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_194_R_EN_LG.png",
       "ename": "Switch",
       "series": "SV1",
       "cardNo": "194"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007645.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "天星队手下",
       "skillList": [
         {
@@ -3884,7 +3884,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_195_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_195_R_EN_LG.png",
       "ename": "Team Star Grunt",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_242_R_EN.png"
@@ -3894,7 +3894,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007718.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "高级球",
       "skillList": [
         {
@@ -3910,14 +3910,14 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_196_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_196_R_EN_LG.png",
       "ename": "Ultra Ball",
       "series": "SV1",
       "cardNo": "196"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008458.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "活力头带",
       "skillList": [
         {
@@ -3929,14 +3929,14 @@
           "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_197_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_197_R_EN_LG.png",
       "ename": "Vitality Band",
       "series": "SV1",
       "cardNo": "197"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008108.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "短裤小子",
       "skillList": [
         {
@@ -3948,7 +3948,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_198_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_198_R_EN_LG.png",
       "ename": "Youngster",
       "series": "SV1",
       "cardNo": "198"
@@ -3964,7 +3964,7 @@
           "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_199_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_199_R_EN_LG.png",
       "ename": "Tarountula",
       "series": "SV1",
       "cardNo": "199",
@@ -3985,7 +3985,7 @@
           "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷1次硬币。若为反面，则那个招式失败。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_200_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_200_R_EN_LG.png",
       "ename": "Dolliv",
       "series": "SV1",
       "cardNo": "200",
@@ -4002,7 +4002,7 @@
           "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_201_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_201_R_EN_LG.png",
       "ename": "Toedscool",
       "series": "SV1",
       "cardNo": "201",
@@ -4023,7 +4023,7 @@
           "effect": "若这只宝可梦身上附有【火】能量卡，则增加90点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_202_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_202_R_EN_LG.png",
       "ename": "Scovillain",
       "series": "SV1",
       "cardNo": "202",
@@ -4044,7 +4044,7 @@
           "effect": "将对手的战斗宝可梦【灼伤】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_203_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_203_R_EN_LG.png",
       "ename": "Armarouge",
       "series": "SV1",
       "cardNo": "203",
@@ -4065,7 +4065,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_204_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_204_R_EN_LG.png",
       "ename": "Slowpoke",
       "series": "SV1",
       "cardNo": "204",
@@ -4082,7 +4082,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_205_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_205_R_EN_LG.png",
       "ename": "Clauncher",
       "series": "SV1",
       "cardNo": "205",
@@ -4099,7 +4099,7 @@
           "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_206_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_206_R_EN_LG.png",
       "ename": "Wiglett",
       "series": "SV1",
       "cardNo": "206",
@@ -4120,7 +4120,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_207_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_207_R_EN_LG.png",
       "ename": "Dondozo",
       "series": "SV1",
       "cardNo": "207",
@@ -4141,7 +4141,7 @@
           "effect": "增加自己的备战区的【雷】宝可梦的数量×20点伤害。这个招式的伤害不计算弱点。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_208_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_208_R_EN_LG.png",
       "ename": "Pachirisu",
       "series": "SV1",
       "cardNo": "208",
@@ -4162,7 +4162,7 @@
           "effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_209_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_209_R_EN_LG.png",
       "ename": "Pawmot",
       "series": "SV1",
       "cardNo": "209",
@@ -4183,7 +4183,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_210_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_210_R_EN_LG.png",
       "ename": "Drowzee",
       "series": "SV1",
       "cardNo": "210",
@@ -4200,7 +4200,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_211_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_211_R_EN_LG.png",
       "ename": "Ralts",
       "series": "SV1",
       "cardNo": "211",
@@ -4221,7 +4221,7 @@
           "effect": "增加对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_212_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_212_R_EN_LG.png",
       "ename": "Kirlia",
       "series": "SV1",
       "cardNo": "212",
@@ -4242,7 +4242,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_213_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_213_R_EN_LG.png",
       "ename": "Fidough",
       "series": "SV1",
       "cardNo": "213",
@@ -4259,7 +4259,7 @@
           "effect": "造成自己的弃牌区的【超】宝可梦的张数×10点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_214_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_214_R_EN_LG.png",
       "ename": "Greavard",
       "series": "SV1",
       "cardNo": "214",
@@ -4280,7 +4280,7 @@
           "effect": "这只宝可梦也受到20点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_215_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_215_R_EN_LG.png",
       "ename": "Riolu",
       "series": "SV1",
       "cardNo": "215",
@@ -4301,7 +4301,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_216_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_216_R_EN_LG.png",
       "ename": "Sandile",
       "series": "SV1",
       "cardNo": "216",
@@ -4322,7 +4322,7 @@
           "effect": "将这只宝可梦【混乱】。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_217_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_217_R_EN_LG.png",
       "ename": "Klawf",
       "series": "SV1",
       "cardNo": "217",
@@ -4343,7 +4343,7 @@
           "effect": "这只宝可梦也受到30点伤害。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_218_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_218_R_EN_LG.png",
       "ename": "Mabosstiff",
       "series": "SV1",
       "cardNo": "218",
@@ -4364,7 +4364,7 @@
           "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_219_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_219_R_EN_LG.png",
       "ename": "Bombirdier",
       "series": "SV1",
       "cardNo": "219",
@@ -4385,7 +4385,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_220_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_220_R_EN_LG.png",
       "ename": "Kingambit",
       "series": "SV1",
       "cardNo": "220",
@@ -4402,7 +4402,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_221_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_221_R_EN_LG.png",
       "ename": "Starly",
       "series": "SV1",
       "cardNo": "221",
@@ -4423,7 +4423,7 @@
           "effect": ""
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_222_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_222_R_EN_LG.png",
       "ename": "Skwovet",
       "series": "SV1",
       "cardNo": "222",
@@ -4448,7 +4448,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_223_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_223_R_EN_LG.png",
       "ename": "Spidops ex",
       "series": "SV1",
       "cardNo": "223",
@@ -4477,7 +4477,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_224_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_224_R_EN_LG.png",
       "ename": "Arcanine ex",
       "series": "SV1",
       "cardNo": "224",
@@ -4506,7 +4506,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_225_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_225_R_EN_LG.png",
       "ename": "Gyarados ex",
       "series": "SV1",
       "cardNo": "225",
@@ -4531,7 +4531,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_226_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_226_R_EN_LG.png",
       "ename": "Magnezone ex",
       "series": "SV1",
       "cardNo": "226",
@@ -4556,7 +4556,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_227_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_227_R_EN_LG.png",
       "ename": "Miraidon ex",
       "series": "SV1",
       "cardNo": "227",
@@ -4581,7 +4581,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_228_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_228_R_EN_LG.png",
       "ename": "Gardevoir ex",
       "series": "SV1",
       "cardNo": "228",
@@ -4606,7 +4606,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_229_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_229_R_EN_LG.png",
       "ename": "Banette ex",
       "series": "SV1",
       "cardNo": "229",
@@ -4631,7 +4631,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_230_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_230_R_EN_LG.png",
       "ename": "Great Tusk ex",
       "series": "SV1",
       "cardNo": "230",
@@ -4656,7 +4656,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_231_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_231_R_EN_LG.png",
       "ename": "Koraidon ex",
       "series": "SV1",
       "cardNo": "231",
@@ -4681,7 +4681,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_232_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_232_R_EN_LG.png",
       "ename": "Toxicroak ex",
       "series": "SV1",
       "cardNo": "232",
@@ -4706,7 +4706,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_233_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_233_R_EN_LG.png",
       "ename": "Iron Treads ex",
       "series": "SV1",
       "cardNo": "233",
@@ -4731,7 +4731,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_234_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_234_R_EN_LG.png",
       "ename": "Oinkologne ex",
       "series": "SV1",
       "cardNo": "234",
@@ -4739,7 +4739,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_235_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "派帕",
       "skillList": [
         {
@@ -4751,7 +4751,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_235_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_235_R_EN_LG.png",
       "ename": "Arven",
       "series": "SV1",
       "cardNo": "235",
@@ -4759,7 +4759,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_236_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "吉尼亚",
       "skillList": [
         {
@@ -4771,7 +4771,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_236_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_236_R_EN_LG.png",
       "ename": "Jacq",
       "series": "SV1",
       "cardNo": "236",
@@ -4779,7 +4779,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_237_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "阿枫",
       "skillList": [
         {
@@ -4791,7 +4791,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_237_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_237_R_EN_LG.png",
       "ename": "Katy",
       "series": "SV1",
       "cardNo": "237",
@@ -4799,7 +4799,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_238_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "米莫莎",
       "skillList": [
         {
@@ -4811,7 +4811,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_238_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_238_R_EN_LG.png",
       "ename": "Miriam",
       "series": "SV1",
       "cardNo": "238",
@@ -4819,7 +4819,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_239_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "牡丹",
       "skillList": [
         {
@@ -4831,7 +4831,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_239_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_239_R_EN_LG.png",
       "ename": "Penny",
       "series": "SV1",
       "cardNo": "239",
@@ -4839,7 +4839,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_240_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "博士的研究（奥琳博士）",
       "skillList": [
         {
@@ -4851,7 +4851,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_240_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_240_R_EN_LG.png",
       "ename": "Professor's Research (Professor Sada)",
       "series": "SV1",
       "cardNo": "240",
@@ -4859,7 +4859,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_241_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "博士的研究（弗图博士）",
       "skillList": [
         {
@@ -4871,7 +4871,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_241_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_241_R_EN_LG.png",
       "ename": "Professor's Research (Professor Turo)",
       "series": "SV1",
       "cardNo": "241",
@@ -4879,7 +4879,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_242_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "天星队手下",
       "skillList": [
         {
@@ -4891,7 +4891,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_242_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_242_R_EN_LG.png",
       "ename": "Team Star Grunt",
       "series": "SV1",
       "cardNo": "242",
@@ -4916,7 +4916,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_243_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_243_R_EN_LG.png",
       "ename": "Spidops ex",
       "series": "SV1",
       "cardNo": "243",
@@ -4941,7 +4941,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_244_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_244_R_EN_LG.png",
       "ename": "Miraidon ex",
       "series": "SV1",
       "cardNo": "244",
@@ -4966,7 +4966,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_245_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_245_R_EN_LG.png",
       "ename": "Gardevoir ex",
       "series": "SV1",
       "cardNo": "245",
@@ -4991,7 +4991,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_246_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_246_R_EN_LG.png",
       "ename": "Great Tusk ex",
       "series": "SV1",
       "cardNo": "246",
@@ -5016,7 +5016,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_247_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_247_R_EN_LG.png",
       "ename": "Koraidon ex",
       "series": "SV1",
       "cardNo": "247",
@@ -5041,7 +5041,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_248_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_248_R_EN_LG.png",
       "ename": "Iron Treads ex",
       "series": "SV1",
       "cardNo": "248",
@@ -5049,7 +5049,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_249_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "派帕",
       "skillList": [
         {
@@ -5061,7 +5061,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_249_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_249_R_EN_LG.png",
       "ename": "Arven",
       "series": "SV1",
       "cardNo": "249",
@@ -5069,7 +5069,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_250_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "吉尼亚",
       "skillList": [
         {
@@ -5081,7 +5081,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_250_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_250_R_EN_LG.png",
       "ename": "Jacq",
       "series": "SV1",
       "cardNo": "250",
@@ -5089,7 +5089,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_251_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "米莫莎",
       "skillList": [
         {
@@ -5101,7 +5101,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_251_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_251_R_EN_LG.png",
       "ename": "Miriam",
       "series": "SV1",
       "cardNo": "251",
@@ -5109,7 +5109,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_252_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "牡丹",
       "skillList": [
         {
@@ -5121,7 +5121,7 @@
           "effect": "在自己的回合时，支援者卡只可使用1张。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_252_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_252_R_EN_LG.png",
       "ename": "Penny",
       "series": "SV1",
       "cardNo": "252",
@@ -5146,7 +5146,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_253_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_253_R_EN_LG.png",
       "ename": "Miraidon ex",
       "series": "SV1",
       "cardNo": "253",
@@ -5171,7 +5171,7 @@
           "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_254_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_254_R_EN_LG.png",
       "ename": "Koraidon ex",
       "series": "SV1",
       "cardNo": "254",
@@ -5179,7 +5179,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "巢穴球",
       "skillList": [
         {
@@ -5191,7 +5191,7 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN_LG.png",
       "ename": "Nest Ball",
       "series": "SV1",
       "cardNo": "255",
@@ -5199,7 +5199,7 @@
     },
     {
       "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "神奇糖果",
       "skillList": [
         {
@@ -5211,7 +5211,7 @@
           "effect": "在自己的回合时，物品卡可不限张数使用。"
         }
       ],
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN_LG.png",
       "ename": "Rare Candy",
       "series": "SV1",
       "cardNo": "256",

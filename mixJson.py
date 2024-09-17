@@ -160,31 +160,39 @@ def setDetList(typename, stype):
 # setDetList('SV7', 'SV7')
 
 # set 2:
+# full mode
 # let items = document.querySelectorAll('.card-page-main');
 # let arr = [], index = 0;
-# for(let i=0;i<items.length;i++){let item = items[i];arr.push({ename: item.querySelector('.card-text-name a').innerHTML, enImgUrl: item.querySelector('.card').getAttribute('data-src'), cardNo: `${index + 1}`});index++}
+# for(let i=0;i<items.length;i++){let item = items[i];arr.push({ename: item.querySelector('.card-text-name a').innerHTML, enImgUrl: item.querySelector('.card').getAttribute('src'), cardNo: `${index + 1}`});index++}
+# JSON.stringify(arr)
 def wrIdNameAIMG(fname, elist, picindex):
   with open('./lastJson/' + fname + '.json', 'r', encoding = 'utf-8') as f:
     _list = f.read()
   jObj = json.loads(_list)
-  list = []
+  # list = []
   index = 0
-  with open('./enInfo/' + elist, 'r', encoding = 'utf-8') as fs:
-    _l = fs.read()
-    item = json.loads(_l)
-  for jtxt in jObj['result']:
-    jtxt['ename'] = item['result'][index]['ename']
-    jtxt['enImgUrl'] = item['result'][index]['enImgUrl']
-    jtxt['cardNo'] = item['result'][index]['cardNo']
-    if index > picindex:
-      jtxt['imgUrl'] = item['result'][index]['enImgUrl']
-      jtxt['isHide'] = 'true'
-    index += 1
+  if elist != '':
+    with open('./enInfo/' + elist, 'r', encoding = 'utf-8') as fs:
+      _l = fs.read()
+      item = json.loads(_l)
+    for jtxt in jObj['result']:
+      jtxt['ename'] = item['result'][index]['ename']
+      jtxt['enImgUrl'] = item['result'][index]['enImgUrl']
+      jtxt['cardNo'] = item['result'][index]['cardNo']
+      if index > picindex:
+        jtxt['imgUrl'] = item['result'][index]['enImgUrl']
+        jtxt['isHide'] = 'true'
+      index += 1
+  else:
+    for jtxt in jObj['result']:
+      jtxt['enImgUrl'] = jtxt['enImgUrl'].replace(".png", "_LG.png")
   jsonTar = json.dumps(jObj, indent = 2, ensure_ascii = False)
   with open('./lastJson/' + fname + '.json', 'w', encoding = 'utf-8') as w:
     w.write(jsonTar)
       
-wrIdNameAIMG('SV7', 'SV7.json', 102)
+# wrIdNameAIMG('SV7', 'SV7.json', 142)
+# wrIdNameAIMG('SS9', '', -1)
+
 
 # 索引
 # set 3:
@@ -208,10 +216,10 @@ def setSeries(pfile):
     w.write(json.dumps(arr, separators = (',', ':'), ensure_ascii = False))
     # w.write(json.dumps(arr, indent = 2, ensure_ascii = False))
 
-# setSeries('SV1')
+# setSeries('SV7')
 
 # 合并索引
-flist = ['SV6_5', 'SV6', 'SV5', 'SV4_5', 'SV4', 'SV3_5', 'SV3', 'SV2', 'SV1']
+flist = ['SV7', 'SV6_5', 'SV6', 'SV5', 'SV4_5', 'SV4', 'SV3_5', 'SV3', 'SV2', 'SV1']
 # flist = ['SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9']
 # arr = []
 # for item in flist:

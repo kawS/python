@@ -21,7 +21,8 @@ def parse(items):
 def startGet(type, pi):
   global resultList
   pageIndex = pi
-  tarUrl = 'https://asia.pokemon-card.com/tw/card-search/list/?sortCondition=&keyword=&cardType=all&regulation=1&pokemonEnergy=&pokemonWeakness=&pokemonResistance=&pokemonMoveEnergy=&hpLowerLimit=none&hpUpperLimit=none&retreatCostLowerLimit=0&retreatCostUpperLimit=none&illustratorName=&expansionCodes=' + type + '&pageNo=' + str(pageIndex)
+  # tarUrl = 'https://asia.pokemon-card.com/tw/card-search/list/?sortCondition=&keyword=&cardType=all&regulation=1&pokemonEnergy=&pokemonWeakness=&pokemonResistance=&pokemonMoveEnergy=&hpLowerLimit=none&hpUpperLimit=none&retreatCostLowerLimit=0&retreatCostUpperLimit=none&illustratorName=&expansionCodes=' + type + '&pageNo=' + str(pageIndex)
+  tarUrl = 'https://asia.pokemon-card.com/tw/card-search/list/?pageNo=' + str(pageIndex) + '&expansionCodes=' + type
   req = requests.get(tarUrl)
   if req.status_code == 200:
     soup = BeautifulSoup(req.text, 'html.parser')
@@ -115,7 +116,7 @@ def getSerDet(type):
   #   f.write(s)
 
 # set 1:
-typeList = ['SV7']
-# getSerData()
+typeList = ['SC1b']
+getSerData()
 # set 2:
-# getSerDet('SV7')
+# getSerDet('SC1D')

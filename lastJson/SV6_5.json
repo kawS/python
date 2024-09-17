@@ -13,7 +13,7 @@
       ],
       "series": "SV6.5",
       "ename": "Joltik",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_001_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_001_R_EN_LG.png",
       "cardNo": "1"
     },
     {
@@ -33,7 +33,7 @@
       ],
       "series": "SV6.5",
       "ename": "Galvantula",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_002_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_002_R_EN_LG.png",
       "cardNo": "2"
     },
     {
@@ -53,7 +53,7 @@
       ],
       "series": "SV6.5",
       "ename": "Rowlet",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_003_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_003_R_EN_LG.png",
       "cardNo": "3"
     },
     {
@@ -73,7 +73,7 @@
       ],
       "series": "SV6.5",
       "ename": "Dartrix",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_004_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_004_R_EN_LG.png",
       "cardNo": "4"
     },
     {
@@ -93,7 +93,7 @@
       ],
       "series": "SV6.5",
       "ename": "Decidueye",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_005_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_005_R_EN_LG.png",
       "cardNo": "5"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "series": "SV6.5",
       "ename": "Tapu Bulu",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_006_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_006_R_EN_LG.png",
       "cardNo": "6",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_065_R_EN.png"
@@ -132,7 +132,7 @@
       ],
       "series": "SV6.5",
       "ename": "Houndour",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_007_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_007_R_EN_LG.png",
       "cardNo": "7",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_066_R_EN.png"
@@ -155,7 +155,7 @@
       ],
       "series": "SV6.5",
       "ename": "Houndoom",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_008_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_008_R_EN_LG.png",
       "cardNo": "8"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "series": "SV6.5",
       "ename": "Iron Moth",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_009_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_009_R_EN_LG.png",
       "cardNo": "9"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "series": "SV6.5",
       "ename": "Horsea",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_010_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_010_R_EN_LG.png",
       "cardNo": "10",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_067_R_EN.png"
@@ -218,7 +218,7 @@
       ],
       "series": "SV6.5",
       "ename": "Seadra",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_011_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_011_R_EN_LG.png",
       "cardNo": "11"
     },
     {
@@ -242,7 +242,7 @@
       ],
       "series": "SV6.5",
       "ename": "Kingdra ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_012_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_012_R_EN_LG.png",
       "cardNo": "12",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_080_R_EN.png"
@@ -265,7 +265,7 @@
       ],
       "series": "SV6.5",
       "ename": "Sneasel",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_013_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_013_R_EN_LG.png",
       "cardNo": "13"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "series": "SV6.5",
       "ename": "Weavile",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_014_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_014_R_EN_LG.png",
       "cardNo": "14"
     },
     {
@@ -313,7 +313,7 @@
       ],
       "series": "SV6.5",
       "ename": "Revavroom ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_015_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_015_R_EN_LG.png",
       "cardNo": "15",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN.png"
@@ -332,7 +332,7 @@
       ],
       "series": "SV6.5",
       "ename": "Drowzee",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_016_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_016_R_EN_LG.png",
       "cardNo": "16"
     },
     {
@@ -348,7 +348,7 @@
       ],
       "series": "SV6.5",
       "ename": "Hypno",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_017_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_017_R_EN_LG.png",
       "cardNo": "17"
     },
     {
@@ -368,7 +368,7 @@
       ],
       "series": "SV6.5",
       "ename": "Duskull",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_018_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_018_R_EN_LG.png",
       "cardNo": "18",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_068_R_EN.png"
@@ -391,7 +391,7 @@
       ],
       "series": "SV6.5",
       "ename": "Dusclops",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_019_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_019_R_EN_LG.png",
       "cardNo": "19",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_069_R_EN.png"
@@ -414,7 +414,7 @@
       ],
       "series": "SV6.5",
       "ename": "Dusknoir",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_020_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_020_R_EN_LG.png",
       "cardNo": "20",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_070_R_EN.png"
@@ -437,7 +437,7 @@
       ],
       "series": "SV6.5",
       "ename": "Cresselia",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_021_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_021_R_EN_LG.png",
       "cardNo": "21",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_071_R_EN.png"
@@ -460,7 +460,7 @@
       ],
       "series": "SV6.5",
       "ename": "Sylveon",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_022_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_022_R_EN_LG.png",
       "cardNo": "22"
     },
     {
@@ -480,7 +480,7 @@
       ],
       "series": "SV6.5",
       "ename": "Croagunk",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_023_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_023_R_EN_LG.png",
       "cardNo": "23"
     },
     {
@@ -500,7 +500,7 @@
       ],
       "series": "SV6.5",
       "ename": "Toxicroak",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_024_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_024_R_EN_LG.png",
       "cardNo": "24"
     },
     {
@@ -520,7 +520,7 @@
       ],
       "series": "SV6.5",
       "ename": "Bloodmoon Ursaluna",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_025_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_025_R_EN_LG.png",
       "cardNo": "25"
     },
     {
@@ -540,7 +540,7 @@
       ],
       "series": "SV6.5",
       "ename": "Slither Wing",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_026_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_026_R_EN_LG.png",
       "cardNo": "26"
     },
     {
@@ -560,7 +560,7 @@
       ],
       "series": "SV6.5",
       "ename": "Zubat",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_027_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_027_R_EN_LG.png",
       "cardNo": "27"
     },
     {
@@ -580,7 +580,7 @@
       ],
       "series": "SV6.5",
       "ename": "Golbat",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_028_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_028_R_EN_LG.png",
       "cardNo": "28"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "series": "SV6.5",
       "ename": "Crobat",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_029_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_029_R_EN_LG.png",
       "cardNo": "29"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "series": "SV6.5",
       "ename": "Absol",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_030_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_030_R_EN_LG.png",
       "cardNo": "30"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "series": "SV6.5",
       "ename": "Zorua",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_031_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_031_R_EN_LG.png",
       "cardNo": "31",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_075_R_EN.png"
@@ -659,7 +659,7 @@
       ],
       "series": "SV6.5",
       "ename": "Zoroark",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_032_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_032_R_EN_LG.png",
       "cardNo": "32"
     },
     {
@@ -679,7 +679,7 @@
       ],
       "series": "SV6.5",
       "ename": "Inkay",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_033_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_033_R_EN_LG.png",
       "cardNo": "33"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "series": "SV6.5",
       "ename": "Malamar",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_034_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_034_R_EN_LG.png",
       "cardNo": "34"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "series": "SV6.5",
       "ename": "Yveltal",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_035_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_035_R_EN_LG.png",
       "cardNo": "35"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "series": "SV6.5",
       "ename": "Okidogi ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_036_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_036_R_EN_LG.png",
       "cardNo": "36",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_082_R_EN.png",
@@ -771,7 +771,7 @@
       ],
       "series": "SV6.5",
       "ename": "Munkidori ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_037_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_037_R_EN_LG.png",
       "cardNo": "37",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_083_R_EN.png",
@@ -799,7 +799,7 @@
       ],
       "series": "SV6.5",
       "ename": "Fezandipiti ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_038_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_038_R_EN_LG.png",
       "cardNo": "38",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_084_R_EN.png",
@@ -827,7 +827,7 @@
       ],
       "series": "SV6.5",
       "ename": "Pecharunt ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_039_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_039_R_EN_LG.png",
       "cardNo": "39",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_085_R_EN.png",
@@ -852,7 +852,7 @@
       ],
       "series": "SV6.5",
       "ename": "Genesect",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_040_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_040_R_EN_LG.png",
       "cardNo": "40"
     },
     {
@@ -872,7 +872,7 @@
       ],
       "series": "SV6.5",
       "ename": "Cufant",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_041_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_041_R_EN_LG.png",
       "cardNo": "41",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_076_R_EN.png"
@@ -895,7 +895,7 @@
       ],
       "series": "SV6.5",
       "ename": "Copperajah",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_042_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_042_R_EN_LG.png",
       "cardNo": "42"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "series": "SV6.5",
       "ename": "Varoom",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_043_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_043_R_EN_LG.png",
       "cardNo": "43"
     },
     {
@@ -935,7 +935,7 @@
       ],
       "series": "SV6.5",
       "ename": "Axew",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_044_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_044_R_EN_LG.png",
       "cardNo": "44"
     },
     {
@@ -955,7 +955,7 @@
       ],
       "series": "SV6.5",
       "ename": "Fraxure",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_045_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_045_R_EN_LG.png",
       "cardNo": "45",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_077_R_EN.png"
@@ -978,7 +978,7 @@
       ],
       "series": "SV6.5",
       "ename": "Haxorus",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_046_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_046_R_EN_LG.png",
       "cardNo": "46"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "series": "SV6.5",
       "ename": "Kyurem",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_047_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_047_R_EN_LG.png",
       "cardNo": "47"
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "series": "SV6.5",
       "ename": "Meowth",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_048_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_048_R_EN_LG.png",
       "cardNo": "48"
     },
     {
@@ -1034,7 +1034,7 @@
       ],
       "series": "SV6.5",
       "ename": "Persian",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_049_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_049_R_EN_LG.png",
       "cardNo": "49",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_078_R_EN.png"
@@ -1057,7 +1057,7 @@
       ],
       "series": "SV6.5",
       "ename": "Eevee",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_050_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_050_R_EN_LG.png",
       "cardNo": "50"
     },
     {
@@ -1073,7 +1073,7 @@
       ],
       "series": "SV6.5",
       "ename": "Furfrou",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_051_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_051_R_EN_LG.png",
       "cardNo": "51"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "series": "SV6.5",
       "ename": "Stufful",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_052_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_052_R_EN_LG.png",
       "cardNo": "52"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "series": "SV6.5",
       "ename": "Bewear",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_053_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_053_R_EN_LG.png",
       "cardNo": "53",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_079_R_EN.png"
@@ -1117,7 +1117,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010646.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "夜间学院",
       "skillList": [
         {
@@ -1131,12 +1131,12 @@
       ],
       "series": "SV6.5",
       "ename": "Academy at Night",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_054_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_054_R_EN_LG.png",
       "cardNo": "54"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010639.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "锁链糬",
       "skillList": [
         {
@@ -1150,12 +1150,12 @@
       ],
       "series": "SV6.5",
       "ename": "Binding Mochi",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_055_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_055_R_EN_LG.png",
       "cardNo": "55"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010643.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "仙后",
       "skillList": [
         {
@@ -1173,7 +1173,7 @@
       ],
       "series": "SV6.5",
       "ename": "Cassiopeia",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_056_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_056_R_EN_LG.png",
       "cardNo": "56",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_086_R_EN.png",
@@ -1182,7 +1182,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010641.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "阿克罗玛的执著",
       "skillList": [
         {
@@ -1196,7 +1196,7 @@
       ],
       "series": "SV6.5",
       "ename": "Colress's Tenacity",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_057_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_057_R_EN_LG.png",
       "cardNo": "57",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_087_R_EN.png"
@@ -1204,7 +1204,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010636.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "危险光线",
       "skillList": [
         {
@@ -1222,12 +1222,12 @@
       ],
       "series": "SV6.5",
       "ename": "Dangerous Laser",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_058_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_058_R_EN_LG.png",
       "cardNo": "58"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010642.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "阿杏的秘招",
       "skillList": [
         {
@@ -1241,7 +1241,7 @@
       ],
       "series": "SV6.5",
       "ename": "Janine's Secret Art",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_059_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_059_R_EN_LG.png",
       "cardNo": "59",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_088_R_EN.png"
@@ -1249,7 +1249,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010645.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "中立中心",
       "skillList": [
         {
@@ -1271,12 +1271,12 @@
       ],
       "series": "SV6.5",
       "ename": "Neutralization Zone",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_060_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_060_R_EN_LG.png",
       "cardNo": "60"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010638.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "夜间担架",
       "skillList": [
         {
@@ -1290,12 +1290,12 @@
       ],
       "series": "SV6.5",
       "ename": "Night Stretcher",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_061_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_061_R_EN_LG.png",
       "cardNo": "61"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010637.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "宝可生机剂A",
       "skillList": [
         {
@@ -1317,12 +1317,12 @@
       ],
       "series": "SV6.5",
       "ename": "Poké Vital A",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_062_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_062_R_EN_LG.png",
       "cardNo": "62"
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010640.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "力之沙漏",
       "skillList": [
         {
@@ -1336,7 +1336,7 @@
       ],
       "series": "SV6.5",
       "ename": "Powerglass",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_063_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_063_R_EN_LG.png",
       "cardNo": "63",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_097_R_EN.png"
@@ -1344,7 +1344,7 @@
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010644.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "库瑟洛斯奇的企图",
       "skillList": [
         {
@@ -1358,7 +1358,7 @@
       ],
       "series": "SV6.5",
       "ename": "Xerosic's Machinations",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_064_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_064_R_EN_LG.png",
       "cardNo": "64",
       "artList": [
         "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_089_R_EN.png"
@@ -1377,7 +1377,7 @@
       ],
       "series": "SV6.5",
       "ename": "Tapu Bulu",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_065_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_065_R_EN_LG.png",
       "cardNo": "65",
       "isHide": true
     },
@@ -1398,7 +1398,7 @@
       ],
       "series": "SV6.5",
       "ename": "Houndoom",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_066_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_066_R_EN_LG.png",
       "cardNo": "66",
       "isHide": true
     },
@@ -1419,7 +1419,7 @@
       ],
       "series": "SV6.5",
       "ename": "Horsea",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_067_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_067_R_EN_LG.png",
       "cardNo": "67",
       "isHide": true
     },
@@ -1440,7 +1440,7 @@
       ],
       "series": "SV6.5",
       "ename": "Duskull",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_068_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_068_R_EN_LG.png",
       "cardNo": "68",
       "isHide": true
     },
@@ -1461,7 +1461,7 @@
       ],
       "series": "SV6.5",
       "ename": "Dusclops",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_069_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_069_R_EN_LG.png",
       "cardNo": "69",
       "isHide": true
     },
@@ -1482,7 +1482,7 @@
       ],
       "series": "SV6.5",
       "ename": "Dusknoir",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_070_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_070_R_EN_LG.png",
       "cardNo": "70",
       "isHide": true
     },
@@ -1503,7 +1503,7 @@
       ],
       "series": "SV6.5",
       "ename": "Cresselia",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_071_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_071_R_EN_LG.png",
       "cardNo": "71",
       "isHide": true
     },
@@ -1524,7 +1524,7 @@
       ],
       "series": "SV6",
       "ename": "Munkidori",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_072_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_072_R_EN_LG.png",
       "cardNo": "72",
       "isHide": true
     },
@@ -1545,7 +1545,7 @@
       ],
       "series": "SV6",
       "ename": "Fezandipiti",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_073_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_073_R_EN_LG.png",
       "cardNo": "73",
       "isHide": true
     },
@@ -1566,7 +1566,7 @@
       ],
       "series": "SV6",
       "ename": "Okidogi",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_074_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_074_R_EN_LG.png",
       "cardNo": "74",
       "isHide": true
     },
@@ -1587,7 +1587,7 @@
       ],
       "series": "SV6.5",
       "ename": "Zorua",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_075_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_075_R_EN_LG.png",
       "cardNo": "75",
       "isHide": true
     },
@@ -1608,7 +1608,7 @@
       ],
       "series": "SV6.5",
       "ename": "Cufant",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_076_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_076_R_EN_LG.png",
       "cardNo": "76",
       "isHide": true
     },
@@ -1629,7 +1629,7 @@
       ],
       "series": "SV6.5",
       "ename": "Fraxure",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_077_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_077_R_EN_LG.png",
       "cardNo": "77",
       "isHide": true
     },
@@ -1650,7 +1650,7 @@
       ],
       "series": "SV6.5",
       "ename": "Persian",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_078_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_078_R_EN_LG.png",
       "cardNo": "78",
       "isHide": true
     },
@@ -1671,7 +1671,7 @@
       ],
       "series": "SV6.5",
       "ename": "Bewear",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_079_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_079_R_EN_LG.png",
       "cardNo": "79",
       "isHide": true
     },
@@ -1696,7 +1696,7 @@
       ],
       "series": "SV6.5",
       "ename": "Kingdra ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_080_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_080_R_EN_LG.png",
       "cardNo": "80",
       "isHide": true
     },
@@ -1725,7 +1725,7 @@
       ],
       "series": "SV6.5",
       "ename": "Revavroom ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN_LG.png",
       "cardNo": "81",
       "isHide": true
     },
@@ -1750,7 +1750,7 @@
       ],
       "series": "SV6.5",
       "ename": "Okidogi ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_082_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_082_R_EN_LG.png",
       "cardNo": "82",
       "isHide": true
     },
@@ -1775,7 +1775,7 @@
       ],
       "series": "SV6.5",
       "ename": "Munkidori ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_083_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_083_R_EN_LG.png",
       "cardNo": "83",
       "isHide": true
     },
@@ -1800,7 +1800,7 @@
       ],
       "series": "SV6.5",
       "ename": "Fezandipiti ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_084_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_084_R_EN_LG.png",
       "cardNo": "84",
       "isHide": true
     },
@@ -1825,13 +1825,13 @@
       ],
       "series": "SV6.5",
       "ename": "Pecharunt ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_085_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_085_R_EN_LG.png",
       "cardNo": "85",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010886.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "仙后",
       "skillList": [
         {
@@ -1849,13 +1849,13 @@
       ],
       "series": "SV6.5",
       "ename": "Cassiopeia",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_086_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_086_R_EN_LG.png",
       "cardNo": "86",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010884.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "阿克罗玛的执著",
       "skillList": [
         {
@@ -1869,13 +1869,13 @@
       ],
       "series": "SV6.5",
       "ename": "Colress's Tenacity",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_087_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_087_R_EN_LG.png",
       "cardNo": "87",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010885.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "阿杏的秘招",
       "skillList": [
         {
@@ -1889,13 +1889,13 @@
       ],
       "series": "SV6.5",
       "ename": "Janine's Secret Art",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_088_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_088_R_EN_LG.png",
       "cardNo": "88",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010887.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "库瑟洛斯奇的企图",
       "skillList": [
         {
@@ -1909,7 +1909,7 @@
       ],
       "series": "SV6.5",
       "ename": "Xerosic's Machinations",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_089_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_089_R_EN_LG.png",
       "cardNo": "89",
       "isHide": true
     },
@@ -1934,7 +1934,7 @@
       ],
       "series": "SV6.5",
       "ename": "Okidogi ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_090_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_090_R_EN_LG.png",
       "cardNo": "90",
       "isHide": true
     },
@@ -1959,7 +1959,7 @@
       ],
       "series": "SV6.5",
       "ename": "Munkidori ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_091_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_091_R_EN_LG.png",
       "cardNo": "91",
       "isHide": true
     },
@@ -1984,7 +1984,7 @@
       ],
       "series": "SV6.5",
       "ename": "Fezandipiti ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_092_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_092_R_EN_LG.png",
       "cardNo": "92",
       "isHide": true
     },
@@ -2009,13 +2009,13 @@
       ],
       "series": "SV6.5",
       "ename": "Pecharunt ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_093_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_093_R_EN_LG.png",
       "cardNo": "93",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010892.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "仙后",
       "skillList": [
         {
@@ -2033,7 +2033,7 @@
       ],
       "series": "SV6.5",
       "ename": "Cassiopeia",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_094_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_094_R_EN_LG.png",
       "cardNo": "94",
       "isHide": true
     },
@@ -2058,13 +2058,13 @@
       ],
       "series": "SV6.5",
       "ename": "Pecharunt ex",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_095_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_095_R_EN_LG.png",
       "cardNo": "95",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010894.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "大地之容器",
       "skillList": [
         {
@@ -2081,14 +2081,14 @@
         }
       ],
       "series": "SV4",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_096_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_096_R_EN_LG.png",
       "cardNo": "96",
       "ename": "Earthen Vessel",
       "isHide": true
     },
     {
       "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010895.png",
-      "type": "Trainers",
+      "type": "Trainer",
       "cardName": "力之沙漏",
       "skillList": [
         {
@@ -2102,7 +2102,7 @@
       ],
       "series": "SV6.5",
       "ename": "Powerglass",
-      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_097_R_EN.png",
+      "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SFA/SFA_097_R_EN_LG.png",
       "cardNo": "97",
       "isHide": true
     }
