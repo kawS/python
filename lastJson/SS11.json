@@ -86,7 +86,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_005_R_EN_LG.png",
       "ename": "Parasect",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG1_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG1_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "5"
@@ -277,7 +277,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_015_R_EN_LG.png",
       "ename": "Roserade",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG2_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG2_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "15"
@@ -480,7 +480,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_026_R_EN_LG.png",
       "ename": "Chandelure",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG4_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG4_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "26"
@@ -507,7 +507,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_027_R_EN_LG.png",
       "ename": "Delphox V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_173_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_173_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "27"
@@ -914,7 +914,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_048_R_EN_LG.png",
       "ename": "Kyurem V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_174_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_174_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "48"
@@ -941,7 +941,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_049_R_EN_LG.png",
       "ename": "Kyurem VMAX",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_197_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_197_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "49"
@@ -1004,7 +1004,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_052_R_EN_LG.png",
       "ename": "Pikachu",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG5_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG5_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "52"
@@ -1091,7 +1091,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_056_R_EN_LG.png",
       "ename": "Magnezone V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_175_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_175_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "56"
@@ -1118,7 +1118,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_057_R_EN_LG.png",
       "ename": "Magnezone VSTAR",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_198_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_198_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "57"
@@ -1145,8 +1145,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_058_R_EN_LG.png",
       "ename": "Rotom V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_176_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_177_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_176_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_177_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "58"
@@ -1301,7 +1301,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_066_R_EN_LG.png",
       "ename": "Gengar",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG6_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG6_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "66"
@@ -1624,8 +1624,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_082_R_EN_LG.png",
       "ename": "Enamorus V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_178_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG18_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_178_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG18_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "82"
@@ -1664,7 +1664,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_084_R_EN_LG.png",
       "ename": "Hisuian Arcanine",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG8_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG8_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "84"
@@ -1823,8 +1823,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_092_R_EN_LG.png",
       "ename": "Aerodactyl V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_179_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_180_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_179_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_180_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "92"
@@ -1851,7 +1851,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_093_R_EN_LG.png",
       "ename": "Aerodactyl VSTAR",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_199_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_199_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "93"
@@ -2306,7 +2306,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_117_R_EN_LG.png",
       "ename": "Spiritomb",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "117"
@@ -2333,7 +2333,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_118_R_EN_LG.png",
       "ename": "Drapion V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_182_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_182_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "118"
@@ -2360,7 +2360,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_119_R_EN_LG.png",
       "ename": "Drapion VSTAR",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_200_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_200_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "119"
@@ -2571,8 +2571,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_129_R_EN_LG.png",
       "ename": "Galarian Perrserker V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_183_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_184_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_183_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_184_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "129"
@@ -2599,8 +2599,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_130_R_EN_LG.png",
       "ename": "Giratina V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_185_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_186_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_185_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_186_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "130"
@@ -2627,8 +2627,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_131_R_EN_LG.png",
       "ename": "Giratina VSTAR",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_201_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_201_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "131"
@@ -2715,7 +2715,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_135_R_EN_LG.png",
       "ename": "Hisuian Goodra V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_187_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_187_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "135"
@@ -2742,7 +2742,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_136_R_EN_LG.png",
       "ename": "Hisuian Goodra VSTAR",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_202_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_202_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "136"
@@ -2769,7 +2769,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_137_R_EN_LG.png",
       "ename": "Pidgeot V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_188_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_188_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "137"
@@ -2884,7 +2884,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_143_R_EN_LG.png",
       "ename": "Snorlax",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG10_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG10_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "143"
@@ -2975,8 +2975,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_147_R_EN_LG.png",
       "ename": "Hisuian Zoroark VSTAR",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_203_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_203_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "147"
@@ -3093,8 +3093,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_153_R_EN_LG.png",
       "ename": "Arezu",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_189_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_204_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_189_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_204_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "153"
@@ -3120,7 +3120,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_154_R_EN_LG.png",
       "ename": "Box of Disaster",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "154"
@@ -3142,8 +3142,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_155_R_EN_LG.png",
       "ename": "Colress's Experiment",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "155"
@@ -3188,8 +3188,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_157_R_EN_LG.png",
       "ename": "Fantina",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_191_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_206_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_191_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_206_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "157"
@@ -3211,8 +3211,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_158_R_EN_LG.png",
       "ename": "Iscan",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_192_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_207_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_192_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_207_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "158"
@@ -3234,8 +3234,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_159_R_EN_LG.png",
       "ename": "Lady",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_193_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_208_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_193_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_208_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "159"
@@ -3299,7 +3299,7 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_162_R_EN_LG.png",
       "ename": "Lost Vacuum",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "162"
@@ -3344,8 +3344,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_164_R_EN_LG.png",
       "ename": "Miss Fortune Sisters",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_194_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_209_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_194_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_209_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "164"
@@ -3409,8 +3409,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_167_R_EN_LG.png",
       "ename": "Thorton",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_195_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_210_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_195_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_210_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "167"
@@ -3451,8 +3451,8 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_169_R_EN_LG.png",
       "ename": "Volo",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_196_R_EN.png",
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_196_R_EN_LG.png",
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "169"
@@ -3500,7 +3500,7 @@
       "cardNo": "171"
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_172_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_172_R_EN_LG.png",
       "typeEnergy": "Grass",
       "type": "Pokemon",
       "cardName": "洗翠 顽皮雷弹V",
@@ -3525,7 +3525,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_173_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_173_R_EN_LG.png",
       "typeEnergy": "Fire",
       "type": "Pokemon",
       "cardName": "妖火红狐V",
@@ -3550,7 +3550,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_174_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_174_R_EN_LG.png",
       "typeEnergy": "Water",
       "type": "Pokemon",
       "cardName": "酋雷姆V",
@@ -3575,7 +3575,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_175_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_175_R_EN_LG.png",
       "typeEnergy": "Lightning",
       "type": "Pokemon",
       "cardName": "自爆磁怪V",
@@ -3600,7 +3600,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_176_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_176_R_EN_LG.png",
       "typeEnergy": "Lightning",
       "type": "Pokemon",
       "cardName": "洛托姆V",
@@ -3625,7 +3625,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_177_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_177_R_EN_LG.png",
       "typeEnergy": "Lightning",
       "type": "Pokemon",
       "cardName": "洛托姆V",
@@ -3650,7 +3650,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_178_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_178_R_EN_LG.png",
       "typeEnergy": "Psychic",
       "type": "Pokemon",
       "cardName": "眷恋云V",
@@ -3675,7 +3675,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_179_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_179_R_EN_LG.png",
       "typeEnergy": "Fighting",
       "type": "Pokemon",
       "cardName": "化石翼龙V",
@@ -3700,7 +3700,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_180_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_180_R_EN_LG.png",
       "typeEnergy": "Fighting",
       "type": "Pokemon",
       "cardName": "化石翼龙V",
@@ -3725,7 +3725,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_181_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_181_R_EN_LG.png",
       "typeEnergy": "Fighting",
       "type": "Pokemon",
       "cardName": "艾路雷朵V",
@@ -3746,14 +3746,14 @@
       "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_181_R_EN_LG.png",
       "ename": "Gallade V",
       "artList": [
-        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG19_R_EN.png"
+        "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG19_R_EN_LG.png"
       ],
       "series": "SS11",
       "cardNo": "181",
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_182_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_182_R_EN_LG.png",
       "typeEnergy": "Darkness",
       "type": "Pokemon",
       "cardName": "龙王蝎V",
@@ -3778,7 +3778,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_183_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_183_R_EN_LG.png",
       "typeEnergy": "Metal",
       "type": "Pokemon",
       "cardName": "伽勒尔 喵头目V",
@@ -3803,7 +3803,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_184_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_184_R_EN_LG.png",
       "typeEnergy": "Metal",
       "type": "Pokemon",
       "cardName": "伽勒尔 喵头目V",
@@ -3828,7 +3828,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_185_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_185_R_EN_LG.png",
       "typeEnergy": "Dragon",
       "type": "Pokemon",
       "cardName": "骑拉帝纳V",
@@ -3853,7 +3853,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_186_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_186_R_EN_LG.png",
       "typeEnergy": "Dragon",
       "type": "Pokemon",
       "cardName": "骑拉帝纳V",
@@ -3878,7 +3878,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_187_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_187_R_EN_LG.png",
       "typeEnergy": "Dragon",
       "type": "Pokemon",
       "cardName": "洗翠 黏美龙V",
@@ -3903,7 +3903,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_188_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_188_R_EN_LG.png",
       "typeEnergy": "Colorless",
       "type": "Pokemon",
       "cardName": "大比鸟V",
@@ -3928,7 +3928,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_189_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_189_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "火夏",
       "skillList": [
@@ -3948,7 +3948,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "阿克罗玛的实验",
       "skillList": [
@@ -3968,7 +3968,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_191_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_191_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "梅丽莎",
       "skillList": [
@@ -3992,7 +3992,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_192_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_192_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "阿芒",
       "skillList": [
@@ -4012,7 +4012,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_193_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_193_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "千金小姐",
       "skillList": [
@@ -4032,7 +4032,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_194_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_194_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "野贼三姐妹",
       "skillList": [
@@ -4052,7 +4052,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_195_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_195_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "捩木",
       "skillList": [
@@ -4072,7 +4072,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_196_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_196_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "望罗",
       "skillList": [
@@ -4092,7 +4092,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_197_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_197_R_EN_LG.png",
       "typeEnergy": "Water",
       "type": "Pokemon",
       "cardName": "酋雷姆VMAX",
@@ -4117,7 +4117,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_198_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_198_R_EN_LG.png",
       "typeEnergy": "Lightning",
       "type": "Pokemon",
       "cardName": "自爆磁怪VSTAR",
@@ -4142,7 +4142,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_199_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_199_R_EN_LG.png",
       "typeEnergy": "Fighting",
       "type": "Pokemon",
       "cardName": "化石翼龙VSTAR",
@@ -4167,7 +4167,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_200_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_200_R_EN_LG.png",
       "typeEnergy": "Darkness",
       "type": "Pokemon",
       "cardName": "龙王蝎VSTAR",
@@ -4192,7 +4192,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_201_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_201_R_EN_LG.png",
       "typeEnergy": "Dragon",
       "type": "Pokemon",
       "cardName": "骑拉帝纳VSTAR",
@@ -4217,7 +4217,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_202_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_202_R_EN_LG.png",
       "typeEnergy": "Dragon",
       "type": "Pokemon",
       "cardName": "洗翠 黏美龙VSTAR",
@@ -4242,7 +4242,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_203_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_203_R_EN_LG.png",
       "typeEnergy": "Colorless",
       "type": "Pokemon",
       "cardName": " 洗翠 索罗亚克VSTAR",
@@ -4267,7 +4267,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_204_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_204_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "火夏",
       "skillList": [
@@ -4287,7 +4287,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "阿克罗玛的实验",
       "skillList": [
@@ -4307,7 +4307,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_206_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_206_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "梅丽莎",
       "skillList": [
@@ -4331,7 +4331,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_207_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_207_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "阿芒",
       "skillList": [
@@ -4351,7 +4351,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_208_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_208_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "千金小姐",
       "skillList": [
@@ -4371,7 +4371,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_209_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_209_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "野贼三姐妹",
       "skillList": [
@@ -4391,7 +4391,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_210_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_210_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "捩木",
       "skillList": [
@@ -4411,7 +4411,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "望罗",
       "skillList": [
@@ -4431,7 +4431,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN_LG.png",
       "typeEnergy": "Dragon",
       "type": "Pokemon",
       "cardName": "骑拉帝纳VSTAR",
@@ -4456,7 +4456,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN_LG.png",
       "typeEnergy": "Colorless",
       "type": "Pokemon",
       "cardName": " 洗翠 索罗亚克VSTAR",
@@ -4481,7 +4481,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "灾祸箱",
       "skillList": [
@@ -4528,7 +4528,7 @@
       "cardNo": "215"
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_216_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_216_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "暗黑修正档",
       "skillList": [
@@ -4548,7 +4548,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "放逐吸尘器",
       "skillList": [
@@ -4572,7 +4572,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG1_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG1_R_EN_LG.png",
       "typeEnergy": "Grass",
       "type": "Pokemon",
       "cardName": "派拉斯特",
@@ -4593,7 +4593,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG2_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG2_R_EN_LG.png",
       "typeEnergy": "Grass",
       "type": "Pokemon",
       "cardName": "罗丝雷朵",
@@ -4614,7 +4614,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG4_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG4_R_EN_LG.png",
       "typeEnergy": "Fire",
       "type": "Pokemon",
       "cardName": "水晶灯火灵",
@@ -4635,7 +4635,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG5_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG5_R_EN_LG.png",
       "typeEnergy": "Lightning",
       "type": "Pokemon",
       "cardName": "皮卡丘",
@@ -4656,7 +4656,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG6_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG6_R_EN_LG.png",
       "typeEnergy": "Psychic",
       "type": "Pokemon",
       "cardName": "耿鬼",
@@ -4677,7 +4677,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG7_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG7_R_EN_LG.png",
       "typeEnergy": "Psychic",
       "type": "Pokemon",
       "cardName": "诅咒娃娃",
@@ -4698,7 +4698,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG8_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG8_R_EN_LG.png",
       "typeEnergy": "Fighting",
       "type": "Pokemon",
       "cardName": "洗翠 风速狗",
@@ -4719,7 +4719,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG9_R_EN_LG.png",
       "typeEnergy": "Darkness",
       "type": "Pokemon",
       "cardName": "花岩怪",
@@ -4740,7 +4740,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG10_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG10_R_EN_LG.png",
       "typeEnergy": "Colorless",
       "type": "Pokemon",
       "cardName": "卡比兽",
@@ -4761,7 +4761,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG11_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG11_R_EN_LG.png",
       "typeEnergy": "Colorless",
       "type": "Pokemon",
       "cardName": "飘浮泡泡",
@@ -4782,7 +4782,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG18_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG18_R_EN_LG.png",
       "typeEnergy": "Psychic",
       "type": "Pokemon",
       "cardName": "眷恋云V",
@@ -4807,7 +4807,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG19_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG19_R_EN_LG.png",
       "typeEnergy": "Fighting",
       "type": "Pokemon",
       "cardName": "艾路雷朵V",
@@ -4832,7 +4832,7 @@
       "isHide": true
     },
     {
-      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG23_R_EN.png",
+      "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG23_R_EN_LG.png",
       "type": "Trainer",
       "cardName": "冒险家的发现",
       "skillList": [

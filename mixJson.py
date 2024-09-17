@@ -185,13 +185,21 @@ def wrIdNameAIMG(fname, elist, picindex):
       index += 1
   else:
     for jtxt in jObj['result']:
-      jtxt['enImgUrl'] = jtxt['enImgUrl'].replace(".png", "_LG.png")
+      # jtxt['enImgUrl'] = jtxt['enImgUrl'].replace('.png', '_LG.png')
+      # if 'isHide' in jtxt:
+      #   jtxt['imgUrl'] = jtxt['imgUrl'].replace('.png', '_LG.png')
+      if 'artList' in jtxt:
+        newArtList = []
+        for url in jtxt['artList']:
+          new_url = url.replace('.png', '_LG.png')
+          newArtList.append(new_url)
+        jtxt['artList'] = newArtList
   jsonTar = json.dumps(jObj, indent = 2, ensure_ascii = False)
   with open('./lastJson/' + fname + '.json', 'w', encoding = 'utf-8') as w:
     w.write(jsonTar)
       
 # wrIdNameAIMG('SV7', 'SV7.json', 142)
-# wrIdNameAIMG('SS9', '', -1)
+wrIdNameAIMG('SV6_5', '', -1)
 
 
 # 索引
