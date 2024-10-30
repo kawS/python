@@ -30,7 +30,7 @@ def setAttr():
     elif re.search(r'能量', item['cardName']) != None:
       item['type'] = 'Energy'
     else:
-      item['type'] = 'Trainers'
+      item['type'] = 'Trainer'
   # print(cons)
   jsonTxt = json.dumps(cons, indent = 2, ensure_ascii = False)
   with open('./json/demo.json', 'w', encoding = 'utf-8') as f:
@@ -138,26 +138,21 @@ def setDetList(typename, stype):
   with open('./json/' + typename + '.json', 'r', encoding = 'utf-8') as f:
     list = f.read()
   jObj = json.loads(list)
-  # print(jObj)
   for jtxt in jObj:
     id = jtxt['id']
-    for file in os.listdir('./json/' + typename):
-      with open('./json/' + typename + '/' + file, 'r', encoding = 'utf-8') as ff:
-        if file == '.DS_Store':
-          continue
-        v = json.loads(ff.read())
-        if v['id'] == id:
-          if 'extraInformation' in v:
-            del v['extraInformation']
-          del v['id']
-          del v['url']
-          v['series'] = stype
-          listNew.append(v)
+    with open('./json/' + typename + '/' + stype + '-' + id + '.json', 'r', encoding = 'utf-8') as ff:
+      v = json.loads(ff.read())
+      if 'extraInformation' in v:
+        del v['extraInformation']
+      del v['id']
+      del v['url']
+      v['series'] = stype
+      listNew.append(v)
   jsonTar = json.dumps(listNew, indent = 2, ensure_ascii = False)
   with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as t:
     t.write(jsonTar)
 
-# setDetList('SV7', 'SV7')
+setDetList('SV8', 'SV8')
 
 # set 2:
 # full mode
@@ -199,7 +194,7 @@ def wrIdNameAIMG(fname, elist, picindex):
     w.write(jsonTar)
       
 # wrIdNameAIMG('SV7', 'SV7.json', 142)
-wrIdNameAIMG('SV6_5', '', -1)
+# wrIdNameAIMG('SV6_5', '', -1)
 
 
 # 索引
