@@ -116,7 +116,7 @@ def getSerDet(type):
   #   f.write(s)
 
 # set 1:
-typeList = ['SV8']
-getSerData()
+typeList = ['SVPN']
+# getSerData()
 # set 2:
-# getSerDet('SV8')
+getSerDet('SVPN')

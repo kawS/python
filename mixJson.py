@@ -133,7 +133,7 @@ def setAttrType():
 # setAttrType()
 
 # set 1:
-def setDetList(typename, stype):
+def setDetList(typename, stype, series):
   listNew = []
   with open('./json/' + typename + '.json', 'r', encoding = 'utf-8') as f:
     list = f.read()
@@ -146,13 +146,13 @@ def setDetList(typename, stype):
         del v['extraInformation']
       del v['id']
       del v['url']
-      v['series'] = stype
+      v['series'] = series
       listNew.append(v)
   jsonTar = json.dumps(listNew, indent = 2, ensure_ascii = False)
   with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as t:
     t.write(jsonTar)
 
-setDetList('SV8', 'SV8')
+# setDetList('SV8', 'SV8', 'SV8')
 
 # set 2:
 # full mode
@@ -193,9 +193,7 @@ def wrIdNameAIMG(fname, elist, picindex):
   with open('./lastJson/' + fname + '.json', 'w', encoding = 'utf-8') as w:
     w.write(jsonTar)
       
-# wrIdNameAIMG('SV7', 'SV7.json', 142)
-# wrIdNameAIMG('SV6_5', '', -1)
-
+# wrIdNameAIMG('SV8', 'SV8.json', 191)
 
 # 索引
 # set 3:
