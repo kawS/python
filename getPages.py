@@ -60,7 +60,7 @@ def getSerDet(type):
     s.keep_alive = False
     urllib3.disable_warnings()
     print(item['id'] + ' - start')
-    req = requests.get(item['url'])
+    req = requests.get(item['url'], verify=False)
     req.close()
     time.sleep(20)
     if req.status_code == 200:
@@ -116,7 +116,7 @@ def getSerDet(type):
   #   f.write(s)
 
 # set 1:
-typeList = ['SVPN']
-# getSerData()
+typeList = ['SV8a']
+getSerData()
 # set 2:
-getSerDet('SVPN')
+# getSerDet('SV8a')

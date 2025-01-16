@@ -152,7 +152,7 @@ def setDetList(typename, stype, series):
   with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as t:
     t.write(jsonTar)
 
-# setDetList('SV8', 'SV8', 'SV8')
+# setDetList('SV8a', 'SV8a', 'SV8.5')
 
 # set 2:
 # full mode
@@ -161,7 +161,7 @@ def setDetList(typename, stype, series):
 # for(let i=0;i<items.length;i++){let item = items[i];arr.push({ename: item.querySelector('.card-text-name a').innerHTML, enImgUrl: item.querySelector('.card').getAttribute('src'), cardNo: `${index + 1}`});index++}
 # JSON.stringify(arr)
 def wrIdNameAIMG(fname, elist, picindex):
-  with open('./lastJson/' + fname + '.json', 'r', encoding = 'utf-8') as f:
+  with open('./json/' + fname + '.json', 'r', encoding = 'utf-8') as f:
     _list = f.read()
   jObj = json.loads(_list)
   # list = []
@@ -173,27 +173,32 @@ def wrIdNameAIMG(fname, elist, picindex):
     for jtxt in jObj['result']:
       jtxt['ename'] = item['result'][index]['ename']
       jtxt['enImgUrl'] = item['result'][index]['enImgUrl']
-      jtxt['cardNo'] = item['result'][index]['cardNo']
+      jtxt['cardNo'] = int(item['result'][index]['cardNo'])
+      jtxt['isHide'] = 'false'
+      jtxt['pmRule'] = ''
+      jtxt['pmSpType'] = ''
+      jtxt['spType'] = ''
+      jtxt['typeTra'] = ''
       if index > picindex:
         jtxt['imgUrl'] = item['result'][index]['enImgUrl']
         jtxt['isHide'] = 'true'
       index += 1
   else:
-    for jtxt in jObj['result']:
-      # jtxt['enImgUrl'] = jtxt['enImgUrl'].replace('.png', '_LG.png')
-      # if 'isHide' in jtxt:
-      #   jtxt['imgUrl'] = jtxt['imgUrl'].replace('.png', '_LG.png')
-      if 'artList' in jtxt:
-        newArtList = []
-        for url in jtxt['artList']:
-          new_url = url.replace('.png', '_LG.png')
-          newArtList.append(new_url)
-        jtxt['artList'] = newArtList
+    for jtxt in jObj:
+      index += 1
+      jtxt['ename'] = ''
+      jtxt['enImgUrl'] = ''
+      jtxt['cardNo'] = int(index)
+      jtxt['isHide'] = 'false'
+      jtxt['pmRule'] = ''
+      jtxt['pmSpType'] = ''
+      jtxt['spType'] = ''
+      jtxt['typeTra'] = ''
   jsonTar = json.dumps(jObj, indent = 2, ensure_ascii = False)
-  with open('./lastJson/' + fname + '.json', 'w', encoding = 'utf-8') as w:
+  with open('./json/' + fname + '.json', 'w', encoding = 'utf-8') as w:
     w.write(jsonTar)
       
-# wrIdNameAIMG('SV8', 'SV8.json', 191)
+wrIdNameAIMG('SV8a', '', 0)
 
 # 索引
 # set 3:
