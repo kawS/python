@@ -152,13 +152,16 @@ def setDetList(typename, stype, series):
   with open('./json/' + typename + '.json', 'w', encoding = 'utf-8') as t:
     t.write(jsonTar)
 
-# setDetList('SV8a', 'SV8a', 'SV8.5')
+# setDetList('SV9', 'SV9', 'SV9')
 
 # set 2:
 # full mode
 # let items = document.querySelectorAll('.card-page-main');
 # let arr = [], index = 0;
-# for(let i=0;i<items.length;i++){let item = items[i];arr.push({ename: item.querySelector('.card-text-name a').innerHTML, enImgUrl: item.querySelector('.card').getAttribute('src'), cardNo: `${index + 1}`});index++}
+# for(let i=0;i<items.length;i++){let item = items[i];let tp = '';if(/Supporter/.test(item.querySelector('.card-text-type').innerHTML)){tp = 'Supporter'};
+# if(/Stadium/.test(item.querySelector('.card-text-type').innerHTML)){tp = 'Stadium'};
+# if(/Item/.test(item.querySelector('.card-text-type').innerHTML)){tp = 'Item'};
+# if(/Tool/.test(item.querySelector('.card-text-type').innerHTML)){tp = 'Tool'};arr.push({ename: item.querySelector('.card-text-name a').innerHTML, enImgUrl: item.querySelector('.card').getAttribute('src'), cardNo: `${index + 1}`, isHide: false, pmRule: / ex/.test(item.querySelector('.card-text-name a').innerHTML) ? 'EX' : '', pmSpType: /Tera/.test(item.querySelector('.card-text-ability-info')?.innerHTML) ? 'TERA' : '', spType: '', typeTra: tp});index++}
 # JSON.stringify(arr)
 def wrIdNameAIMG(fname, elist, picindex):
   with open('./json/' + fname + '.json', 'r', encoding = 'utf-8') as f:
@@ -170,15 +173,16 @@ def wrIdNameAIMG(fname, elist, picindex):
     with open('./enInfo/' + elist, 'r', encoding = 'utf-8') as fs:
       _l = fs.read()
       item = json.loads(_l)
-    for jtxt in jObj['result']:
+    # for jtxt in jObj['result']:
+    for jtxt in jObj:
       jtxt['ename'] = item['result'][index]['ename']
       jtxt['enImgUrl'] = item['result'][index]['enImgUrl']
       jtxt['cardNo'] = int(item['result'][index]['cardNo'])
-      jtxt['isHide'] = 'false'
-      jtxt['pmRule'] = ''
-      jtxt['pmSpType'] = ''
-      jtxt['spType'] = ''
-      jtxt['typeTra'] = ''
+      jtxt['isHide'] = item['result'][index]['isHide']
+      jtxt['pmRule'] = item['result'][index]['pmRule']
+      jtxt['pmSpType'] = item['result'][index]['pmSpType']
+      jtxt['spType'] = item['result'][index]['spType']
+      jtxt['typeTra'] = item['result'][index]['typeTra']
       if index > picindex:
         jtxt['imgUrl'] = item['result'][index]['enImgUrl']
         jtxt['isHide'] = 'true'
@@ -198,7 +202,7 @@ def wrIdNameAIMG(fname, elist, picindex):
   with open('./json/' + fname + '.json', 'w', encoding = 'utf-8') as w:
     w.write(jsonTar)
       
-wrIdNameAIMG('SV8a', '', 0)
+wrIdNameAIMG('SV9', 'SV9.json', 160)
 
 # 索引
 # set 3:

@@ -62,7 +62,7 @@ def getSerDet(type):
     print(item['id'] + ' - start')
     req = requests.get(item['url'], verify=False)
     req.close()
-    time.sleep(20)
+    time.sleep(10)
     if req.status_code == 200:
       soup = BeautifulSoup(req.text, 'html.parser')
       cardNameDom = soup.find('li', class_='step active')
@@ -88,12 +88,12 @@ def getSerDet(type):
           soup.find('p', class_='size'),
           soup.find('p', class_='discription')
         ]
-        extraInformation = [
-          '' if einfoDom[0] == None else converter.convert(einfoDom[0].get_text().replace('\n','').replace(' ','')),
-          '' if einfoDom[1] == None else converter.convert(einfoDom[1].get_text().replace('\n','').replace(' ','')),
-          '' if einfoDom[2] == None else converter.convert(einfoDom[2].get_text().replace('\n','').replace(' ',''))
-        ]
-        item['extraInformation'] = extraInformation
+        # extraInformation = [
+        #   '' if einfoDom[0] == None else converter.convert(einfoDom[0].get_text().replace('\n','').replace(' ','')),
+        #   '' if einfoDom[1] == None else converter.convert(einfoDom[1].get_text().replace('\n','').replace(' ','')),
+        #   '' if einfoDom[2] == None else converter.convert(einfoDom[2].get_text().replace('\n','').replace(' ',''))
+        # ]
+        # item['extraInformation'] = extraInformation
         typeDomArr = soup.find('p', class_='mainInfomation').find('img')['src'].split('/')
         typeName = typeDomArr[len(typeDomArr) - 1].split('.')[0]
         item['typeEnergy'] = typeName
@@ -102,7 +102,7 @@ def getSerDet(type):
       elif (itemType == '特殊能量卡' or itemType == '基本能量卡'):
         item['type'] = 'Energy'
       else:
-        item['type'] = 'Trainers'
+        item['type'] = 'Trainer'
       item['cardName'] = converter.convert(cardName)
       item['skillList'] = skillList
       # toJsonFile(item, type + '-' + item['id'], type + '/')
@@ -116,7 +116,7 @@ def getSerDet(type):
   #   f.write(s)
 
 # set 1:
-typeList = ['SV8a']
-getSerData()
+typeList = ['SV9']
+# getSerData()
 # set 2:
-# getSerDet('SV8a')
+getSerDet('SV9')
